@@ -1,0 +1,101 @@
+head	1.4;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.4
+date	2010.07.01.20.17.37;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.07.01.20.12.25;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.07.01.20.03.02;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.07.01.19.56.00;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@remove dollar sign before array()
+@
+text
+@<?php
+
+
+function init_tam_aliases( $file )
+// return an array mapped $result[ TAMalias ] = NCCalias;
+{
+	$result = array();
+	$handle = fopen( $file, "r" );
+	if ($handle) {
+        	$line = fgets( $handle, 1024 );	// 1k is plenty!
+    		while (!feof($handle)) {
+// strip trailing newline
+			$line = str_replace( "\n", "", $line );
+			list( $tam, $ncc ) = explode( ' ', $line );
+			$result[ $tam ] = $ncc;
+        		$line = fgets( $handle, 1024 );
+    		}
+    		fclose($handle);
+	}
+	return( $result );
+}
+
+$tam_alias = init_tam_aliases( 'TAM-aliases.txt' );
+
+
+?>
+@
+
+
+1.3
+log
+@remove @@ from fopen, create global $tam_alias with function result
+@
+text
+@d7 1
+a7 1
+	$result = $array();
+@
+
+
+1.2
+log
+@return $result
+@
+text
+@d8 1
+a8 1
+	$handle = @@fopen( $file, "r" );
+d23 1
+a23 1
+init_tam_aliases( 'TAM-aliases.txt' );
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+a7 1
+	$result = NULL;
+d20 1
+@

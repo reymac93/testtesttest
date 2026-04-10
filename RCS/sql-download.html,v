@@ -1,0 +1,32 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2010.06.08.17.14.58;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@Initial check-in.  HTML file that prompts the user to download the sql file.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<html>
+	<form action="fetchfile.php" method="GET">
+	<div>
+	<input type="submit" name="action" value="Download SQL">
+	<input type="submit" name="action" value="Return">
+	</div>
+	</form>
+</html>
+@

@@ -1,0 +1,395 @@
+head	1.15;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.15
+date	2015.10.18.23.32.08;	author root;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2012.10.29.17.35.27;	author root;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2012.09.28.20.04.53;	author root;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2012.09.28.19.59.50;	author root;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2012.09.27.23.30.20;	author root;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2012.04.24.19.07.59;	author root;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.06.28.19.28.39;	author root;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.06.22.01.29.40;	author james;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.20.21.47.05;	author james;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.20.04.33.12;	author james;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.19.23.51.27;	author james;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.10.16.13.57;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.09.18.16.29;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.09.17.40.20;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.08.17.15.44;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.15
+log
+@Implement support for 'DelNet' action to delete all detail lines
+that have the same network as the detail line that was clicked on.
+Useful when a contract has numerous detail lines that all have the
+same incorrect/invalid/unavailable network identifier.
+@
+text
+@<?
+
+define( 'DOWNLOAD_LABEL', 'Download SQL' );
+define( 'IMPORT_LABEL',   'Import' );
+define( 'SELECT_LABEL',   'Select' );
+define( 'RETURN_LABEL',   'Cancel' );
+define( 'NEXT_LABEL',     'Next' );
+define( 'PREV_LABEL',     'Prev' );
+define( 'DEL_LN_LABEL',   'DelLn' );
+define( 'DEL_NET_LABEL',  'DelNet' );
+define( 'DEL_CONT_LABEL', 'Delete Contract' );
+
+$return_url = $_SERVER['HTTP_REFERER'];
+
+if (session_start()) {
+
+//echo "GET<br>\n";
+//var_dump( $_GET );
+//echo "<br>";
+
+	$action = $_GET[ 'action' ];
+
+	if ($action == DOWNLOAD_LABEL) { // SQL code download is no longer supported
+
+		$filnam = $_SESSION[ 'sql_file' ];
+		unset( $_SESSION[ 'sql_file' ] );
+		header( 'Content-type: application/force-download' );
+		header( 'Content-Transfer-Encoding: Binary' );
+		header( 'Content-length: ' . filesize( $filnam ) );
+		header( 'Content-disposition: attachment; filename="' .
+				basename( $filnam ) . '"' );
+		readfile( $filnam );
+
+	} elseif ($action == IMPORT_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'IMPORT';
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == SELECT_LABEL) {
+
+		$value = $_GET[ 'syscode' ];	// value is actually a p_cont_key index
+		if (strlen( $value ) <= 5 && 
+		  preg_match( '/^[0-9]*/', $value ) > 0) { // treat as an array key
+			$_SESSION[ 'state_value' ] = 'DISPLAY_CONTRACT';
+			$_SESSION[ 'cont_key'    ] = intval( $value );
+			header( 'Location: ' . $return_url );
+		} // if
+
+	} elseif ($action == RETURN_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'BEGIN';
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == NEXT_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'DISPLAY_NEXT';
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == PREV_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'DISPLAY_PREV';
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == DEL_LN_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'DELETE_LINE';
+		$_SESSION[ 'LineID' ] = $_GET[ 'LineID' ];
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == DEL_NET_LABEL) {
+
+		// delete all line items that have network matching this line's network
+		$_SESSION[ 'state_value' ] = 'DELETE_NETWORK';
+		$_SESSION[ 'LineID' ] = $_GET[ 'LineID' ];
+		header( 'Location: ' . $return_url );
+
+	} elseif ($action == DEL_CONT_LABEL) {
+
+		$_SESSION[ 'state_value' ] = 'DELETE_CONTRACT';
+		header( 'Location: ' . $return_url );
+
+	} elseif (strlen( $action ) <= 5 && 
+		  preg_match( '/^[0-9]*/', $action ) > 0) { // treat as an array key
+
+		$_SESSION[ 'state_value' ] = 'DISPLAY_CONTRACT';
+		$_SESSION[ 'cont_key'    ] = $action;
+		header( 'Location: ' . $return_url );
+
+	} // if action
+
+} // if session
+
+?>
+@
+
+
+1.14
+log
+@add new label 'SELECT_LABEL'; remove obsolete comment about sql_file;
+add support for SELECT_LABEL to allow direct selection of a cont_key
+value based on a dropdown button value.
+@
+text
+@d10 1
+d70 7
+@
+
+
+1.13
+log
+@Ooops, had a duplicate 'DEFINE' label, corrected to be 'DEL_CONT_LABEL'
+@
+text
+@d5 1
+a11 8
+//////////////////////////////////////////////////
+//
+// the client's session array must contain a subscript
+// 'sql_file' which is the full server path to the
+// file we will send.
+//
+//////////////////////////////////////////////////
+
+d22 1
+a22 1
+	if ($action == DOWNLOAD_LABEL) {
+d38 10
+@
+
+
+1.12
+log
+@add 'Delete Contract' support.
+@
+text
+@d9 1
+a9 1
+define( 'DEL_LN_LABEL',   'Delete Contract' );
+@
+
+
+1.11
+log
+@add support for DEL_LN_LABEL transitioning to state DELETE_LINE.
+@
+text
+@d9 1
+d66 5
+@
+
+
+1.10
+log
+@add missing quotes on defines at top
+@
+text
+@d8 1
+d32 5
+a36 5
+		header( "Content-type: application/force-download" );
+		header( "Content-Transfer-Encoding: Binary" );
+		header( "Content-length: " . filesize( $filnam ) );
+		header( "Content-disposition: attachment; filename=\"" .
+				basename( $filnam ) . "\"" );
+d41 2
+a42 2
+		$_SESSION[ "state_value" ] = 'IMPORT';
+		header ("Location: " . $return_url );
+d46 2
+a47 2
+		$_SESSION[ "state_value" ] = 'BEGIN';
+		header ("Location: " . $return_url );
+d51 2
+a52 2
+		$_SESSION[ "state_value" ] = 'DISPLAY_NEXT';
+		header ("Location: " . $return_url );
+d56 8
+a63 2
+		$_SESSION[ "state_value" ] = 'DISPLAY_PREV';
+		header ("Location: " . $return_url );
+d68 3
+a70 3
+		$_SESSION[ "state_value" ] = 'DISPLAY_CONTRACT';
+		$_SESSION[ "cont_key"    ] = $action;
+		header ("Location: " . $return_url );
+@
+
+
+1.9
+log
+@use $_SERVER['HTTP_REFERER'] to determine $return_url.
+@
+text
+@d3 5
+a7 5
+define( DOWNLOAD_LABEL, 'Download SQL' );
+define( IMPORT_LABEL,   'Import' );
+define( RETURN_LABEL,   'Cancel' );
+define( NEXT_LABEL,     'Next' );
+define( PREV_LABEL,     'Prev' );
+@
+
+
+1.8
+log
+@change key check to length of 5 or less, all characters to be decimal
+digits.
+@
+text
+@d17 1
+a17 1
+$return_url = "xml_import.php";
+@
+
+
+1.7
+log
+@add logic to process direct selection of an contract arra key letter.
+@
+text
+@d58 2
+a59 2
+	} elseif (strlen( $action ) == 1 && 
+		  preg_match( '/^[A-Z]$/', $action ) > 0) { // treat as an array key
+@
+
+
+1.6
+log
+@add PREV/NEXT logic
+@
+text
+@d4 1
+a4 1
+define( IMPORT_LABEL,   'Import Order' );
+d58 7
+@
+
+
+1.5
+log
+@change return_url to xml_import.php
+@
+text
+@d4 4
+a7 2
+define( IMPORT_LABEL, 'Import Order' );
+define( RETURN_LABEL, 'Cancel' );
+d48 10
+@
+
+
+1.4
+log
+@change URL from index.php to ncc_xml_import.php
+@
+text
+@d15 1
+a15 1
+$return_url = "ncc_xml_import.php";
+@
+
+
+1.3
+log
+@added IMPORT_LABEL logic
+@
+text
+@d15 1
+a15 1
+$return_url = "index.php";
+@
+
+
+1.2
+log
+@Change 'Return' to 'Cancel'
+@
+text
+@d4 1
+d36 5
+d43 1
+d46 1
+a46 1
+	}
+d48 1
+a48 1
+}
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 1
+a4 1
+define( RETURN_LABEL, 'Return' );
+@

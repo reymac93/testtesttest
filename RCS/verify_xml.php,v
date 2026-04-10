@@ -1,0 +1,3915 @@
+head	1.67;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.67
+date	2013.02.27.02.12.15;	author root;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2013.02.27.00.50.32;	author root;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2013.02.11.22.07.24;	author root;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2012.11.01.21.59.53;	author root;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2012.11.01.21.12.43;	author root;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2012.11.01.20.42.36;	author root;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2012.11.01.20.00.16;	author root;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2012.11.01.19.02.24;	author root;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2012.10.03.22.08.13;	author root;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2012.10.02.22.32.24;	author root;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2012.09.28.19.45.35;	author root;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2012.09.28.16.53.49;	author root;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2012.09.28.05.33.51;	author root;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2012.09.28.03.09.12;	author root;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2012.09.28.03.08.01;	author root;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2012.09.28.01.20.28;	author root;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2012.09.27.20.49.50;	author root;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2012.09.27.20.05.06;	author root;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2012.09.26.23.03.32;	author root;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2012.09.26.22.48.24;	author root;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2012.09.26.22.19.58;	author root;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2012.09.06.01.43.01;	author root;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2012.08.31.05.20.50;	author root;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2012.08.31.00.51.24;	author root;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2012.04.19.23.46.50;	author root;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2012.04.19.21.44.50;	author root;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2011.12.22.21.05.07;	author root;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2010.07.19.18.43.39;	author james;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2010.07.02.20.09.09;	author james;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2010.06.30.22.55.20;	author james;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2010.06.25.07.22.38;	author james;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2010.06.24.22.09.07;	author james;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2010.06.24.20.47.56;	author james;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2010.06.24.20.22.25;	author james;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2010.06.24.00.32.47;	author james;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2010.06.24.00.05.36;	author james;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2010.06.23.23.49.40;	author james;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2010.06.23.21.01.23;	author james;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2010.06.22.04.31.36;	author james;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2010.06.22.03.43.39;	author james;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2010.06.22.03.36.16;	author james;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2010.06.22.03.35.46;	author james;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2010.06.22.01.31.10;	author james;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2010.06.20.23.09.10;	author james;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2010.06.20.06.48.41;	author james;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2010.06.20.06.12.46;	author james;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2010.06.20.05.44.08;	author james;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2010.06.20.04.52.25;	author james;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2010.06.20.03.50.48;	author james;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2010.06.20.03.34.16;	author james;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2010.06.19.23.13.13;	author james;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2010.06.19.22.43.47;	author james;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2010.06.19.22.34.46;	author james;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2010.06.19.22.27.52;	author james;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2010.06.19.19.47.24;	author james;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2010.06.19.18.42.03;	author james;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2010.06.19.00.26.01;	author james;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2010.06.18.23.14.59;	author james;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.06.18.22.46.06;	author james;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.06.18.22.18.25;	author james;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.18.05.57.24;	author james;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.16.01.13.55;	author james;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.10.04.20.01;	author james;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.10.03.25.23;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.09.22.31.42;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.09.22.01.47;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.09.18.15.22;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@new file, cloned from ncc_insert_sql.php
+@
+
+
+1.67
+log
+@disable header version number checking
+@
+text
+@<?
+
+//function array_of_networks_ordered( $p_detail_array )
+//
+//// build an array of the network aliases from the order detail 
+//// line passed.  $p_detail_array holds just one contract.
+//// we want no duplicates, just one occurrence of each different
+//// alias.
+//// return NULL if error, otherwise an array 0..n-1 of n networks
+//// on the order.
+//
+//{
+//
+//        $network_array = array();
+//
+//// build the array using the network ID as the key.
+//// then return the array of keys, and we'll have no dupes.
+//
+//	foreach ($p_detail_array as $line)
+//		$network_array[ $line[ 'XMLNetwork' ] ] = 1;	// any value will do
+//
+//	return( array_keys( $network_array ) );
+//
+//} // array_of_networks_ordered
+
+
+function array_of_native_networks( $p_sitename, $db_conn, $p_msg_log )
+
+// build an array of the network name aliases available at 
+// $p_sitename.  No duplicates, just one occurrence of each.
+// The alias is the array key, and the native network is
+// the array element value, such that $a[ 'alias' ] => 'native'
+// return NULL if error, otherwise an associative array of 
+// networks at the site.
+
+{
+GLOBAL $DEBUG;
+
+	$network_array = NULL;
+
+	$qry = "SELECT Networks FROM registration WHERE SiteName = '$p_sitename'";
+	$result = mysql_query( $qry, $db_conn );
+	if ($result) {
+
+		$net_string = "";
+		while ($row = mysql_fetch_array( $result )) {
+			$net_string .= $row[ 0 ] . " ";
+		} // while
+
+// That's a string similar to:
+// DISC-E* ESPN    SPIK-E* TLC-E   TBS-E*  TNT-E*  USA-E   CNN*
+
+// convert the asterisks to whitespace
+		$net_string = trim( str_replace( "*", " ", $net_string ));
+
+// split string into an array, delimited wherever one or more spaces is found
+		$string_array = preg_split( '/  */', $net_string );
+
+// now step through that string_array, and look up each one in
+// the network database table.  Create our final $network_array with 
+// the array key being the alias tag, and the array element value
+// being the native network tag.
+		$network_array = array();
+		foreach ($string_array as $native) {
+			$alias = network_alias( $native, $db_conn );
+			$network_array[ $alias ] = $native;
+		} // foreach
+
+//if ($DEBUG) {
+//echo "<br>nets available<br>";
+//var_dump( $network_array ); }
+
+	} else { // result is false:
+
+		message_log_append( $p_msg_log, "Can't find SiteName $p_site_name: " . 
+			mysql_error(), MSG_LOG_ERROR );
+
+	} // if result
+
+	return( $network_array );
+
+} // array_of_native_networks
+
+
+function header_version_check( $p_head_array, &$p_msg_log )
+{
+//GLOBAL $DEBUG;
+
+//if ($DEBUG)
+//echo "<pre>begin header_version_check systemOrder " . $p_head_array['SystemOrder'] . "\n</pre>";
+
+	$done    = FALSE;
+	$success = TRUE;
+	$j       = 1;
+
+	while ($success && !$done) {
+		$fld = "version" . $j++;
+		$ver = isset( $p_head_array[ $fld ] ) ? $p_head_array[ $fld ] : NULL;
+		switch (TRUE) {
+		case (is_null( $ver )):
+			$done = TRUE; // no more to check
+//if ($DEBUG)
+//echo "<pre>HVC: $fld ver is null\n</pre>";
+			break;
+		case ($ver == "1"):
+		case (strlen( $ver ) == 0):
+//if ($DEBUG)
+//echo "<pre>HVC: $fld ver is okay\n</pre>";
+			break;
+		default:
+//if ($DEBUG)
+//echo "<pre>HVC: $fld ver fails ($ver)\n</pre>";
+			$msg     = 'XML System Order version number must be 1, ' .
+					'value found is ' . 
+					(is_null( $ver ) ? 'NULL' : $ver);
+                        message_log_append( $p_msg_log, $msg, MSG_LOG_ERROR );
+			$success = FALSE;
+		} // switch
+	} // while
+
+	return( $success );
+
+} // header_version_check
+
+
+function detail_time_validation( &$det_array, $p_cust_name )
+
+// $det_array is one contract's detail array.  we might modify the
+// caller's data, such as to convert 00:00:00 to 24:00:00.
+// Also, we will decrement the minute of the TimeOff so that x:00
+// becomes (x-1):59 and x:30 becomes x:29.
+// Finally, we will figure out the Priority field value and
+// update the det_array row with that value.
+
+{
+GLOBAL $msg_log;
+GLOBAL $DEBUG;
+
+// Dates must be YYYY-MM-DD so that "<" comparison will work correctly.
+
+	$success = TRUE;	// assume no problems
+//if ($DEBUG)
+//echo "<pre>";
+
+// In the XML file, the startTime and endTime must be on 30-minute boundaries:
+	$time_boundary = 30;
+
+//if ($DEBUG)
+//{ echo "det_array:\n"; var_dump( $det_array ); }
+	$det_keys = array_keys( $det_array );
+	foreach ($det_keys as $key) { // each line item's array key
+
+//if ($DEBUG)
+//echo "det line $key:\n";
+		$line = $det_array[ $key ];	// one detail line
+//if ($DEBUG)
+//var_dump( $line );
+		$s1  = $line[ 'StartDate' ] . ' ' . $line[ 'XMLstartTime'  ];
+		$s2  = $line[ 'EndDate'   ] . ' ' . $line[ 'XMLendTime' ];
+//if ($DEBUG)
+//echo "Raw Start/End dates: $s1/$s2\n";
+		$dt1 = date_parse( $s1 );
+		$dt2 = date_parse( $s2 );
+
+// validate means no errors, no warnings
+// check that neither date has minutes, seconds or fraction of seconds
+		$success = ($dt1[ 'error_count'   ] === 0) && 
+			   ($dt2[ 'error_count'   ] === 0) &&
+			   ($dt1[ 'warning_count' ] === 0) &&
+			   ($dt2[ 'warning_count' ] === 0) &&
+			   ($dt1[ 'second'        ] === 0) &&
+			   ($dt2[ 'second'        ] === 0) &&
+			   ($dt1[ 'fraction'      ] == 0) &&
+			   ($dt2[ 'fraction'      ] == 0);
+
+		if ($success && ($dt2[ 'hour' ] === 0) && ($dt2[ 'minute' ] === 0)) {
+// modify TimeOff == 00:00 to be 24:00
+			$msg = "changing endTime='00:00' to '24:00'";
+//if ($DEBUG)
+//echo "$msg\n";
+			$dt2[ 'hour'   ] = 24;
+			$dt2[ 'minute' ] =  0;
+			$det_array[ $key ][ 'TimeOff' ] = '24:00:00';
+		} // if
+		if ($success & ($dt2[ 'hour' ] === 23) && ($dt2[ 'minute' ] === 59)) {
+//// modify TimeOff == 23:59 to be 24:00
+			$msg = "changing endTime='23:59' to '24:00'";
+//if ($DEBUG)
+//echo "$msg\n";
+			$dt2[ 'hour'   ] = 24;
+			$dt2[ 'minute' ] =  0;
+			$det_array[ $key ][ 'TimeOff' ] = '24:00:00';
+		}
+		$success = $success && 
+				($dt1[ 'minute'        ] % $time_boundary === 0) &&
+				($dt2[ 'minute'        ] % $time_boundary === 0);
+
+		if ($success) {
+// Check that StartDate <= EndDate
+			$s1 = $line[ 'StartDate' ];
+			$s2 = $line[ 'EndDate'   ];
+			$success = ($s1 <= $s2);	// equal date is okay
+			if (!$success) {
+				$msg = "EndDate earlier than StartDate";
+//if ($DEBUG)
+//echo "$msg\n";
+// For now, we'll log this error at the global level, but with a null string.
+// This will cause the contract to flag red.
+				message_log_append( $msg_log, '', MSG_LOG_ERROR );
+// log error to the specific detail line
+                        	message_log_append( $det_array[ $key ][ 'MSG_LOG' ], 
+					$msg, MSG_LOG_ERROR );
+			}
+		} else {
+			$msg = "Invalid run dates/times: $s1 / $s2";
+//if ($DEBUG)
+//echo "$msg\n";
+// For now, we'll log this error at the global level, but with a null string.
+// This will cause the contract to flag red.
+			message_log_append( $msg_log, '', MSG_LOG_ERROR );
+// log error to the specific detail line
+                        message_log_append( $det_array[ $key ][ 'MSG_LOG' ], 
+					$msg, MSG_LOG_ERROR );
+		}
+
+		if ($success) {
+// mktime appears to be slow....  will this work
+// as accurately, but faster?
+//			$timeon  = mktime( $dt1[ 'hour' ], $dt1[ 'minute' ], $dt1[ 'second' ],
+//						0, 0, 0 ); // month, day, year
+			$timeon = $dt1['second'] + $dt1['minute']*60 + $dt1['hour']*60*60;
+//			$timeoff = mktime( $dt2[ 'hour' ], $dt2[ 'minute' ], $dt2[ 'second' ],
+//						0, 0, 0 ); // month, day, year
+			$timeoff = $dt2['second'] + $dt2['minute']*60 + $dt2['hour']*60*60;
+
+                        $window_length = ($timeoff - $timeon) / 60;	// in minutes
+			$unit_price = $line[ 'UnitPrice' ];
+
+//if ($DEBUG)
+//echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+//if ($DEBUG)
+//echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+//if ($DEBUG)
+//echo "Len " . $window_length . "\n";
+//if ($DEBUG)
+//echo "Cus '" . $p_cust_name . "'\n";
+
+			$s = sprintf( '%02d:%02d', $dt1[ 'hour' ], $dt1[ 'minute' ] );
+			$det_array[ $key ][ 'TimeOn' ] = $s;
+			$s1 = $s;
+
+			if ($dt2[ 'minute' ] == 0)
+			    $s = sprintf( '%02d:%02d', $dt2[ 'hour' ] - 1, 59 );
+			else
+			    $s = sprintf( '%02d:%02d', $dt2[ 'hour' ], $dt2[ 'minute' ] - 1 );
+			$det_array[ $key ][ 'TimeOff' ] = $s;
+			$s2 = $s;
+
+// check that TimeOn < TimeOff
+//			$s1 = $det_array[ $key ][ 'TimeOn'  ];
+//			$s2 = $det_array[ $key ][ 'TimeOff' ];
+			$success = ($s1 < $s2);		// equal time is not okay
+
+			if (!$success) {
+				$msg = "TimeOn must be earlier than TimeOff";
+//if ($DEBUG)
+//echo "$msg\n";
+// For now, we'll log this error at the global level, but with a null string.
+// This will cause the contract to flag red.
+				message_log_append( $msg_log, '', MSG_LOG_ERROR );
+// log error to the specific detail line
+                        	message_log_append( $det_array[ $key ][ 'MSG_LOG' ], 
+					$msg, MSG_LOG_ERROR );
+			}
+		}
+
+// check that StartDate is a Monday, EndDate is Sunday
+// re-use $dt1 and $dt2 arrays from above
+		$t1 = mktime( 0, 0, 0, // hour, min, sec
+			$dt1['month'], $dt1['day'], $dt1['year'] );
+		$t2 = mktime( 0, 0, 0, // hour, min, sec
+			$dt2['month'], $dt2['day'], $dt2['year'] );
+		$t1 = date( 'w', $t1 );		// 0 = Sun, 6 = Sat
+		$t2 = date( 'w', $t2 );		// 0 = Sun, 6 = Sat
+		$t1 = ($t1 - 1 + 7) % 7;	// 0 = Mon, 6 = Sun
+		$t2 = ($t2 - 1 + 7) % 7;	// 0 = Mon, 6 = Sun
+		if ($t1 != 0 || $t2 != 6) {
+			$success = FALSE;
+			$msg = "StartDate must be Monday, EndDate must be Sunday";
+//if ($DEBUG)
+//echo "$msg\n";
+// For now, we'll log this error at the global level, but with a null string.
+// This will cause the contract to flag red.
+			message_log_append( $msg_log, '', MSG_LOG_ERROR );
+// log error to the specific detail line
+                        message_log_append( $det_array[ $key ][ 'MSG_LOG' ], 
+					$msg, MSG_LOG_ERROR );
+		} // if
+
+		if ($success) {
+                        $priority = "NULL";
+                        switch (TRUE) {
+// 0 price is priority 4
+                        case ($unit_price == 0):
+                                $priority = 4;
+                                break;
+// 3 hours or less means priority 1
+                        case ($window_length <= 180):
+                                $priority = 1;
+                                break;
+// 7 hours or less means priority 2
+                        case ($window_length <= 420):
+                                $priority = 2;
+                                break;
+// Customer TelAmerica is priority 5
+                        case ($p_cust_name == TELAMERICA):
+                                $priority = 5;
+                                break;
+// Anything else is priority 3
+                        default:
+                                $priority = 3;
+                        } // switch
+			$det_array[ $key ][ 'Priority' ] = $priority;
+//echo "<pre>priority: $priority\n"; var_dump( $det_array[ $key ] ); echo "</pre><br>";
+		} // if
+	} // foreach
+
+//if ($DEBUG)
+//echo "</pre>";
+	return( $success );
+
+} // detail_time_validation
+
+
+function detail_network_validation( &$p_msg_log, &$p_detail, $p_site_name, $p_telamerica )
+
+// $p_detail is one contract's detail lines.
+// $p_site_name is the sitename for this contract.
+
+{
+GLOBAL $db_conn;
+GLOBAL $DEBUG;
+
+	$success = TRUE;
+
+////  $order_nets is a numeric-indexed array of customer network aliases
+//	$order_nets = array_of_networks_ordered( $p_detail );
+
+//  $native_nets is an associative array that maps an alias net (index)
+//  to a native (element value) on-site network
+
+//  pass $p_msg_log to array_of_native_networks for potential error logging
+	$native_nets = array_of_native_networks( $p_site_name, $db_conn, $p_msg_log );
+
+	$j = 0;
+	$keys =  array_keys( $p_detail );
+	foreach ($keys as $key) {
+
+		$alias = $p_detail[ $key ][ 'XMLNetwork' ];
+
+		if (isset( $native_nets[ $alias ] )) {
+			$p_detail[ $key ][ 'Network' ] = $native = $native_nets[ $alias ];
+			if ($alias != $native) {
+				$msg = "Network '$alias' mapped to '" .  $native . "'";
+// log to $p_msg_log
+				message_log_append( $p_msg_log, '', MSG_LOG_WARNING );
+// and log again to the specific detail line
+				message_log_append( $p_detail[ $key ]['MSG_LOG'],
+						$msg, MSG_LOG_WARNING );
+			}
+		} else {
+			$success = FALSE;	// darn!
+			$p_detail[ $key ][ 'Network' ] = $alias;
+			$msg = "Network '$alias' is not available at site $p_site_name";
+// Log the specific error message at the detail level.
+			message_log_append( $p_detail[ $key ][ 'MSG_LOG' ],
+						$msg, MSG_LOG_ERROR, ERR_NO_NETWORK );
+// log this error at the header level, but with a null string.
+// This will cause the contract to flag red.
+			message_log_append( $p_msg_log, '', MSG_LOG_ERROR, ERR_NO_NETWORK );
+		} // if
+
+	} // foreach
+
+	return( $success );
+
+} // detail_network_validation
+
+
+function verify_one_contract( $campaign, &$header, &$detail )
+
+// check one contract's $campaign, $header and $detail arrays
+// the header array is passed by reference because
+// we will add detail_spots and detail_cost fields to the
+// header.
+// the detail array is passed by reference because 
+// detail_time_validation will add the Priority element to
+// each row, and MSG_LOG entries could be added.
+// return TRUE if no errors, else FALSE
+
+{
+//GLOBAL $DEBUG;
+
+	$success     = TRUE;
+	$done        = FALSE;
+	$test_number = 0;
+
+// total_spots is the XML reference field in the contract header:
+	$total_spots = $header['total_spots'];
+// total_cost is the XML reference field in the contract header:
+	$total_cost  = $header['total_cost'];
+
+	message_log_reset( $h_msg_log ); // local $h_msg_log specific to this header
+
+//  sum spots and cost across all the detail lines passed to us
+	$det_spots = 0;
+	$det_cost  = 0;
+
+	foreach ($detail as $det) {
+		$det_spots += $det[ 'nOrdered' ];
+// calculate values with binary precision arithmetic routines
+		$v = bcmul( bcmul( $det[ 'nOrdered' ], $det[ 'UnitPrice' ], 2 ), '0.01', 2 );
+		$det_cost = bcadd( $det_cost, $v, 2 );
+	} // foreach
+
+// Add 'detail_spots' and 'detail_cost' fields to header array.
+// These fields will hold the total spots and costs as summed from
+// individual detail lines.  These should agree with 'total_spots'
+// and 'total_cost' (which are parsed directly from the XML) but we 
+// will check that (elsewhere).
+
+        $header[ 'detail_spots' ] = $det_spots;
+        $header[ 'detail_cost'  ] = $det_cost;
+
+//echo "test number " . ($test_number + 1) . "\n";
+
+	while (!$done) {
+
+		switch (++$test_number) {
+
+		case 1:
+			break;
+
+// per 11-06-2012 email from Carolyn Boyer to Dustin Carlson,
+// we no longer care about header version numbers.
+		case 2:
+			break;
+// all contract headers must be version 1
+//if ($DEBUG)
+//echo "<pre>VOC: calling header_version_check\n</pre>\n";
+			if (header_version_check( $header, $h_msg_log )) ;
+			else {
+				$success = FALSE;
+			}
+//			$done = (!$success);	// don't continue if this fails
+			break;
+
+		case 3:
+// $header totals must match sum of detail
+			if ($header[ 'detail_spots' ] != $header[ 'total_spots' ]) {
+				$msg = "Total number of spots doesn't match";
+				message_log_append( $h_msg_log, $msg, MSG_LOG_ERROR );
+//if ($DEBUG)
+//echo "<pre>$msg\n</pre>\n";
+			}
+			if ($header[ 'detail_cost' ] != $header[ 'total_cost' ]) {
+				$msg = "Total value of spots doesn't match";
+				message_log_append( $h_msg_log, $msg, MSG_LOG_ERROR );
+//if ($DEBUG)
+//echo "<pre>$msg\n</pre>\n";
+			}
+			break;
+
+		case 4:
+			break;
+
+		case 5:
+// validate all detail lines' StartDate/TimeOn against EndDate/TimeOff
+
+// To figure the priority, we must know the customer name 
+// for this contract.  The customer record is stored in 
+// the header array.  Pass the Name field as a parameter.
+
+			$cust_name = $campaign[ 'Customer Name' ];
+			if (!detail_time_validation( $detail, $cust_name )) {
+//echo "Received FALSE from DTV<br>";
+				$success = FALSE;
+// make the contract flag as red
+                        	message_log_append( $h_msg_log, '', MSG_LOG_ERROR );
+			} // if
+			break;
+
+// Let's look at the networks on these orders.
+// All networks on the order have to map to
+// networks available at the sitename/syscode.
+		case 6:
+			if (!detail_network_validation( $h_msg_log, $detail, 
+					$header[ 'SiteName' ], $campaign[ 'TELAMERICA' ] )) {
+				$success = FALSE;
+			} // if
+			break;
+
+// total number of spots and weeks on each order must be in range
+		case 7:
+			$weeks = $header[ 'week_count'  ];
+			$spots = $header[ 'total_spots' ];
+//if ($DEBUG)
+//echo "week_count check, header ($weeks)\n";
+			if ($weeks > 0 && $weeks <= MAX_WEEKS) ;
+			else {
+				$success = FALSE;
+				$msg     = "Number of weeks ($weeks) is out of range";
+                        	message_log_append( $h_msg_log, $msg, MSG_LOG_ERROR );
+			} // if
+//if ($DEBUG)
+//echo "spot count check, header ($spots)\n";
+			if ($spots > 0 && $spots <= MAX_SPOTS) ;
+			else if ($spots == 0) {
+				$msg     = "ZERO spots on this contract";
+                        	message_log_append( $h_msg_log, $msg, MSG_LOG_WARNING );
+			} else {
+				$success = FALSE;
+				$msg     = "Number of spots ($spots) is out of range";
+                        	message_log_append( $h_msg_log, $msg, MSG_LOG_ERROR );
+			} // if
+			break;
+
+		case 8:
+			break;
+
+		case 9:
+			break;
+
+		case 10:
+			break;
+
+		default:
+			$done = TRUE;
+
+		} // switch
+	} // while
+
+	if (isset( $header[ 'MSG_LOG' ] ))
+		die( 'verify_one_contract: header already has a message log' );
+	else {
+//if ($DEBUG)
+//echo "<pre>Setting header[MSG_LOG]\n</pre>\n";
+		$header[ 'MSG_LOG' ] = $h_msg_log;
+	}
+
+//if ($DEBUG) {
+//echo "Returning " . ( $success ? 'TRUE' : 'FALSE' ) . " from VOC<br>";
+//echo message_log_format( $header[ 'MSG_LOG' ] ); }
+	return( $success );
+
+} // verify_one_contract
+
+
+function verify_all_contracts( &$campaign_array, &$header_array, &$detail_array )
+
+// Examine the header and detail arrays and attempt to find
+// all possible flaws with the data.
+// Return TRUE if no flaws can be found, else FALSE.
+
+{
+GLOBAL $msg_log;
+//GLOBAL $DEBUG;
+
+// for starters, the two arrays must be indexed the same.
+// $header_array is an array of rows.  $detail_array is an
+// $array of arrays.  Each row in $detail_array is in fact 
+// an array of rows, such that the rows in $detail_array[x]
+// correspond to the header row in $header_array[x].
+
+	$success = TRUE;
+//if ($DEBUG) { echo "<pre>VAC: detail_array:\n"; var_dump( $detail_array ); echo "</pre>\n"; die(); }
+
+// Before we do anything, the header array and detail array keys must match
+	$header_keys = array_keys( $header_array );
+	$detail_keys = array_keys( $detail_array );
+	if ($header_keys != $detail_keys) {
+		$success = FALSE;
+		$msg     = "Internal error: header and detail array indexes differ";
+		message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+if ($DEBUG)
+{ echo "<pre>VAC keys don't match: header_keys:\n"; var_dump( $header_keys ); echo "</pre>\n"; }
+if ($DEBUG)
+{ echo "<pre>VAC: detail_keys:\n"; var_dump( $detail_keys ); echo "</pre>\n"; }
+	} // if
+
+	$done        = (!$success);
+
+	if (!$done) {
+
+//if ($DEBUG)
+//{ echo "<pre>VAC: header_keys: "; var_dump( $header_keys ); echo "</pre>\n"; }
+//		message_log_reset( $msg_log );
+		foreach ($header_keys as $key) {
+
+			$hdr = $header_array[ $key ];
+			$det = $detail_array[ $key ];
+
+// The code below that thinks one header record can have multiple
+// site records is really cumbersome and confuses some assumptions
+// made elsewhere.
+
+// The header array could have multiple Site Records.
+// We'll store one Log for each Site Record, in an array
+// that is indexed to match the $hdr['Site Records'] array.
+
+			$header_array[ $key ][ 'MSG_LOG' ] = array();
+
+			foreach ($hdr[ 'Site Records' ] as $site_record) {
+// kludge!
+				$hdr[ 'SiteName' ] = $site_record[ 'SiteName' ];
+				if (verify_one_contract( $campaign_array[ 0 ],
+							 $hdr,
+							 $detail_array[ $key ] )) {
+				} else {
+					$success = FALSE;
+				} // if
+
+				$header_array[ $key ][ 'MSG_LOG' ][] = $hdr[ 'MSG_LOG' ];
+//				message_log_reset( $msg_log );
+
+			} // foreach site_record
+
+			$header_array[ $key ][ 'detail_spots' ] = $hdr[ 'detail_spots' ];
+			$header_array[ $key ][ 'detail_cost'  ] = $hdr[ 'detail_cost' ];
+
+		} // foreach header
+
+	} // if
+
+	return( $success );
+
+} // verify_all_contracts
+
+
+?>
+@
+
+
+1.66
+log
+@comment out 3 IF DEBUG sections
+@
+text
+@d444 2
+d447 1
+@
+
+
+1.65
+log
+@de-activate some debugging code
+@
+text
+@d89 2
+a90 2
+if ($DEBUG)
+echo "<pre>begin header_version_check systemOrder " . $p_head_array['SystemOrder'] . "\n</pre>";
+d548 3
+a550 3
+if ($DEBUG) {
+echo "Returning " . ( $success ? 'TRUE' : 'FALSE' ) . " from VOC<br>";
+echo message_log_format( $header[ 'MSG_LOG' ] ); }
+d592 2
+a593 2
+if ($DEBUG)
+{ echo "<pre>VAC: header_keys: "; var_dump( $header_keys ); echo "</pre>\n"; }
+@
+
+
+1.64
+log
+@Move version check error message back into header_version_check
+and pass it a msg_log array.
+@
+text
+@d87 1
+a87 1
+GLOBAL $DEBUG;
+d402 1
+a402 1
+GLOBAL $DEBUG;
+d564 1
+a564 1
+GLOBAL $DEBUG;
+@
+
+
+1.63
+log
+@reinstall GLOBAL $DEBUG declares to avoid lots of undefined variable
+error messages filling up the Apache error log
+@
+text
+@d85 1
+a85 1
+function header_version_check( $p_head_array )
+d89 2
+a90 2
+//if ($DEBUG)
+//echo "<pre>begin header_version_check\n</pre>";
+d112 5
+a116 1
+//echo "<pre>HVC: $fld ver fails\n</pre>";
+d448 1
+a448 1
+			if (header_version_check( $header )) ;
+a450 2
+				$msg     = "XML version number must be 1";
+                        	message_log_append( $h_msg_log, $msg, MSG_LOG_ERROR );
+@
+
+
+1.62
+log
+@comment out GLOBAL $DEBUG declarations to disable debug messages
+@
+text
+@d37 1
+a37 1
+//GLOBAL $DEBUG;
+d69 1
+a69 1
+//if ($DEBUG)
+d71 1
+a71 2
+//if ($DEBUG)
+//var_dump( $network_array );
+d87 1
+a87 1
+//GLOBAL $DEBUG;
+d89 2
+a90 2
+if ($DEBUG)
+echo "<pre>begin header_version_check\n</pre>";
+d102 2
+a103 2
+if ($DEBUG)
+echo "<pre>HVC: $fld ver is null\n</pre>";
+d107 2
+a108 2
+if ($DEBUG)
+echo "<pre>HVC: $fld ver is okay\n</pre>";
+d111 2
+a112 2
+if ($DEBUG)
+echo "<pre>HVC: $fld ver fails\n</pre>";
+d133 1
+a133 1
+//GLOBAL $DEBUG;
+d338 1
+a338 1
+//GLOBAL $DEBUG;
+d398 1
+a398 1
+//GLOBAL $DEBUG;
+d562 1
+a562 1
+//GLOBAL $DEBUG;
+@
+
+
+1.61
+log
+@change how error message is logged if header_version_check
+returns failure; log it at the caller level, not from within
+header_version_check (which didn't have a log array to log to!)
+@
+text
+@d37 1
+a37 1
+GLOBAL $DEBUG;
+d88 1
+a88 1
+GLOBAL $DEBUG;
+d134 1
+a134 1
+GLOBAL $DEBUG;
+d339 1
+a339 1
+GLOBAL $DEBUG;
+d399 1
+a399 1
+GLOBAL $DEBUG;
+d563 1
+a563 1
+GLOBAL $DEBUG;
+@
+
+
+1.60
+log
+@comment out a lot of DEBUG entries; change line 99 to treat
+unset $p_head_array[ $fld ] the same as null.
+@
+text
+@a114 2
+			$msg     = "Version number must be 1";
+                        message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d117 1
+d119 1
+d372 3
+a377 3
+// Log the specific error message at the detail level.
+			message_log_append( $p_detail[ $key ][ 'MSG_LOG' ],
+						$msg, MSG_LOG_ERROR, ERR_NO_NETWORK );
+d446 6
+a451 2
+			else $success = FALSE;
+			$done = (!$success);	// don't continue if this fails
+d547 3
+a549 1
+//echo "Returning " . ( $success ? 'TRUE' : 'FALSE' ) . " from VOC<br>";
+@
+
+
+1.59
+log
+@remove 'require_once' lines for modules no longer needed (or only
+used a long time ago when doing a lot of raw testing); comment out
+obsolete function 'array_of_networks_ordered'; clean up comments
+and combine a couple statements in array_of_native_networks; modify
+detail_time_validation to read from XMLstartTime/XMLendTime and
+write to TimeOn/TimeOff to eliminate validation failures on second
+and subsequent validation passes; eliminate obsolete global $tam_alias
+in detail_network_validation; comment out call to obsolete function
+array_of_networks_ordered in detail_network_validation; fix verify_one_contract
+so that detail_time_validation failure will cause the contract header
+to flag red; remove old debugging code towards bottom of file.
+@
+text
+@d69 4
+a72 4
+if ($DEBUG)
+echo "<br>nets available<br>";
+if ($DEBUG)
+var_dump( $network_array );
+d99 1
+a99 1
+		$ver = $p_head_array[ $key ][ $fld ];
+d104 1
+a104 1
+echo "<pre>HVC: $ver is null\n</pre>";
+d109 1
+a109 1
+echo "<pre>HVC: $ver is okay\n</pre>";
+d113 1
+a113 1
+echo "<pre>HVC: $ver fails\n</pre>";
+d139 2
+a140 2
+if ($DEBUG)
+echo "<pre>";
+d145 2
+a146 2
+if ($DEBUG)
+{ echo "det_array:\n"; var_dump( $det_array ); }
+d150 2
+a151 2
+if ($DEBUG)
+echo "det line $key:\n";
+d153 2
+a154 2
+if ($DEBUG)
+var_dump( $line );
+d157 2
+a158 2
+if ($DEBUG)
+echo "Raw Start/End dates: $s1/$s2\n";
+d176 2
+a177 2
+if ($DEBUG)
+echo "$msg\n";
+d185 2
+a186 2
+if ($DEBUG)
+echo "$msg\n";
+d202 2
+a203 2
+if ($DEBUG)
+echo "$msg\n";
+d213 2
+a214 2
+if ($DEBUG)
+echo "$msg\n";
+d236 8
+a243 8
+if ($DEBUG)
+echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+if ($DEBUG)
+echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+if ($DEBUG)
+echo "Len " . $window_length . "\n";
+if ($DEBUG)
+echo "Cus '" . $p_cust_name . "'\n";
+d263 2
+a264 2
+if ($DEBUG)
+echo "$msg\n";
+d287 2
+a288 2
+if ($DEBUG)
+echo "$msg\n";
+d325 2
+a326 2
+if ($DEBUG)
+echo "</pre>";
+d443 2
+a444 2
+if ($DEBUG)
+echo "<pre>VOC: calling header_version_check\n</pre>\n";
+d455 2
+a456 2
+if ($DEBUG)
+echo "<pre>$msg\n</pre>\n";
+a457 3
+else
+if ($DEBUG)
+echo "<pre>number of spots matches\n</pre>\n";
+d461 2
+a462 2
+if ($DEBUG)
+echo "<pre>$msg\n</pre>\n";
+a463 3
+else
+if ($DEBUG)
+echo "<pre>value of spots matches\n</pre>\n";
+d499 2
+a500 2
+if ($DEBUG)
+echo "week_count check, header ($weeks)\n";
+d507 2
+a508 2
+if ($DEBUG)
+echo "spot count check, header ($spots)\n";
+d538 2
+a539 2
+if ($DEBUG)
+echo "<pre>Setting header[MSG_LOG]\n</pre>\n";
+@
+
+
+1.58
+log
+@a couple small changes to try to improve speed.
+@
+text
+@d3 22
+a24 28
+require_once( 'testing-header.php' );
+require_once( 'mysql_funcs.php' );
+require_once( 'parse_xml.php' );
+require_once( 'tam_alias.php' );
+
+
+function array_of_networks_ordered( $p_detail_array )
+
+// build an array of the network aliases from the order detail 
+// line passed.  $p_detail_array holds just one contract.
+// we want no duplicates, just one occurrence of each different
+// alias.
+// return NULL if error, otherwise an array 0..n-1 of n networks
+// on the order.
+
+{
+
+        $network_array = array();
+
+// build the array using the network ID as the key.
+// then return the array of keys, and we'll have no dupes.
+
+	foreach ($p_detail_array as $line)
+		$network_array[ $line[ 'XMLNetwork' ] ] = 1;	// any value will do
+
+	return( array_keys( $network_array ) );
+
+} // array_of_networks_ordered
+a42 1
+
+d50 1
+a50 1
+// Yuk!  That's a string similar to:
+d52 5
+a56 6
+// the asterisks are not meaningful for now, and should be treated
+// as whitespace.
+		$net_string = str_replace( "*", " ", $net_string );
+		$net_string = trim( $net_string );
+// split that string into an array, delimited wherever one or
+// more spaces is found
+d60 1
+a60 1
+// the networks table.  Create our final $network_array with 
+d138 1
+d141 3
+a143 1
+	$time_boundary = 30;	// TimeOn/TimeOff must be on 30 minute boundaries
+d155 2
+a156 2
+		$s1  = $line[ 'StartDate' ] . ' ' . $line[ 'TimeOn'  ];
+		$s2  = $line[ 'EndDate'   ] . ' ' . $line[ 'TimeOff' ];
+a338 1
+GLOBAL $tam_alias;
+d343 2
+a344 2
+//  $order_nets is a numeric-indexed array of customer network aliases
+	$order_nets = array_of_networks_ordered( $p_detail );
+d349 1
+a349 1
+//  pass array_of_native_networks the p_msg_log for potential error logging
+a357 7
+// the TelAmerica alias file hasn't been supported in a while.  It was
+// originally a text file which kludged some weird TelAmerica spellings
+// into standard NCC network spellings.  If someday that alias file gets
+// put back into use, this code should be uncommented and updated.  It
+// would be better if that were never necessary and instead that TelAmerica
+// would wise up and use standard NCC network ID codes.  Code has been removed.
+
+d486 2
+a635 37
+/*
+define( 'SALESMAN_NAME', 'Generic AdSystems' );
+function message_log_append( $log, $s, $level )
+{
+echo "log: " . $s . "\n";
+}
+function message_log_reset()
+{
+}
+function message_log()
+{
+}
+
+function main()
+{
+$xml = "example.xml";
+echo "parsing\n";
+if (parse_xml( $xml, $campaigns, $headers, $details )) {
+//var_dump( $headers );
+//var_dump( $details );
+echo "parse_xml succeeded, verifying\n";
+	if (verify_all_contracts( $campaigns, $headers, $details )) {
+		echo "verify_all_contracts succeeded\n";
+var_dump( $headers );
+var_dump( $details );
+	} else {
+		echo "verify_all_contracts failed\n";
+	}
+} else {
+	echo "parse_xml failed\n";
+}
+
+} // main
+
+main();
+*/
+
+@
+
+
+1.57
+log
+@Change spot-count check to only WARN if zero spots.
+@
+text
+@d229 8
+a236 4
+			$timeon  = mktime( $dt1[ 'hour' ], $dt1[ 'minute' ], $dt1[ 'second' ],
+						0, 0, 0 ); // month, day, year
+			$timeoff = mktime( $dt2[ 'hour' ], $dt2[ 'minute' ], $dt2[ 'second' ],
+						0, 0, 0 ); // month, day, year
+d252 1
+d254 4
+a257 2
+			if ($dt2[ 'minute' ] == 0) $s = sprintf( '%02d:%02d', $dt2[ 'hour' ] - 1, 59 );
+			else $s = sprintf( '%02d:%02d', $dt2[ 'hour' ], $dt2[ 'minute' ] - 1 );
+d259 1
+d262 2
+a263 2
+			$s1 = $det_array[ $key ][ 'TimeOn'  ];
+			$s2 = $det_array[ $key ][ 'TimeOff' ];
+@
+
+
+1.56
+log
+@clean up some debug messages and comments; change detail_network_validation
+to use a msg_log parameter; make sure contract/detail spot
+and value mismatches are logged at the contract level to
+flag them red.
+@
+text
+@d519 4
+a522 1
+			else {
+@
+
+
+1.55
+log
+@rewrite function detail_network_validation to accept
+network in array key XMLNetwork and store aliased network
+into array key Network; this makes it possible to re-validate
+detail lines after a contract's detail lines have been
+modified (primarily by deletion); lots of misc changes
+to debugging stmts.
+@
+text
+@d329 1
+a329 1
+function detail_network_validation( &$p_detail, $p_site_name, $p_telamerica )
+a335 1
+GLOBAL $msg_log;
+a337 1
+//$DEBUG = TRUE;
+d347 2
+a348 11
+//  pass array_of_native_networks the global msg_log for potential error logging
+	$native_nets = array_of_native_networks( $p_site_name, $db_conn, $msg_log );
+//if ($DEBUG) {
+//echo "<pre>What can you do with:\n";
+//echo "order nets: ";
+//var_dump( $order_nets );
+//echo "native nets: ";
+//var_dump( $native_nets );
+//echo "</pre>\n";
+//die();
+//}
+d367 2
+a368 2
+// log to the global $msg_log
+				message_log_append( $msg_log, '', MSG_LOG_WARNING );
+d377 1
+a377 1
+// log this error at the global level, but with a null string.
+d379 1
+a379 1
+			message_log_append( $msg_log, '', MSG_LOG_ERROR, ERR_NO_NETWORK );
+d424 1
+a424 2
+		$v = bcmul( bcmul( $det[ 'nOrdered' ], $det[ 'UnitPrice' ], 2 ),
+				'0.01', 2 );
+d435 1
+a435 1
+        $header[ 'detail_cost' ]  = $det_cost;
+d449 1
+a449 1
+echo "VOC: calling header_version_check\n";
+d456 19
+a481 1
+//echo "detail contract $key\n";
+d498 1
+a498 1
+			if (!detail_network_validation( $detail, 
+d509 1
+a509 1
+echo "week_count check, header $key ($weeks)\n";
+d517 1
+a517 1
+echo "spot count check, header $key ($spots)\n";
+d543 3
+a545 1
+	else
+d547 1
+d593 1
+a593 1
+		message_log_reset( $msg_log );
+d619 2
+a620 2
+				$header_array[ $key ][ 'MSG_LOG' ][] = $msg_log;
+				message_log_reset( $msg_log );
+@
+
+
+1.54
+log
+@clone function detail_network_validation to function old_detail_network_validation
+@
+text
+@d26 1
+a26 1
+		$network_array[ $line[ 'Network' ] ] = 1;	// any value will do
+a75 6
+//		$j = 0;
+//		while (!is_null( $native = $string_array[ $j ] )) {
+//			$alias = network_alias( $native, $db_conn );
+//			$network_array[ $alias ] = $native;
+//			$j++;
+//		} // while
+d97 4
+d111 2
+d117 1
+a117 1
+echo "  $fld ('$ver') is okay\n";
+d120 2
+d329 1
+a329 1
+function old_detail_network_validation( &$p_detail, $p_site_name, $p_telamerica )
+d339 1
+d351 9
+d362 4
+a365 1
+	foreach ($order_nets as $alias) {
+d372 1
+a372 18
+// would wise up and use standard NCC network ID codes.
+
+//		if ($p_telamerica) {
+//if ($DEBUG)
+//echo "TELAMERICA order calls for " . $alias . "\n";
+//			$x = $alias;
+//			if (!is_null( $tam_alias[ $x ] )) {
+//				$alias = $tam_alias[ $x ];
+//if ($DEBUG)
+//echo "TELAMERICA alias $alias $x mapped to NCC alias $alias\n";
+//				message_log_append( $msg_log, 
+//					"TelAmerica alias '$x' mapped to NCC alias '" .
+//					$alias . "'", MSG_LOG_WARNING );
+//			} // if
+//		} else {
+//if ($DEBUG)
+//echo "order calls for " . $alias . "\n";
+//		} // if p_telamerica
+d374 8
+a381 27
+		switch (TRUE) {
+		case (is_null( $native_nets[ $alias ] )):
+			$msg = "Network '$alias' is not available at site $p_site_name";
+// For now, we'll log this error at the global level, but with a null string.
+// This will cause the contract to flag red.
+			message_log_append( $msg_log, '', MSG_LOG_ERROR, ERR_NO_NETWORK );
+// Find all detail lines specifying this network.  Log the
+// specific error message at the detail level.
+			foreach (array_keys( $p_detail ) as $key) {
+				if ($p_detail[ $key ][ 'Network' ] == $alias) {
+					message_log_append( $p_detail[ $key ][ 'MSG_LOG' ],
+						$msg, MSG_LOG_ERROR, ERR_NO_NETWORK );
+				} // if
+			} // foreach
+			$success = FALSE;
+			break;
+
+		case ($alias != $native_nets[ $alias ]):
+// this warning is specific to this one detail line, and should not
+// be logged to the global $msg_log
+			$msg = "Network '$alias' mapped to '" .  $native_nets[ $alias ] . "'";
+			message_log_append( $msg_log, '', MSG_LOG_WARNING );
+// modify detail lines specifying this network to specify the native network
+			foreach (array_keys( $p_detail ) as $key)
+				if ($p_detail[ $key ][ 'Network' ] == $alias) {
+					$p_detail[ $key ][ 'Network' ] = $native_nets[ $alias ];
+					message_log_append( $p_detail[ $key ]['MSG_LOG'],
+d383 4
+a386 63
+				}
+			break;
+
+		} // switch
+
+	} // foreach
+
+	return( $success );
+
+} // old_detail_network_validation
+
+
+function detail_network_validation( &$p_detail, $p_site_name, $p_telamerica )
+
+// $p_detail is one contract's detail lines.
+// $p_site_name is the sitename for this contract.
+
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+GLOBAL $tam_alias;
+GLOBAL $DEBUG;
+
+	$success = TRUE;
+
+//  $order_nets is a numeric-indexed array of customer network aliases
+	$order_nets = array_of_networks_ordered( $p_detail );
+
+//  $native_nets is an associative array that maps an alias net (index)
+//  to a native (element value) on-site network
+
+//  pass array_of_native_networks the global msg_log for potential error logging
+	$native_nets = array_of_native_networks( $p_site_name, $db_conn, $msg_log );
+
+	$j = 0;
+	foreach ($order_nets as $alias) {
+
+// the TelAmerica alias file hasn't been supported in a while.  It was
+// originally a text file which kludged some weird TelAmerica spellings
+// into standard NCC network spellings.  If someday that alias file gets
+// put back into use, this code should be uncommented and updated.  It
+// would be better if that were never necessary and instead that TelAmerica
+// would wise up and use standard NCC network ID codes.
+
+//		if ($p_telamerica) {
+//if ($DEBUG)
+//echo "TELAMERICA order calls for " . $alias . "\n";
+//			$x = $alias;
+//			if (!is_null( $tam_alias[ $x ] )) {
+//				$alias = $tam_alias[ $x ];
+//if ($DEBUG)
+//echo "TELAMERICA alias $alias $x mapped to NCC alias $alias\n";
+//				message_log_append( $msg_log, 
+//					"TelAmerica alias '$x' mapped to NCC alias '" .
+//					$alias . "'", MSG_LOG_WARNING );
+//			} // if
+//		} else {
+//if ($DEBUG)
+//echo "order calls for " . $alias . "\n";
+//		} // if p_telamerica
+
+		switch (TRUE) {
+		case (is_null( $native_nets[ $alias ] )):
+d388 1
+a388 1
+// For now, we'll log this error at the global level, but with a null string.
+d391 2
+a392 5
+// Find all detail lines specifying this network.  Log the
+// specific error message at the detail level.
+			foreach (array_keys( $p_detail ) as $key) {
+				if ($p_detail[ $key ][ 'Network' ] == $alias) {
+					message_log_append( $p_detail[ $key ][ 'MSG_LOG' ],
+d394 1
+a394 20
+				} // if
+			} // foreach
+			$success = FALSE;
+			break;
+
+		case ($alias != $native_nets[ $alias ]):
+// this warning is specific to this one detail line, and should not
+// be logged to the global $msg_log
+			$msg = "Network '$alias' mapped to '" .  $native_nets[ $alias ] . "'";
+			message_log_append( $msg_log, '', MSG_LOG_WARNING );
+// modify detail lines specifying this network to specify the native network
+			foreach (array_keys( $p_detail ) as $key)
+				if ($p_detail[ $key ][ 'Network' ] == $alias) {
+					$p_detail[ $key ][ 'Network' ] = $native_nets[ $alias ];
+					message_log_append( $p_detail[ $key ]['MSG_LOG'],
+						$msg, MSG_LOG_WARNING );
+				}
+			break;
+
+		} // switch
+d461 1
+a461 1
+echo "version check, header $key\n";
+a567 4
+if ($DEBUG)
+{ echo "<pre>VAC: header_keys:\n"; var_dump( $header_keys ); echo "</pre>\n"; }
+if ($DEBUG)
+{ echo "<pre>VAC: detail_keys:\n"; var_dump( $detail_keys ); echo "</pre>\n"; }
+d572 5
+a576 1
+	}
+d582 2
+@
+
+
+1.53
+log
+@cleanup of function array_of_networks_ordered.
+@
+text
+@d327 89
+@
+
+
+1.52
+log
+@add some comments; copy 'detail_spots' and 'detail_cost' out of
+local $hdr variable and into pass-by-reference $header_array.
+@
+text
+@d19 1
+a19 1
+GLOBAL $DEBUG;
+d28 1
+a28 8
+	$network_array = array_keys( $network_array );
+
+if ($DEBUG)
+echo "<br>nets ordered<br>\n";
+if ($DEBUG)
+var_dump( $network_array );
+
+	return( $network_array );
+@
+
+
+1.51
+log
+@add ERR_NO_NETWORK designation to two message_log_append calls in
+function 'detail_network_validation'
+@
+text
+@d441 1
+a441 1
+// total_spots in the contract header:
+d443 1
+a443 1
+// total_cost in the contract header:
+d460 1
+a460 1
+// Add 'contract_spots' and 'contract_cost' fields to header array.
+d463 2
+a464 1
+// and 'total_cost' but we will check that (elsewhere).
+d608 4
+d633 3
+@
+
+
+1.50
+log
+@Rework a lot of message_log_append calls to clarify whether
+logging is being done to a global log or to a log that is
+specific to the data array being validated; change parameter
+of detail_network_validation fro $det_array to $p_detail to
+better emphasize that it is a local parameter; standardize
+on use of 'MSG_LOG' array index instead of 'Log' for storing
+message_log structures inside campaign/header/detail arrays.
+@
+text
+@d388 1
+a388 1
+			message_log_append( $msg_log, '', MSG_LOG_ERROR );
+d394 1
+a394 1
+						$msg, MSG_LOG_ERROR );
+@
+
+
+1.49
+log
+@Remove $tam_alias array support code in function 'detail_network_validation';
+add several comments indicating where msg_log_append use should be
+left global or localized to a specific data array being validated.
+@
+text
+@d26 1
+a26 1
+		$network_array[ $line[ 'Network' ] ] = 0;	// any value will do
+d40 1
+a40 1
+function array_of_native_networks( $p_sitename, $db_conn )
+a48 4
+// this routine uses a global $msg_log, which probably pertains
+// most closely to the contract header level, since the Sitename
+// is specific to each particular contract header.
+
+a49 1
+GLOBAL $msg_log;
+d97 1
+a97 1
+		message_log_append( $msg_log, "Can't find SiteName $p_site_name: " . 
+d133 1
+a133 1
+}
+d214 6
+a219 1
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d225 6
+a230 1
+                        message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d267 6
+a272 1
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d291 6
+a296 1
+                        message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d334 1
+a334 1
+function detail_network_validation( &$det_array, $p_site_name, $p_telamerica )
+d336 1
+a336 1
+// $det_array is one contract's detail lines.
+a346 1
+
+d348 1
+a348 1
+	$order_nets = array_of_networks_ordered( $det_array );
+d353 2
+a354 2
+//  array_of_native_networks could potentially log errors to global $msg_log
+	$native_nets = array_of_native_networks( $p_site_name, $db_conn );
+d385 12
+a396 13
+// this error is specific to this one detail line, and should not
+// be logged to the global $msg_log
+			message_log_append( $msg_log, "Network '$alias' is not available " .
+				"at site $p_site_name", MSG_LOG_ERROR );
+// this code doesn't work -- $native_nets[ $alias ] is NULL, or
+// we wouldn't be inside this 'case' (see above)
+// start of bogus code
+// delete detail lines specifying this network
+			$alias = $native_nets[ $alias ];
+			foreach (array_keys( $det_array ) as $key)
+				if ($det_array[ $key ][ 'Network' ] == $alias)
+					unset( $det_array[ $key ] );
+// end of bogus code
+d403 2
+a404 2
+			message_log_append( $msg_log, "Network '$alias' mapped to '" .
+				$native_nets[ $alias ] . "'", MSG_LOG_WARNING );
+d406 8
+a413 3
+			foreach (array_keys( $det_array ) as $key)
+				if ($det_array[ $key ][ 'Network' ] == $alias)
+					$det_array[ $key ][ 'Network' ] = $native_nets[ $alias ];
+d431 1
+a431 1
+// each row.
+d446 2
+a454 1
+//echo $det[ 'nOrdered' ] . " times " . $det[ 'UnitPrice' ] . "<br>\n";
+d527 1
+a527 1
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d535 1
+a535 1
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+d554 5
+d611 1
+a611 1
+			$header_array[ $key ][ 'Log' ] = array();
+a618 1
+//echo "<pre>"; var_dump( $det ); echo "</pre><br>";
+d623 1
+a623 1
+				$header_array[ $key ][ 'Log' ][] = $msg_log;
+@
+
+
+1.48
+log
+@remove a couple commented-out calls to message_log_append;
+re-format some 'if ($DEBUG)' lines
+@
+text
+@d49 4
+d338 2
+d344 25
+a368 16
+		if ($p_telamerica) {
+if ($DEBUG)
+echo "TELAMERICA order calls for " . $alias . "\n";
+			$x = $alias;
+			if (!is_null( $tam_alias[ $x ] )) {
+				$alias = $tam_alias[ $x ];
+if ($DEBUG)
+echo "TELAMERICA alias $alias $x mapped to NCC alias $alias\n";
+				message_log_append( $msg_log, 
+					"TelAmerica alias '$x' mapped to NCC alias '" .
+					$alias . "'", MSG_LOG_WARNING );
+			} // if
+		} else {
+if ($DEBUG)
+echo "order calls for " . $alias . "\n";
+		} // if telamerica
+d371 2
+a372 1
+// this is a problem
+d375 3
+d383 1
+d388 2
+d397 1
+d399 1
+@
+
+
+1.47
+log
+@modify verify_one_contract to alter the $header array to add
+calculated detail_spots and detail_cost fields which can later
+be compared to the header's claimed spots and cost totals;
+comment out use of message_log_append to pass System Order Number/Syscode/Sitename
+etc. back to the user/browser; this info will be formatted more formally
+by a higher layer of code.
+@
+text
+@d30 4
+a33 2
+if ($DEBUG) echo "<br>nets ordered<br>\n";
+if ($DEBUG) var_dump( $network_array );
+d91 4
+a94 2
+if ($DEBUG) echo "<br>nets available<br>";
+if ($DEBUG) var_dump( $network_array );
+d124 2
+a125 1
+if ($DEBUG) echo "  $fld ('$ver') is okay\n";
+d152 2
+a153 1
+if ($DEBUG) echo "<pre>";
+d156 2
+a157 1
+if ($DEBUG) { echo "det_array:\n"; var_dump( $det_array ); }
+d161 2
+a162 1
+if ($DEBUG) echo "det line $key:\n";
+d164 2
+a165 1
+if ($DEBUG) var_dump( $line );
+d168 2
+a169 1
+if ($DEBUG) echo "Raw Start/End dates: $s1/$s2\n";
+d187 2
+a188 2
+if ($DEBUG) echo "$msg\n";
+//			message_log_append( $msg_log, $msg, 0 );
+d196 2
+a197 2
+if ($DEBUG) echo "$msg\n";
+//			message_log_append( $msg_log, $msg, 0 );
+d213 2
+a214 1
+if ($DEBUG) echo "$msg\n";
+d219 2
+a220 1
+if ($DEBUG) echo "$msg\n";
+d233 8
+a240 4
+if ($DEBUG) echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+if ($DEBUG) echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+if ($DEBUG) echo "Len " . $window_length . "\n";
+if ($DEBUG) echo "Cus '" . $p_cust_name . "'\n";
+d256 2
+a257 1
+if ($DEBUG) echo "$msg\n";
+d275 2
+a276 1
+if ($DEBUG) echo "$msg\n";
+d308 2
+a309 1
+if ($DEBUG) echo "</pre>";
+d339 2
+a340 1
+if ($DEBUG) echo "TELAMERICA order calls for " . $alias . "\n";
+d344 2
+a345 1
+if ($DEBUG) echo "TELAMERICA alias $alias $x mapped to NCC alias $alias\n";
+d351 2
+a352 1
+if ($DEBUG) echo "order calls for " . $alias . "\n";
+d436 2
+a437 1
+if ($DEBUG) echo "version check, header $key\n";
+d478 2
+a479 1
+if ($DEBUG) echo "week_count check, header $key ($weeks)\n";
+d486 2
+a487 1
+if ($DEBUG) echo "spot count check, header $key ($spots)\n";
+d539 4
+a542 2
+if ($DEBUG) { echo "<pre>VAC: header_keys:\n"; var_dump( $header_keys ); echo "</pre>\n"; }
+if ($DEBUG) { echo "<pre>VAC: detail_keys:\n"; var_dump( $detail_keys ); echo "</pre>\n"; }
+@
+
+
+1.46
+log
+@Comment out calls to message_log_append designed to
+be only informative of contract header info.
+@
+text
+@d359 1
+a359 1
+function verify_one_contract( $campaign, $header, &$detail )
+d362 3
+d377 26
+a538 8
+//				message_log_append( $msg_log, "System Order Number: " . $hdr['SystemOrder'] );
+//				message_log_append( $msg_log, "Syscode / Sitename: " .
+//						$hdr[ 'SysCode' ] . " / " .
+//						$site_record[ 'SiteName' ] );
+//				message_log_append( $msg_log, "Total spots: " . $hdr[ 'total_spots' ] );
+//				message_log_append( $msg_log, "Total value: " . 
+//						sprintf( "%.02f", $hdr[ 'total_cost' ] ) );
+
+@
+
+
+1.45
+log
+@comment out 'changing endTime' messages.
+@
+text
+@d510 7
+a516 7
+				message_log_append( $msg_log, "System Order Number: " . $hdr['SystemOrder'] );
+				message_log_append( $msg_log, "Syscode / Sitename: " .
+						$hdr[ 'SysCode' ] . " / " .
+						$site_record[ 'SiteName' ] );
+				message_log_append( $msg_log, "Total spots: " . $hdr[ 'total_spots' ] );
+				message_log_append( $msg_log, "Total value: " . 
+						sprintf( "%.02f", $hdr[ 'total_cost' ] ) );
+@
+
+
+1.44
+log
+@add global $DEBUG support in several places.
+@
+text
+@d178 1
+a178 1
+			message_log_append( $msg_log, $msg, 0 );
+d187 1
+a187 1
+			message_log_append( $msg_log, $msg, 0 );
+@
+
+
+1.43
+log
+@should be no net change; changes only to DEBUG support.
+@
+text
+@d19 1
+a19 1
+//GLOBAL $DEBUG;
+d49 1
+a49 1
+//GLOBAL $DEBUG;
+d106 1
+a106 1
+//GLOBAL $DEBUG;
+d143 1
+a143 1
+//GLOBAL $DEBUG;
+d305 1
+a305 1
+//GLOBAL $DEBUG;
+d368 1
+a368 1
+//GLOBAL $DEBUG;
+d471 1
+a471 1
+//GLOBAL $DEBUG;
+@
+
+
+1.42
+log
+@change DEBUG to global $DEBUG
+@
+text
+@d19 1
+a19 1
+GLOBAL $DEBUG;
+d49 1
+a49 1
+GLOBAL $DEBUG;
+d106 1
+a106 1
+GLOBAL $DEBUG;
+d143 1
+a143 1
+GLOBAL $DEBUG;
+d147 1
+d150 1
+d154 1
+d156 1
+d159 1
+d176 3
+a178 1
+			message_log_append( $msg_log, "changing endTime='00:00' to '24:00'", 0 );
+d185 3
+a187 1
+			message_log_append( $msg_log, "changing endTime='23:59' to '24:00'", 0 );
+d203 1
+d208 1
+a209 5
+//echo "<pre>\n";
+//var_dump( $dt1 );
+//var_dump( $dt2 );
+//echo "</pre>\n";
+//die();
+d240 1
+d258 1
+d290 1
+d305 1
+a305 1
+GLOBAL $DEBUG;
+d368 1
+a368 1
+GLOBAL $DEBUG;
+d400 1
+d471 1
+d480 1
+d485 2
+a509 1
+// xxx
+@
+
+
+1.41
+log
+@remove old_detail_time_validation function;
+defer dt1 and dt2 minute / time_boundary check which would have been @@ ln 159
+convert idiot times 00:00 and 23:59 to proper 24:00
+NOW do dt1 and dt2 minute / time_boundary checks.
+@
+text
+@d19 1
+d30 2
+a31 2
+if (DEBUG) echo "<br>nets ordered<br>\n";
+if (DEBUG) var_dump( $network_array );
+d49 1
+d89 2
+a90 2
+if (DEBUG) echo "<br>nets available<br>";
+if (DEBUG) var_dump( $network_array );
+d106 1
+d120 1
+a120 1
+if (DEBUG) echo "  $fld ('$ver') is okay\n";
+d143 1
+d215 4
+a218 4
+if (DEBUG) echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+if (DEBUG) echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+if (DEBUG) echo "Len " . $window_length . "\n";
+if (DEBUG) echo "Cus '" . $p_cust_name . "'\n";
+d296 1
+d311 1
+a311 1
+if (DEBUG) echo "TELAMERICA order calls for " . $alias . "\n";
+d315 1
+a315 1
+if (DEBUG) echo "TELAMERICA alias $alias $x mapped to NCC alias $alias\n";
+d321 1
+a321 1
+if (DEBUG) echo "order calls for " . $alias . "\n";
+d359 1
+d376 1
+a376 1
+if (DEBUG) echo "version check, header $key\n";
+d416 1
+a416 1
+if (DEBUG) echo "week_count check, header $key ($weeks)\n";
+d423 1
+a423 1
+if (DEBUG) echo "spot count check, header $key ($spots)\n";
+@
+
+
+1.40
+log
+@add support for half-hour start/stop times
+@
+text
+@a128 124
+function old_detail_time_validation( &$det_array, $p_cust_name )
+
+// $det_array is one contract's detail array.  we might modify the
+// caller's data, such as to convert 00:00:00 to 24:00:00.
+// Also, we will decrement the minute of the TimeOff so that x:00
+// becomes (x-1):59.
+// Finally, we will figure out the Priority field value and
+// update the det_array row with that value.
+
+{
+GLOBAL $msg_log;
+
+	$det_keys = array_keys( $det_array );
+	foreach ($det_keys as $key) { // each line item's array key
+		$line = $det_array[ $key ];	// one detail line
+		$s1  = $line[ 'StartDate' ] . ' ' . $line[ 'TimeOn'  ];
+		$s2  = $line[ 'EndDate'   ] . ' ' . $line[ 'TimeOff' ];
+		$dt1 = date_parse( $s1 );
+		$dt2 = date_parse( $s2 );
+// validate means no errors, no warnings
+// check that neither date has minutes, seconds or fraction of seconds
+		$success = ($dt1[ 'error_count'   ] == 0) && 
+			   ($dt2[ 'error_count'   ] == 0) &&
+			   ($dt1[ 'warning_count' ] == 0) &&
+			   ($dt2[ 'warning_count' ] == 0) &&
+			   ($dt1[ 'minute'        ] == 0) &&
+			   ($dt2[ 'minute'        ] == 0) &&
+			   ($dt1[ 'second'        ] == 0) &&
+			   ($dt2[ 'second'        ] == 0) &&
+			   ($dt1[ 'fraction'      ] == 0) &&
+			   ($dt2[ 'fraction'      ] == 0);
+		if (!$success) {
+			$msg = "Invalid run dates/times: $s1 / $s2";
+                        message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+		}
+// modify TimeOff == 00:00:00 to be 24:00:00, then check that 
+// TimeOn < TimeOff and StartDate <= EndDate
+// Dates must be YYYY-MM-DD
+		if ($success) {
+			$s1 = $line[ 'StartDate' ];
+			$s2 = $line[ 'EndDate'   ];
+			$success = ($s1 <= $s2);	// equal is okay
+			if (!$success) {
+				$msg = "EndDate earlier than StartDate";
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+			}
+		}
+		if ($success) {
+//echo "TimeOff was " . $det_array[ $key ][ 'TimeOff' ] . "\n";
+			if ($dt2[ 'hour' ] == 0) {
+				$dt2[ 'hour' ] = 24;
+				$det_array[ $key ][ 'TimeOff' ] = '24:00:00';
+			}
+
+			$timeon  = mktime( $dt1[ 'hour' ], $dt1[ 'minute' ], $dt1[ 'second' ],
+						0, 0, 0 ); // month, day, year
+			$timeoff = mktime( $dt2[ 'hour' ], $dt2[ 'minute' ], $dt2[ 'second' ],
+						0, 0, 0 ); // month, day, year
+                        $window_length = ($timeoff - $timeon) / 60;	// in minutes
+			$unit_price = $line[ 'UnitPrice' ];
+if (DEBUG) echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+if (DEBUG) echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+if (DEBUG) echo "Len " . $window_length . "\n";
+if (DEBUG) echo "Cus '" . $p_cust_name . "'\n";
+			$s = sprintf( '%02d:%02d', $dt1[ 'hour' ], $dt1[ 'minute' ] );
+			$det_array[ $key ][ 'TimeOn' ] = $s;
+			$s = sprintf( '%02d:%02d', $dt2[ 'hour' ] - 1, 59 );
+			$det_array[ $key ][ 'TimeOff' ] = $s;
+//echo "modified TimeOff to " . $det_array[ $key ][ 'TimeOff' ] . "\n";
+			$s1 = $det_array[ $key ][ 'TimeOn'    ];
+			$s2 = $det_array[ $key ][ 'TimeOff'   ];
+			$success = ($s1 < $s2);		// equal is not okay
+			if (!$success) {
+				$msg = "TimeOn must be earlier than TimeOff";
+                        	message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+			}
+		}
+// check that StartDate is a Monday, EndDate is Sunday
+// re-use $dt1 and $dt2 arrays from above
+		$t1 = mktime( 0, 0, 0, // hour, min, sec
+			$dt1['month'], $dt1['day'], $dt1['year'] );
+		$t2 = mktime( 0, 0, 0, // hour, min, sec
+			$dt2['month'], $dt2['day'], $dt2['year'] );
+		$t1 = date( 'w', $t1 );		// 0 = Sun, 6 = Sat
+		$t2 = date( 'w', $t2 );		// 0 = Sun, 6 = Sat
+		$t1 = ($t1 - 1 + 7) % 7;	// 0 = Mon, 6 = Sun
+		$t2 = ($t2 - 1 + 7) % 7;	// 0 = Mon, 6 = Sun
+		if ($t1 != 0 || $t2 != 6) {
+			$success = FALSE;
+			$msg = "StartDate must be Monday, EndDate must be Sunday";
+                        message_log_append( $msg_log, $msg, MSG_LOG_ERROR );
+		} // if
+		if ($success) {
+                        $priority = "NULL";
+                        switch (TRUE) {
+// 0 price is priority 4
+                        case ($unit_price == 0):
+                                $priority = 4;
+                                break;
+// 3 hours or less means priority 1
+                        case ($window_length <= 180):
+                                $priority = 1;
+                                break;
+// 7 hours or less means priority 2
+                        case ($window_length <= 420):
+                                $priority = 2;
+                                break;
+// Customer TelAmerica is priority 5
+                        case ($p_cust_name == TELAMERICA):
+                                $priority = 5;
+                                break;
+// Anything else is priority 3
+                        default:
+                                $priority = 3;
+                        } // switch
+			$det_array[ $key ][ 'Priority' ] = $priority;
+//echo "<pre>priority: $priority\n"; var_dump( $det_array[ $key ] ); echo "</pre><br>";
+		} // if
+	} // foreach
+	return( $success );
+
+} // old_detail_time_validation
+
+
+a159 2
+			   ($dt1[ 'minute'        ] % $time_boundary === 0) &&
+			   ($dt2[ 'minute'        ] % $time_boundary === 0) &&
+d165 18
+d195 5
+a202 7
+// modify TimeOff == 00:00 to be 24:00
+			if (($dt2[ 'hour' ] === 0) && ($dt2[ 'minute' ] === 0)) {
+//message_log_append( '', "changing 00:00 to 24:00", 0 );
+				$dt2[ 'hour' ] = 24;
+				$det_array[ $key ][ 'TimeOff' ] = '24:00:00';
+			}
+
+@
+
+
+1.39
+log
+@Add TelAmerica alias mapping kludge.  Change numerous 'echo'ed
+error message to use message_log_append.
+@
+text
+@d129 1
+a129 1
+function detail_time_validation( &$det_array, $p_cust_name )
+d250 140
+d634 11
+a644 10
+//function message_log_append( $s )
+//{
+//echo $s . "\n";
+//}
+//function message_log_reset()
+//{
+//}
+//function message_log()
+//{
+//}
+d656 2
+@
+
+
+1.38
+log
+@Make first priority rule: unit_price of 0 means priority 4.
+@
+text
+@d6 1
+d122 1
+a122 1
+			echo $msg . "\n";
+d139 2
+d161 2
+a162 2
+			$msg = "Invalid run dates/times";
+			echo $msg . "\n";
+d173 1
+a173 1
+				echo $msg . "\n";
+d203 1
+a203 1
+				echo $msg . "\n";
+d219 1
+a219 1
+			echo $msg . "\n";
+d253 1
+a253 1
+function detail_network_validation( &$det_array, $p_site_name )
+d261 1
+d265 1
+d275 11
+d287 1
+d361 1
+d370 2
+a371 1
+			if (!detail_network_validation( $detail, $header[ 'SiteName' ] )) {
+d385 1
+a385 1
+				echo $msg . "\n";
+d392 1
+a392 1
+				echo $msg . "\n";
+d411 1
+@
+
+
+1.37
+log
+@Fix problem with detail passed to verify_one_contract so that
+it is passed by reference.  detail_time_validation calculates
+a priority value and modifies the array.
+@
+text
+@d185 1
+d221 4
+d229 1
+d233 1
+d237 1
+@
+
+
+1.36
+log
+@change LOG_ to MSG_LOG_
+@
+text
+@d234 1
+d290 1
+a290 1
+function verify_one_contract( $campaign, $header, $detail )
+d293 3
+a295 1
+// no mods to the arrays, thus they are not passed by reference.
+d443 5
+a447 3
+				if (!verify_one_contract( $campaign_array[ 0 ],
+							  $hdr,
+							  $det )) {
+@
+
+
+1.35
+log
+@finally got the array-based message_log code debugged!
+@
+text
+@d92 1
+a92 1
+			mysql_error(), LOG_ERROR );
+d266 1
+a266 1
+				"at site $p_site_name", LOG_ERROR );
+d277 1
+a277 1
+				$native_nets[ $alias ] . "'", LOG_WARNING );
+d409 1
+a409 1
+		message_log_append( $msg_log, $msg, LOG_ERROR );
+@
+
+
+1.34
+log
+@convert message_log calls.
+@
+text
+@a416 2
+echo "reset1<br>";
+var_dump( $msg_log ); echo "<br>";
+a447 2
+echo "reset2<br>";
+var_dump( $msg_log ); echo "<br>";
+d461 10
+a470 10
+function message_log_append( $s )
+{
+echo $s . "\n";
+}
+function message_log_reset()
+{
+}
+function message_log()
+{
+}
+@
+
+
+1.33
+log
+@move message_log functions out of testing_header.php into testing footer.
+@
+text
+@d46 2
+d91 1
+a91 1
+		message_log_append( "Can't find SiteName $p_site_name: " . 
+d248 1
+d265 1
+a265 1
+			message_log_append( "Network '$alias' is not available " .
+d276 1
+a276 1
+			message_log_append( "Network '$alias' mapped to '" .
+d393 1
+d409 1
+a409 1
+		message_log_append( $msg, LOG_ERROR );
+d416 3
+a418 1
+		message_log_reset();
+d432 2
+a433 2
+				message_log_append( "System Order Number: " . $hdr['SystemOrder'] );
+				message_log_append( "Syscode / Sitename: " .
+d436 2
+a437 2
+				message_log_append( "Total spots: " . $hdr[ 'total_spots' ] );
+				message_log_append( "Total value: " . 
+d448 4
+a451 2
+				$header_array[ $key ][ 'Log' ][] = message_log();
+				message_log_reset();
+@
+
+
+1.32
+log
+@fix indent in inner site_record loop.
+@
+text
+@d457 11
+@
+
+
+1.31
+log
+@Add support for header['Site Records'] to be an array of site_operator
+records.
+@
+text
+@d426 7
+a432 7
+			message_log_append( "System Order Number: " . $hdr['SystemOrder'] );
+			message_log_append( "Syscode / Sitename: " .
+					$hdr[ 'SysCode' ] . " / " .
+					$site_record[ 'SiteName' ] );
+			message_log_append( "Total spots: " . $hdr[ 'total_spots' ] );
+			message_log_append( "Total value: " . 
+					sprintf( "%.02f", $hdr[ 'total_cost' ] ) );
+d435 6
+a440 6
+			$hdr[ 'SiteName' ] = $site_record[ 'SiteName' ];
+			if (!verify_one_contract( $campaign_array[ 0 ],
+						  $hdr,
+						  $det )) {
+				$success = FALSE;
+			} // if
+d442 2
+a443 2
+			$header_array[ $key ][ 'Log' ][] = message_log();
+			message_log_reset();
+@
+
+
+1.30
+log
+@comment out customer_check/agency_check code, which is moved to xml_import
+campaign section.
+comment out display of campaign-level info like customer, order number,
+contract name/start/end, which is also move to xml_import.php.
+@
+text
+@d128 6
+a133 6
+// $det_array is one contract's detail array
+// we might modify the caller's data, such as to convert
+// 00:00:00 to 24:00:00.  Also, we will decrement
+// the minute of the TimeOff so that x:00 becomes
+// (x-1):59.  Finally, we will figure out the Priority
+// field value.
+a285 20
+//function customer_check( $p_campaign )
+//{
+//	if (is_null( $p_campaign[ 'Customer Record' ] )) {
+//		$cu_name = $p_campaign[ 'Customer Name' ];
+//		message_log_append( "Customer name '$cu_name' " . 
+//				"not found, will be created", LOG_WARNING );
+//	}
+//} // customer_check
+
+
+//function agency_check( $p_campaign )
+//{
+//	if (is_null( $p_campaign[ 'Agency Record' ] )) {
+//		$ag_name = $p_campaign[ 'Agency Name' ];
+//		message_log_append( "Agency name '$ag_name' " . 
+//				"not found, will be created", LOG_WARNING );
+//	}
+//} // agency_check
+
+
+d289 1
+a314 1
+// Customer record must exist, or it will be created
+a315 1
+//			customer_check( $campaign );
+a317 1
+// Agency record must exist, or it will be created
+a318 1
+//			agency_check( $campaign );
+a371 6
+		case 11:
+			break;
+
+		case 12:
+			break;
+
+d377 3
+d414 1
+d416 10
+a425 2
+//			message_log_append( "Customer: " . $campaign_array[ 0 ]['Customer Name'] );
+//			message_log_append( "Order Number: " . $hdr['CustOrder'] );
+d427 3
+a429 7
+//			message_log_append( "Contract Name: " . $hdr['ContractName'] );
+			message_log_append( "Sitename / Syscode: " .
+					$hdr['SiteName'] . " / " .
+					$hdr['Site Record'][ 'SysCode' ] );
+//			message_log_append( "Contract start / end: " . 
+//					$hdr['StartDate'] . " / " . $hdr['EndDate'] );
+//			message_log_append( "Agency: " . $campaign_array[ 0 ]['Agency Name'] );
+d433 3
+d437 2
+a438 2
+						  $header_array[ $key ],
+						  $detail_array[ $key ] )) {
+d441 2
+a442 1
+			$header_array[ $key ][ 'Log' ] = message_log();
+d444 4
+a447 1
+		} // foreach
+@
+
+
+1.29
+log
+@Fix Customer and Agency name references to use $campaign_array instead
+of header array.
+@
+text
+@d286 18
+a303 18
+function customer_check( $p_campaign )
+{
+	if (is_null( $p_campaign[ 'Customer Record' ] )) {
+		$cu_name = $p_campaign[ 'Customer Name' ];
+		message_log_append( "Customer name '$cu_name' " . 
+				"not found, will be created", LOG_WARNING );
+	}
+} // customer_check
+
+
+function agency_check( $p_campaign )
+{
+	if (is_null( $p_campaign[ 'Agency Record' ] )) {
+		$ag_name = $p_campaign[ 'Agency Name' ];
+		message_log_append( "Agency name '$ag_name' " . 
+				"not found, will be created", LOG_WARNING );
+	}
+} // agency_check
+d336 1
+a336 1
+			customer_check( $campaign );
+d341 1
+a341 1
+			agency_check( $campaign );
+d441 2
+a442 2
+			message_log_append( "Customer: " . $campaign_array[ 0 ]['Customer Name'] );
+			message_log_append( "Order Number: " . $hdr['CustOrder'] );
+d444 1
+a444 1
+			message_log_append( "Contract Name: " . $hdr['ContractName'] );
+d448 3
+a450 3
+			message_log_append( "Contract start / end: " . 
+					$hdr['StartDate'] . " / " . $hdr['EndDate'] );
+			message_log_append( "Agency: " . $campaign_array[ 0 ]['Agency Name'] );
+@
+
+
+1.28
+log
+@change total_value to total_cost
+@
+text
+@d351 1
+a351 1
+			$cust_name = $header[ 'Customer Name' ];
+d441 1
+a441 1
+			message_log_append( "Customer: " . $hdr['Customer Name'] );
+d450 1
+a450 1
+			message_log_append( "Agency: " . $hdr['Agency Name'] );
+@
+
+
+1.27
+log
+@comment out testing code at bottom
+@
+text
+@d453 1
+a453 1
+					sprintf( "%.02f", $hdr[ 'total_value' ] ) );
+@
+
+
+1.26
+log
+@implement campaign parsing/validation
+@
+text
+@d470 1
+a470 1
+///*
+d491 1
+a491 1
+//*/
+@
+
+
+1.25
+log
+@add missing initialize of $success!  Sheesh.  Change while !done
+to if !done.
+@
+text
+@d286 1
+a286 1
+function customer_check( $p_header )
+d288 2
+a289 2
+	if (is_null( $p_header[ 'Customer Record' ] )) {
+		$cu_name = $p_header[ 'Customer Name' ];
+d296 1
+a296 1
+function agency_check( $p_header )
+d298 2
+a299 2
+	if (is_null( $p_header[ 'Agency Record' ] )) {
+		$ag_name = $p_header[ 'Agency Name' ];
+d306 1
+a306 1
+function verify_one_contract( $header, $detail )
+d308 1
+a308 1
+// check one contract's $header and $detail arrays
+d336 1
+a336 1
+			customer_check( $header );
+d341 1
+a341 1
+			agency_check( $header );
+d409 1
+a409 1
+function verify_all_contracts( &$header_array, &$detail_array )
+d454 2
+a455 1
+			if (!verify_one_contract( $header_array[ $key ],
+d470 1
+a470 1
+/*
+d474 2
+a475 1
+if (parse_xml( $xml, $headers, $details )) {
+d478 2
+a479 2
+	echo "parse_xml succeeded\n";
+	if (verify_all_contracts( $headers, $details )) {
+d491 1
+a491 1
+*/
+@
+
+
+1.24
+log
+@Display total spots, total value from header record.
+@
+text
+@d423 2
+d436 1
+a436 2
+//echo "before while\n";
+//	while (!$done) {
+d462 1
+a462 2
+//	} // while
+//echo "after while\n";
+@
+
+
+1.23
+log
+@include SystemOrder in verification log entries.
+@
+text
+@d450 3
+@
+
+
+1.22
+log
+@refinement of header-based verification log code
+@
+text
+@d442 1
+@
+
+
+1.21
+log
+@add some informational log message with customer/contract/agency, etc.
+@
+text
+@d409 1
+a409 2
+function verify_all_contracts( $header_array,
+			 $detail_array )
+d439 4
+a442 6
+			message_log_append( "Customer: " . 
+					$header_array[ $key ]['Customer Name'] );
+			message_log_append( "Order Number: " .
+					$header_array[ $key ]['CustOrder'] );
+			message_log_append( "Contract Name: " .
+					$header_array[ $key ]['ContractName'] );
+d444 2
+a445 2
+					$header_array[ $key ]['SiteName'] . "/" .
+					$header_array[ $key ]['Site Record'][ 'SysCode' ] );
+d447 2
+a448 4
+					$header_array[ $key ]['StartDate'] . "/" .
+					$header_array[ $key ]['EndDate'] );
+			message_log_append( "Agency: " . 
+					$header_array[ $key ]['Agency Name'] );
+@
+
+
+1.20
+log
+@first attempt at storing the verification message_log
+for each contract header row.
+@
+text
+@d429 1
+a429 1
+		$msg     = "Header and detail array indexes differ";
+d438 1
+d440 14
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d443 2
+@
+
+
+1.18
+log
+@remove ncc_ prefixes
+@
+text
+@d89 2
+a90 1
+		message_log_append( mysql_error(), LOG_ERROR );
+@
+
+
+1.17
+log
+@change require to require_once
+@
+text
+@d4 2
+a5 2
+require_once( 'ncc_mysql_funcs.php' );
+require_once( 'ncc_parse_xml.php' );
+d456 1
+a456 1
+if (ncc_parse_xml( $xml, $headers, $details )) {
+d459 1
+a459 1
+	echo "ncc_parse_xml succeeded\n";
+d466 1
+a466 1
+	echo "ncc_parse_xml failed\n";
+@
+
+
+1.16
+log
+@comment out testing code at bottom of file
+@
+text
+@d3 3
+a5 3
+require_once 'testing-header.php';
+require_once 'ncc_mysql_funcs.php';
+require 'ncc_parse_xml.php';
+@
+
+
+1.15
+log
+@change name of ncc_verify_xml to verify_all_contracts
+@
+text
+@d452 1
+d472 1
+@
+
+
+1.14
+log
+@comment var_dump of headers received from ncc_parse_xml.
+@
+text
+@a284 172
+function old_ncc_verify_xml( $header_array,
+			 $detail_array )
+
+// Examine the header and detail arrays and attempt to find
+// all possible flaws with the data.
+// Return TRUE if no flaws can be found, else FALSE.
+
+{
+
+// for starters, the two arrays must be indexed the same.
+// $header_array is an array of rows.  $detail_array is an
+// $array of arrays.  Each row in $detail_array is in fact 
+// an array of rows, such that the rows in $detail_array[x]
+// correspond to the header row in $header_array[x].
+
+	$success     = TRUE;
+	$done        = FALSE;
+	$test_number = 0;
+
+//echo "before while\n";
+	while ($success && (!$done)) {
+
+//echo "test number " . ($test_number + 1) . "\n";
+
+		switch (++$test_number) {
+
+// header and detail array keys must match
+		case 1:
+			$header_keys = array_keys( $header_array );
+			$detail_keys = array_keys( $detail_array );
+			$msg     = "Header and detail array indexes differ";
+			if ($header_keys != $detail_keys) {
+				$success = FALSE;
+				echo $msg . "\n";
+			}
+			break;
+
+// all contract headers must be version 1
+		case 2:
+			foreach ($header_keys as $key) {
+// check contract header [$key]
+if (DEBUG) echo "version check, header $key\n";
+				$j = 1;
+				while ($success && !$done) {
+					$fld = "version" . $j++;
+					$ver = $header_array[ $key ][ $fld ];
+					switch (TRUE) {
+					case (is_null( $ver )):
+						$done = TRUE; // no more versionN fields
+						break;
+					case ($ver == "1"):
+					case (strlen( $ver ) == 0):
+if (DEBUG) echo "  $fld ('$ver') is okay\n";
+						break;
+					default:
+						$success = FALSE;
+						$msg     = "Version number must be 1";
+						echo $msg . "\n";
+					} // switch
+				} // while
+				if ($done) break;
+			} // foreach
+			$done = (!$success);	// don't continue if this fails
+			break;
+
+// Agency and Customer records must exist, or they will be created
+		case 3:
+			foreach ($header_keys as $key) {
+				if (is_null( $header_array[ $key ][ 'Customer Record' ] )) {
+					$cu_name = $header_array[ $key ][ 'Customer Name' ];
+                        		message_log_append( "Customer name '$cu_name' " . 
+						"not found, will be created", LOG_WARNING );
+				}
+				if (is_null( $header_array[ $key ][ 'Agency Record' ] )) {
+					$ag_name = $header_array[ $key ][ 'Agency Name' ];
+                        		message_log_append( "Agency name '$ag_name' " . 
+						"not found, will be created", LOG_WARNING );
+				}
+			} // foreach
+			break;
+
+		case 4:
+			break;
+
+// validate all detail lines' StartDate/TimeOn against EndDate/TimeOff
+		case 5:
+			foreach ($detail_keys as $key) {
+//echo "detail contract $key\n";
+// To figure the priority, we must know the customer name 
+// for this contract.  The customer record is stored in 
+// the header array.  Pass the Name field as a parameter.
+
+				$cust_name = $header_array[ $key ][ 'Customer Name' ];
+				if (!detail_time_validation( $detail_array[ $key ], 
+						$cust_name )) {
+					$success = FALSE;
+				} // if
+			} // foreach
+			break;
+
+// Let's look at the networks on these orders.
+// All networks on the order have to map to
+// networks available at the sitename/syscode.
+		case 6:
+			foreach ($detail_keys as $key) {
+				if (!detail_network_validation( $detail_array[ $key ],
+						$header_array[ $key ][ 'SiteName' ] )) {
+					$success = FALSE;
+				} // if
+			} // foreach
+			break;
+
+// total number of spots and weeks on each order must be in range
+		case 7:
+			foreach ($header_keys as $key) {
+				$weeks = $header_array[ $key ][ 'week_count'  ];
+				$spots = $header_array[ $key ][ 'total_spots' ];
+if (DEBUG) echo "week_count check, header $key ($weeks)\n";
+				if ($weeks > 0 && $weeks <= MAX_WEEKS) ;
+				else {
+					$success = FALSE;
+					$msg     = "Number of weeks ($weeks) is out of range";
+					echo $msg . "\n";
+				} // if
+if (DEBUG) echo "spot count check, header $key ($spots)\n";
+				if ($spots > 0 && $spots <= MAX_SPOTS) ;
+				else {
+					$success = FALSE;
+					$msg     = "Number of spots ($spots) is out of range";
+					echo $msg . "\n";
+				} // if
+			} // foreach
+			break;
+
+		case 8:
+			foreach ($header_keys as $key) {
+			} // foreach
+			break;
+
+		case 9:
+			foreach ($header_keys as $key) {
+			} // foreach
+			break;
+
+		case 10:
+			foreach ($header_keys as $key) {
+			} // foreach
+			break;
+
+		case 11:
+			foreach ($header_keys as $key) {
+			} // foreach
+			break;
+
+		case 12:
+			foreach ($header_keys as $key) {
+			} // foreach
+			break;
+
+		default:
+			$done = TRUE;
+
+		} // switch
+
+	} // while
+//echo "after while\n";
+
+	return( $success );
+
+} // old_ncc_verify_xml
+
+
+d408 1
+a408 1
+function ncc_verify_xml( $header_array,
+d449 1
+a449 1
+} // ncc_verify_xml
+d459 2
+a460 2
+	if (ncc_verify_xml( $headers, $details )) {
+		echo "ncc_verify_xml succeeded\n";
+d462 1
+a462 1
+		echo "ncc_verify_xml failed\n";
+@
+
+
+1.13
+log
+@change structure of ncc_verify_xml to make the contract
+the outer loop, and each contract is passed to a procedure
+which loops through the incremental test numbers for that
+one contract.
+@
+text
+@d628 1
+a628 1
+var_dump( $headers );
+@
+
+
+1.12
+log
+@hide several debug messages behind if (DEBUG) conditionals;
+add checking for NULL Agency and Customer records;  change
+order of some validation tests.
+@
+text
+@d98 27
+d285 1
+a285 1
+function ncc_verify_xml( $header_array,
+d454 167
+@
+
+
+1.11
+log
+@implement network alias validation and mapping
+@
+text
+@d28 2
+a29 2
+/*if (DEBUG)*/ echo "<br>nets ordered<br>\n";
+/*if (DEBUG)*/ var_dump( $network_array );
+d155 4
+a158 4
+echo "On  " . $det_array[ $key ][ 'TimeOn'  ] . ' ' . $timeon  . "\n";
+echo "Off " . $det_array[ $key ][ 'TimeOff' ] . ' ' . $timeoff . "\n";
+echo "Len " . $window_length . "\n";
+echo "Cus '" . $p_cust_name . "'\n";
+d230 1
+a230 1
+echo "order calls for " . $alias . "\n";
+d299 1
+a299 1
+echo "version check, header $key\n";
+d310 1
+a310 1
+echo "  $fld ('$ver') is okay\n";
+d323 1
+a323 1
+// total number of spots and weeks on each order must be in range
+d326 10
+a335 16
+				$weeks = $header_array[ $key ][ 'week_count'  ];
+				$spots = $header_array[ $key ][ 'total_spots' ];
+echo "week_count check, header $key ($weeks)\n";
+				if ($weeks > 0 && $weeks <= MAX_WEEKS) ;
+				else {
+					$success = FALSE;
+					$msg     = "Number of weeks ($weeks) is out of range";
+					echo $msg . "\n";
+				} // if
+echo "spot count check, header $key ($spots)\n";
+				if ($spots > 0 && $spots <= MAX_SPOTS) ;
+				else {
+					$success = FALSE;
+					$msg     = "Number of spots ($spots) is out of range";
+					echo $msg . "\n";
+				} // if
+a339 9
+// load an array of the networks on each order's detail lines
+			$networks_ordered = array();
+			foreach ($detail_keys as $key) {
+				$networks_ordered[ $key ] = 
+					array_of_networks_ordered( $detail_array[ $key ] );
+				if (is_null( $networks_ordered[ $key ] )) {
+					$success = FALSE;
+				} //if
+			} // foreach
+d350 1
+a350 1
+				$cust_rec = $header_array[ $key ][ 'Customer Record' ];
+d352 1
+a352 1
+						$cust_rec[ 'Name' ] )) {
+d370 1
+d373 16
+d434 1
+a434 1
+//var_dump( $headers );
+@
+
+
+1.10
+log
+@add array_of_networks_ordered function based on in-memory
+array instead of SQL table data.
+@
+text
+@d4 1
+d18 1
+a18 1
+        $network_array = NULL;
+d24 1
+a24 1
+		$network_array[ $line[ 'Network' ] ] = 1;
+d36 62
+d211 47
+d367 1
+a367 1
+					$cust_rec[ 'Name' ] )) {
+d369 1
+a369 1
+				}
+d377 5
+a381 1
+			foreach ($header_keys as $key) {
+d444 1
+a444 1
+}
+@
+
+
+1.9
+log
+@remove obsolete functions that were no longer referenced
+@
+text
+@d7 28
+d236 9
+a259 1
+var_dump( $detail_array[ $key ] );
+d263 3
+@
+
+
+1.8
+log
+@extensive work to perform data validation on header and detail records
+@
+text
+@d7 1
+a8 273
+// some basic MySQL transaction handling routines:
+
+function temp_header_site_name( $db_conn )
+{
+	$result = mysql_query( "SELECT SiteName FROM temp_header", $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		$value = ($record) ? $record[ 0 ] : NULL;
+	} else $value = NULL;
+	return( $value );
+}
+
+
+function temp_header_insert( $p_header_data, $db_conn )
+// return TRUE if no errors, else FALSE
+{
+
+if (DEBUG) message_log_append( "header: insert" );
+
+	$qry = "DROP TABLE temp_header";
+	$success = mysql_query( $qry, $db_conn );
+
+	$qry = "CREATE TABLE temp_header LIKE contract_header";
+	$success = mysql_query( $qry, $db_conn );
+
+	if ($success) {
+		$seqn = last_insert_id( $db_conn );
+if (DEBUG) message_log_append( "header: seqn = $seqn" );
+		$success = (!is_null( $seqn ));
+	} else {
+		message_log_append( mysql_error(), LOG_ERROR );
+	}
+
+	if ($success) {
+		$qry = "INSERT INTO temp_header " . $p_header_data;
+if (DEBUG) message_log_append( "header: $qry" );
+		if (!($success = mysql_query( $qry, $db_conn )))
+			message_log_append( mysql_error(), LOG_ERROR );
+if (DEBUG) message_log_append( "header info: " . mysql_error(), LOG_ERROR );
+	}
+if (DEBUG) $seqn = last_insert_id( $db_conn );
+if (DEBUG) message_log_append( "header: new_seqn = $seqn" );
+
+	return( $success );
+
+} // temp_header_insert
+
+
+function array_of_networks_ordered( $db_conn )
+// build an array of the network aliases from the order detail lines.
+// no duplicates, just one occurrence of each different alias.
+// return NULL if error, otherwise an array 0..n-1 of n networks
+// on the order.
+{
+	$network_array = NULL;
+	$qry = "SELECT DISTINCT Network FROM temp_detail";
+	$result = mysql_query( $qry, $db_conn );
+	if ($result) {
+		$n_nets = 0;
+		$network_array = array();
+		while ($row = mysql_fetch_array( $result )) {
+			$network_array[ $n_nets++ ] = $row[ "Network" ];
+		} // while
+if (DEBUG) echo "<br>nets ordered<br>";
+if (DEBUG) var_dump( $network_array );
+	} else {
+		message_log_append( mysql_error(), LOG_ERROR );
+	} // if result
+
+	return( $network_array );
+
+} // array_of_networks_ordered
+
+
+function array_of_network_aliases( $p_sitename, $db_conn )
+// build an array of the network names aliases available at 
+// $p_sitename.  No duplicates, just one occurrence of each.
+// The alias is the array key, and the native network is
+// the array element value, such that $a[ 'alias' ] => 'native'
+// return NULL if error, otherwise an associative array of 
+// networks at the site.
+{
+	$network_array = NULL;
+
+	$qry = "SELECT Networks FROM registration WHERE SiteName = '$p_sitename'";
+	$result = mysql_query( $qry, $db_conn );
+
+	if ($result) {
+
+		$net_string = "";
+		while ($row = mysql_fetch_array( $result )) {
+			$net_string .= $row[ 0 ] . " ";
+		} // while
+
+// Yuk!  That's a string similar to:
+// DISC-E* ESPN    SPIK-E* TLC-E   TBS-E*  TNT-E*  USA-E   CNN*
+// the asterisks are not meaningful for now, and should be stripped.
+		$net_string = str_replace( "*", " ", $net_string );
+		$net_string = trim( $net_string );
+// split that string into an array, delimited wherever one or
+// more spaces is found
+		$string_array = preg_split( '/  */', $net_string );
+
+// now step through that string_array, and look up each one in
+// the networks table.  Create our final $network_array with 
+// the array key being the alias tag, and the array element value
+// being the native network tag.
+		$network_array = array();
+		$j = 0;
+		while (!is_null( $native = $string_array[ $j ] )) {
+			$alias = network_alias( $native, $db_conn );
+			$network_array[ $alias ] = $native;
+			$j++;
+		} // while
+if (DEBUG) echo "<br>nets available<br>";
+if (DEBUG) var_dump( $network_array );
+
+	} else { // result is false:
+
+		message_log_append( mysql_error(), LOG_ERROR );
+
+	} // if result
+
+	return( $network_array );
+
+} // array_of_network_aliases
+
+
+function temp_detail_insert( $p_detail_data, $db_conn, $p_cindex )
+// return TRUE if no errors, else FALSE
+{
+
+if (DEBUG) message_log_append( "detail insert" );
+
+	$success = TRUE;
+
+	$qry = "DROP TABLE temp_detail";
+	$success = mysql_query( $qry, $db_conn );
+
+	$qry = "CREATE TABLE temp_detail LIKE contract_detail";
+	if (!($success = mysql_query( $qry, $db_conn )))
+		message_log_append( mysql_error(), LOG_ERROR );
+
+	if ($success) {
+		$seqn = last_insert_id( $db_conn );
+if (DEBUG) message_log_append( "detail: seqn = $seqn" );
+		$success = (!is_null( $seqn ));
+	}
+
+        if ($success) {
+		$qry = "INSERT INTO temp_detail " . $p_detail_data;
+if (DEBUG) message_log_append( "detail: $qry" );
+		$success = mysql_query( $qry, $db_conn );
+		if (!$success) message_log_append( mysql_error(), LOG_ERROR );
+if (DEBUG) message_log_append( "detail info: " . mysql_error(), LOG_ERROR );
+	}
+
+        if ($success) {
+		$new_seqn = last_insert_id( $db_conn );
+if (DEBUG) message_log_append( "detail: new_seqn = $new_seqn" );
+		$success = (!is_null( $new_seqn ));
+	}
+
+        if ($success) {
+// Update the detail records to reference the $p_cindex we were passed
+		$qry = "UPDATE temp_detail SET Contract = $p_cindex";
+		$success = mysql_query( $qry, $db_conn );
+	}
+
+	return( $success );
+
+} // temp_detail_insert
+
+
+function insert_temp_data( $p_header_file_name, 
+			   $p_detail_file_name )
+
+// insert the header and detail data into temporary tables
+// to facilitate review of the data prior to importation
+
+{
+GLOBAL $db_conn;
+
+	$header_insert_string = file_get_contents( $p_header_file_name );
+	$detail_insert_string = file_get_contents( $p_detail_file_name );
+
+//message_log_append( "Header:<br>$header_insert_string" );
+//message_log_append( "Detail:<br>$detail_insert_string" );
+
+	$success = TRUE;
+
+// The header insert brings data into a temporary table.
+// It returns TRUE on success or FALSE on failure.
+
+	$cindex = temp_header_insert( $header_insert_string, $db_conn );
+	$site_name = temp_header_site_name( $db_conn );
+
+	$success = (!is_null( $cindex ));
+	if (!$success)
+		message_log_append( "temp_header_insert failed", LOG_ERROR );
+
+//message_log_append( "CIndex: $cindex" );
+
+// Pass the CIndex value to the detail insert routine.
+
+	if ($success) {
+		$success = temp_detail_insert( $detail_insert_string, $db_conn, $cindex );
+		if (!$success)
+			message_log_append( "temp_detail_insert failed", LOG_ERROR );
+	}
+
+// Sum the total spots and total value of this contract
+	if ($success) {
+		$qry = "SELECT SUM( nSched ) as N, SUM( nSched * UnitPrice ) as Value " .
+			"FROM temp_detail";
+		if (($result = mysql_query( $qry, $db_conn )) && 
+			($row = mysql_fetch_array( $result ))) {
+//	UnitPrice is in pennies
+			$n = $row[ "N" ];
+			$v = $row[ "Value" ] / 100;
+			message_log_append( "Total spots: " . $n );
+			message_log_append( "Total value: " . sprintf( "%.02f", $v ) );
+		} else {
+			message_log_append( mysql_error(), LOG_ERROR );
+			$success = FALSE;
+		}
+	}
+
+	if ($success) {
+//		$qry = "UPDATE temp_header SET TotalValue = " . $v;
+	}
+
+	if ($success) {
+//  $order_nets is a numeric-indexed array of customer network aliases
+		$order_nets = array_of_networks_ordered( $db_conn );
+//  $alias_nets is a text-indexed array that maps an alias to an on-site network
+		$alias_nets = array_of_network_aliases( $site_name, $db_conn );
+		$j = 0;
+		while (!is_null( $net = $order_nets[ $j++ ] )) {
+//			echo "order calls for " . $net . " / ";
+			switch (TRUE) {
+			case (is_null( $alias_nets[ $net ] )):
+// this is a problem
+				message_log_append( "Network '$net' is not available " .
+					"at site $site_name", LOG_ERROR );
+				$qry = "DELETE FROM temp_detail WHERE Network = '" .
+					$net . "'";
+				if (!mysql_query( $qry, $db_conn )) {
+					message_log_append( mysql_error(), LOG_ERROR );
+					$success = FALSE;
+				}
+				break;
+
+			case ($net != $alias_nets[ $net ]):
+				message_log_append( "Network '$net' mapped to '" . 
+					$alias_nets[ $net ] . "'", LOG_WARNING );
+				$qry = "UPDATE temp_detail SET Network = '" .
+					$alias_nets[ $net ] . "' WHERE Network = '" .
+					$net . "'";
+				if (!mysql_query( $qry, $db_conn )) {
+					message_log_append( mysql_error(), LOG_ERROR );
+					$success = FALSE;
+				}
+			} // switch
+		} // while
+	}
+
+	return( NULL );
+
+} // insert_temp_data
+
+
+function detail_time_validation( &$det_array, $p_cust_name )
+d15 1
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d280 111
+d410 4
+a413 1
+	while ($success && !$done) {
+a420 1
+			$success = ($header_keys == $detail_keys);
+d422 4
+a446 1
+						$done    = TRUE;
+d448 1
+d453 1
+a453 1
+			$done = FALSE;
+d456 1
+a456 1
+// total number of weeks on each order must be in range
+d459 2
+a460 2
+// check contract header [$key]
+				$weeks = $header_array[ $key ]['week_count'];
+d462 13
+a474 1
+				$success = $success && ($weeks > 0) && ($weeks < MAX_WEEKS);
+a475 1
+			$done = FALSE;
+a477 1
+// total number of spots on each order must be in range
+a478 7
+			foreach ($header_keys as $key) {
+// check contract header [$key]
+				$spots = $header_array[ $key ]['total_spots'];
+echo "spot count check, header $key ($spots)\n";
+				$success = $success && ($spots > 0) && ($spots < MAX_SPOTS);
+			} // foreach
+			$done = FALSE;
+d481 1
+a481 1
+// check that startdate is Monday, enddate is Sunday
+d483 13
+d497 1
+a497 1
+// check that startdate <= enddate
+d499 2
+d502 1
+a502 1
+// check that timeon ends in :00, timeoff ends in :59
+d504 2
+d507 1
+a507 1
+// check that timeon <= timeoff
+d509 2
+d512 1
+d514 2
+d517 1
+d519 2
+d522 1
+d524 2
+d527 1
+d529 2
+d532 1
+d535 1
+d539 1
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d3 4
+d280 6
+a285 7
+function ncc_verify_order( $header_file_name,
+			   $detail_file_name,
+			   $sql_output_filename )
+
+// take the SQL data and organize a structured INSERT process
+// with the necessary steps to ensure referential integrity
+// of contract indexes and network names for the syscode.
+d289 120
+a408 1
+	$s = insert_temp_data( $header_file_name, $detail_file_name );
+d410 1
+a410 1
+} // ncc_verify_order
+@
+
+
+1.5
+log
+@remove debugging statements
+@
+text
+@d258 1
+a258 1
+				message_log_append( "Network '$net' changed to '" . 
+@
+
+
+1.4
+log
+@modify to support sites with multiple registration records
+@
+text
+@d39 1
+a39 1
+//echo "header: $qry<br>" ;
+d65 1
+a65 1
+			$network_array[ $n_nets++ ] = $row[ 0 ];
+d67 2
+a105 2
+echo "nets ordered<br>";
+var_dump( $string_array );
+d118 2
+a119 2
+echo "nets available<br>";
+var_dump( $network_array );
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d91 4
+a94 3
+		if ($row = mysql_fetch_array( $result )) {
+			$net_string = $row[ 0 ];
+		} // if
+d104 2
+d118 2
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d210 21
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 1
+a6 1
+function begin( $db_conn )
+d8 1
+a8 22
+message_log_append( "START TRANSACTION" );
+	return( @@mysql_query( "START TRANSACTION", $db_conn ));
+}
+
+
+function commit( $db_conn )
+{
+message_log_append( "COMMIT" );
+	return( @@mysql_query( "COMMIT", $db_conn ));
+}
+
+
+function rollback( $db_conn )
+{
+message_log_append( "ROLLBACK" );
+	return( @@mysql_query( "ROLLBACK", $db_conn ));
+}
+
+
+function last_insert_id( $db_conn )
+{
+	$result = @@mysql_query( "SELECT LAST_INSERT_ID()", $db_conn );
+d17 1
+a17 12
+function site_name( $db_conn )
+{
+	$result = @@mysql_query( "SELECT SiteName FROM temp_header", $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		$value = ($record) ? $record[ 0 ] : NULL;
+	} else $value = NULL;
+	return( $value );
+}
+
+
+function header_insert( $p_header_data, $db_conn )
+d21 1
+a21 1
+//	message_log_append( "header: insert" );
+d25 3
+a27 3
+	$qry = "CREATE /* TEMPORARY */ TABLE temp_header LIKE contract_header";
+	if (!($success = mysql_query( $qry, $db_conn )))
+		message_log_append( mysql_error(), LOG_ERROR );
+d31 1
+a31 1
+//		message_log_append( "header: seqn = $seqn" );
+d33 2
+a37 1
+
+d39 1
+a39 2
+//message_log_append( "header: $qry" );
+		
+d42 1
+a42 9
+
+//		if ($success) {
+//			$new_seqn = last_insert_id( $db_conn );
+//			if ($new_seqn <> $seqn) {
+//				echo "header: success, new seq is $new_seqn<br>\n";
+//			} else { // insert failed
+//				$success = FALSE;
+//			}
+//		}
+d44 2
+a45 4
+
+// if success, return the new sequence number, else return NULL
+
+//	$success = $success ? $new_seqn : NULL;
+d49 1
+a49 18
+} // header_insert
+
+
+function network_alias( $p_network, $db_conn )
+// Look up the NCC alias for the given network tag
+// return NULL if error.
+{
+        $qry = "SELECT NCCAlias from network WHERE Name = '$p_network'";
+        $result = mysql_query( $qry, $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		if ($record) 
+			$value = $record[ 0 ];
+		else
+			$value = NULL;
+	} else $value = NULL;
+	return( $value );
+}
+d127 1
+a127 1
+function detail_insert( $p_detail_data, $db_conn, $p_cindex )
+d131 1
+a131 1
+//	message_log_append( "detail insert" );
+d137 4
+a140 3
+	$qry = "CREATE /* TEMPORARY */ TABLE temp_detail LIKE contract_detail";
+	$success = mysql_query( $qry, $db_conn );
+if (!$success) message_log_append( mysql_error(), LOG_ERROR );
+a142 1
+
+d144 1
+a144 1
+//		message_log_append( "detail: seqn = $seqn" );
+a145 1
+
+d150 1
+a150 1
+//message_log_append( "detail: $qry" );
+d152 2
+a153 1
+if (!$success) message_log_append( mysql_error(), LOG_ERROR );
+d158 1
+a158 1
+//		message_log_append( "detail: new_seqn = $new_seqn" );
+a167 17
+        if ($success) {
+		$qry = "ALTER TABLE temp_detail DROP COLUMN Line";
+		$success = mysql_query( $qry, $db_conn );
+	}
+
+//	if ($success) {
+//		$qry = "INSERT INTO contract_detail " .
+//			"( Contract, Network, StartDate, EndDate, TimeOn, " .
+//			"TimeOff, Distribution, Bonus, Priority, " .
+//			"UnitPrice, nWeeks, Value, nSched, nPlaced, " .
+//			"nPlayed, ActualValue, ProgramName, StartDay, " .
+//			"EndDay, MakeGoods, MakeGoodDays ) " .
+//			"SELECT * FROM temp_detail";
+//		$success = mysql_query( $qry, $db_conn );
+//if (!$success) echo mysql_error() . "<br>\n";
+//	}
+
+d170 1
+a170 1
+} // detail_insert
+d173 2
+a174 2
+function insert_sql_data( $p_header_file_name, 
+			  $p_detail_file_name )
+d176 2
+a177 3
+// insert the header and detail data into the file
+// with appropriate safeguards to ensure full 
+// completion or rollback of the transaction.
+d193 2
+a194 2
+	$cindex = header_insert( $header_insert_string, $db_conn );
+	$site_name = site_name( $db_conn );
+d196 3
+a198 1
+	$success = $success && (!is_null( $cindex ));
+d204 5
+a208 1
+	$success = $success && detail_insert( $detail_insert_string, $db_conn, $cindex );
+a244 7
+//	begin( $db_conn );	// start transaction
+//
+//	if ($success)
+//		commit( $db_conn );
+//	else
+//		rollback( $db_conn );
+
+d247 1
+a247 1
+} // insert_sql_data
+d250 3
+a252 3
+function ncc_insert_sql( $header_file_name,
+			 $detail_file_name,
+			 $sql_output_filename )
+d260 1
+a260 1
+	$s = insert_sql_data( $header_file_name, $detail_file_name );
+d262 1
+a262 1
+} // ncc_insert_sql
+@

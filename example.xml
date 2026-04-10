@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.spotcable.com/schema/spotcableOrder_101.xsd">
+	<document>
+		<schemaVersion>1.0.1</schemaVersion>
+		<name>TAMCC0710E_MSADS_Terminix</name>
+		<date>2010-07-01</date>
+		<mediaType>Spotcable</mediaType>
+		<documentType>Order</documentType>
+		<documentCode>1</documentCode>
+	</document>
+	<campaign>
+		<key codeOwner="NCC" codeDescription="">
+			<id>28818</id>
+			<version>1</version>
+			<status/>
+			<subStatus/>
+			<updateDate/>
+		</key>
+		<dateRange>
+			<startDate>2010-07-05</startDate>
+			<endDate>2010-07-25</endDate>
+		</dateRange>
+		<company type="Agency" role="">
+			<name>TelAmerica CableConnect</name>
+			<office>
+				<name>TelAmerica Media - Philadelphia</name>
+				<address country="US" type="mailing">
+					<street>1701 John F. Kennedy Blvd, 25th Floor</street>
+					<city>Philadelphia</city>
+					<state code="PA"/>
+					<postalCode>19103</postalCode>
+				</address>
+				<phone country="US" type="voice">215.568.7066</phone>
+				<phone country="US" type="fax">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="NCC" codeDescription="Universal Agency Office ID">8675</code>
+				</ID>
+			</office>
+			<ID>
+				<code codeOwner="TelAmerica" codeDescription="Universal Agency Office ID">0000</code>
+			</ID>
+		</company>
+		<company type="Rep" role="">
+			<name>TelAmerica CableConnect</name>
+			<office>
+				<name>TelAmerica Media - Philadelphia</name>
+				<address country="US" type="mailing">
+					<street>1701 John F. Kennedy Blvd, 25th Floor</street>
+					<city>Philadelphia</city>
+					<state code="PA"/>
+					<postalCode>19103</postalCode>
+				</address>
+				<phone country="US" type="voice">215.568.7066</phone>
+				<phone country="US" type="fax">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="TelAmerica" codeDescription="Universal Agency Office ID">0000</code>
+				</ID>
+			</office>
+			<contact role="AE">
+				<firstName>Tracy</firstName>
+				<lastName>McGilberry</lastName>
+				<email>TMcGilberry@TelAmericaMedia.com</email>
+				<phone type="voice" country="US">215.568.7066</phone>
+				<phone type="fax" country="US">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="TelAmerica" codeDescription="">8375</code>
+				</ID>
+			</contact>
+			<ID>
+				<code codeOwner="Spotcable" codeDescription="">NCC</code>
+			</ID>
+		</company>
+		<advertiser>
+			<name>TelAmerica</name>
+			<ID>
+				<comment>Terminix</comment>
+				<code codeOwner="Agency" codeDescription="adv.id">40694</code>
+			</ID>
+		</advertiser>
+		<product>
+			<name>Terminix </name>
+			<ID>
+				<comment>Pest Control</comment>
+				<code codeOwner="Agency" codeDescription="Order ID">28818</code>
+			</ID>
+		</product>
+		<estimate>
+			<desc>Terminix </desc>
+			<ID>
+				<code codeOwner="Agency" codeDescription="">4791</code>
+			</ID>
+		</estimate>
+		<makeGoodPolicy>
+			<code codeOwner="NCC" codeDescription="Makegood within flight">S</code>
+		</makeGoodPolicy>
+		<demo demoRank="1">
+			<group>Households</group>
+			<ageFrom>0</ageFrom>
+			<ageTo>99</ageTo>
+		</demo>
+		<buyType>weekly</buyType>
+		<populations demoRank="1">11633794</populations>
+		<order>
+			<key codeOwner="Agency" codeDescription="Order ID">
+				<id>47910632</id>
+				<version>1</version>
+				<status>ordered</status>
+				<subStatus>new</subStatus>
+				<updateDate>2010-07-01</updateDate>
+			</key>
+			<totals>
+				<cost currency="USD">237.66</cost>
+				<spots>2790</spots>
+			</totals>
+			<market nsi_id="168">
+				<name>Atlanta</name>
+			</market>
+			<survey>
+				<ratingService/>
+				<geography/>
+				<shareBook/>
+				<PUTBook/>
+				<profile/>
+				<comment codeOwner="Spotcable">TelAmerica</comment>
+			</survey>
+			<populations demoRank="1">11633794</populations>
+			<comment/>
+			<breakoutMonth yearMonth="2010-07">
+				<totals>
+					<cost currency="USD">237.66</cost>
+					<spots>2790</spots>
+				</totals>
+			</breakoutMonth>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952626</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>COLORADO SPRINGS</name>
+					<syscode>9518</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">0.96</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">0.96</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553138">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.01</spotCost>
+					<totals>
+						<cost currency="USD">0.96</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0001">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0002">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0003">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952627</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF GEORGIA</name>
+					<syscode>9306</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">11.52</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">11.52</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553688">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.12</spotCost>
+					<totals>
+						<cost currency="USD">11.52</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0004">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0005">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0006">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952628</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HEFLIN</name>
+					<syscode>9130</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">4.80</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553691">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0007">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0008">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0009">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952629</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>SANTEE</name>
+					<syscode>9301</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">7.68</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553692">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0010">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0011">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0012">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25949636</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>COLUMBIA-JEFFER, MO</name>
+					<syscode>9177</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">35.04</cost>
+					<spots>168</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">35.04</cost>
+						<spots>168</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589563693">
+					<startTime>09:30:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Food Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="7304">FOOD</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">10.08</cost>
+						<spots>72</spots>
+					</totals>
+					<spot id="SPOT0013">
+						<weekNumber>1</weekNumber>
+						<quantity>24</quantity>
+					</spot>
+					<spot id="SPOT0014">
+						<weekNumber>2</weekNumber>
+						<quantity>24</quantity>
+					</spot>
+					<spot id="SPOT0015">
+						<weekNumber>3</weekNumber>
+						<quantity>24</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="589553693">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.26</spotCost>
+					<totals>
+						<cost currency="USD">24.96</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0016">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0017">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0018">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952631</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>CUSSETA</name>
+					<syscode>9127</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">3.84</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">3.84</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553694">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">3.84</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0019">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0020">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0021">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952632</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>FT. MYERS</name>
+					<syscode>9144</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">7.68</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553695">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0022">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0023">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0024">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25950791</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HINDMAN, KY</name>
+					<syscode>9307</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">27.24</cost>
+					<spots>186</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">27.24</cost>
+						<spots>186</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589573698">
+					<startTime>07:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Home And Garden TV</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="8920">HGTV</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.10</spotCost>
+					<totals>
+						<cost currency="USD">9.00</cost>
+						<spots>90</spots>
+					</totals>
+					<spot id="SPOT0025">
+						<weekNumber>1</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0026">
+						<weekNumber>2</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0027">
+						<weekNumber>3</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="589553698">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.19</spotCost>
+					<totals>
+						<cost currency="USD">18.24</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0028">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0029">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0030">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952634</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>MCCOOK, NE</name>
+					<syscode>9145</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">4.80</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553700">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0031">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0032">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0033">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952635</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>GEORGIA COLLEGE</name>
+					<syscode>9305</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">5.76</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553701">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0034">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0035">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0036">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952636</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>RING GOLD</name>
+					<syscode>9304</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">3.84</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">3.84</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553702">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">3.84</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0037">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0038">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0039">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952637</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF MISSISSIPPI</name>
+					<syscode>9129</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">13.44</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">13.44</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553703">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">13.44</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0040">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0041">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0042">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952638</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>STAHLSTOWN</name>
+					<syscode>9359</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">5.76</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553704">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0043">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0044">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0045">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25950792</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>MONMOUTH</name>
+					<syscode>9176</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">9.42</cost>
+					<spots>186</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">9.42</cost>
+						<spots>186</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589573705">
+					<startTime>07:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Home And Garden TV</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="8920">HGTV</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">2.70</cost>
+						<spots>90</spots>
+					</totals>
+					<spot id="SPOT0046">
+						<weekNumber>1</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0047">
+						<weekNumber>2</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0048">
+						<weekNumber>3</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="589553705">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">6.72</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0049">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0050">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0051">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952640</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF UTAH</name>
+					<syscode>9311</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">4.80</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553706">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0052">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0053">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0054">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952641</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PANGUITCH-ESCALANTE</name>
+					<syscode>9471</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">4.80</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553707">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0055">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0056">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0057">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952642</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>SPANISH FORK</name>
+					<syscode>9487</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">9.60</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">9.60</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553708">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.10</spotCost>
+					<totals>
+						<cost currency="USD">9.60</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0058">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0059">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0060">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952643</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>CHULA VISTA</name>
+					<syscode>9298</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">11.52</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">11.52</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553709">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.12</spotCost>
+					<totals>
+						<cost currency="USD">11.52</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0061">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0062">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0063">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25950793</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>BRYAN</name>
+					<syscode>9361</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">5.64</cost>
+					<spots>186</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">5.64</cost>
+						<spots>186</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589573710">
+					<startTime>07:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Home And Garden TV</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="8920">HGTV</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">1.80</cost>
+						<spots>90</spots>
+					</totals>
+					<spot id="SPOT0064">
+						<weekNumber>1</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0065">
+						<weekNumber>2</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+					<spot id="SPOT0066">
+						<weekNumber>3</weekNumber>
+						<quantity>30</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="589553710">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">3.84</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0067">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0068">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0069">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952645</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>KANSAS STATE UNIVERSITY</name>
+					<syscode>9182</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">14.40</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">14.40</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553711">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.15</spotCost>
+					<totals>
+						<cost currency="USD">14.40</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0070">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0071">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0072">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952646</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PINE RIVER</name>
+					<syscode>9253</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">7.68</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553712">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">7.68</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0073">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0074">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0075">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952647</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>LEBANON-CASTLEWOOD</name>
+					<syscode>9310</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">4.80</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553713">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">4.80</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0076">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0077">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0078">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952648</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>TORONTO, OH</name>
+					<syscode>9364</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">5.76</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553714">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">5.76</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0079">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0080">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0081">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952649</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PROVO, UT</name>
+					<syscode>9567</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">19.20</cost>
+					<spots>96</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">19.20</cost>
+						<spots>96</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553764">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.20</spotCost>
+					<totals>
+						<cost currency="USD">19.20</cost>
+						<spots>96</spots>
+					</totals>
+					<spot id="SPOT0082">
+						<weekNumber>1</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0083">
+						<weekNumber>2</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+					<spot id="SPOT0084">
+						<weekNumber>3</weekNumber>
+						<quantity>32</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952650</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>Price/Clevland, UT</name>
+					<syscode>9690</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">2.40</cost>
+					<spots>48</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.40</cost>
+						<spots>48</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553884">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">2.40</cost>
+						<spots>48</spots>
+					</totals>
+					<spot id="SPOT0085">
+						<weekNumber>1</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0086">
+						<weekNumber>2</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0087">
+						<weekNumber>3</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952651</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>Moab, UT</name>
+					<syscode>9691</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">2.40</cost>
+					<spots>48</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.40</cost>
+						<spots>48</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553885">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">2.40</cost>
+						<spots>48</spots>
+					</totals>
+					<spot id="SPOT0088">
+						<weekNumber>1</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0089">
+						<weekNumber>2</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0090">
+						<weekNumber>3</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>25952652</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-07-01</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HARLAN, TN</name>
+					<syscode>9704</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">11633794</populations>
+				<totals>
+					<cost currency="USD">2.88</cost>
+					<spots>48</spots>
+				</totals>
+				<weeks count="3">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+					<week number="3" startDate="2010-07-19"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.88</cost>
+						<spots>48</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="589553922">
+					<startTime>06:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>TDR</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>USA</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6217">USA</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">2.88</cost>
+						<spots>48</spots>
+					</totals>
+					<spot id="SPOT0091">
+						<weekNumber>1</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0092">
+						<weekNumber>2</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+					<spot id="SPOT0093">
+						<weekNumber>3</weekNumber>
+						<quantity>16</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+		</order>
+	</campaign>
+</adx>

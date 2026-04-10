@@ -1,0 +1,162 @@
+head	1.9;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.9
+date	2015.07.28.04.36.10;	author root;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2015.07.14.02.19.04;	author root;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2011.06.27.19.32.15;	author root;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2011.06.27.19.26.14;	author root;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.21.16.11.02;	author james;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.19.23.21.24;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.10.16.14.13;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.09.17.44.58;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.08.17.16.01;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.9
+log
+@change MAX_FILE_SIZE from 10 million to 30 million
+@
+text
+@<!-- The data encoding type, enctype, MUST be specified as below -->
+<form enctype="multipart/form-data" action="xml_import.php" method="POST">
+    <!-- MAX_FILE_SIZE must precede the file input field -->
+    <input type="hidden" name="MAX_FILE_SIZE" value="30000000" />
+    <!-- Name of input element determines name in $_FILES array -->
+    .SCX filename: <input name="xmlfile" size="50" type="file" />
+    <input type="submit" value="Upload" />
+</form>
+@
+
+
+1.8
+log
+@increase MAX_FILE_SIZE from 5 million to 10 million bytes
+@
+text
+@d4 1
+a4 1
+    <input type="hidden" name="MAX_FILE_SIZE" value="50000000" />
+@
+
+
+1.7
+log
+@increase MAX_FILE_SIZE to 5,000,000
+@
+text
+@d4 1
+a4 1
+    <input type="hidden" name="MAX_FILE_SIZE" value="9000000" />
+@
+
+
+1.6
+log
+@change max file size from 500,000 to 1,000,000
+@
+text
+@d4 1
+a4 1
+    <input type="hidden" name="MAX_FILE_SIZE" value="1000000" />
+@
+
+
+1.5
+log
+@remove 'NCC'
+@
+text
+@d4 1
+a4 1
+    <input type="hidden" name="MAX_FILE_SIZE" value="500000" />
+@
+
+
+1.4
+log
+@change ncc_xml... to xml...
+@
+text
+@d6 1
+a6 1
+    NCC .SCX filename: <input name="xmlfile" size="50" type="file" />
+@
+
+
+1.3
+log
+@change URL from index.php to ncc_xml_import.php
+@
+text
+@d2 1
+a2 1
+<form enctype="multipart/form-data" action="ncc_xml_import.php" method="POST">
+d6 1
+a6 1
+    NCC .SCX filename: <input name="ncc_xmlfile" size="50" type="file" />
+@
+
+
+1.2
+log
+@set size=50 on filename field
+@
+text
+@d2 1
+a2 1
+<form enctype="multipart/form-data" action="index.php" method="POST">
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 1
+a6 1
+    NCC .SCX filename: <input name="ncc_xmlfile" type="file" />
+@

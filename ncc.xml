@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.spotcable.com/schema/spotcableOrder_101.xsd">
+  <document>
+    <schemaVersion>1.0.1</schemaVersion>
+    <name>SpotCable Order XML</name>
+    <date>2010-06-07</date>
+    <mediaType>Spotcable</mediaType>
+    <documentType>Order</documentType>
+    <documentCode>1</documentCode>
+  </document>
+  <campaign>
+    <key codeOwner="NCC">
+      <id>61135360</id>
+    </key>
+    <dateRange>
+      <startDate>2009-06-29</startDate>
+      <endDate>2009-09-27</endDate>
+    </dateRange>
+    <company type="Rep" role="">
+      <name>NCC</name>
+      <office>
+        <name><![CDATA[NCC - Detroit]]></name>
+        <address country="US" type="mailing">
+          <street><![CDATA[1000 Town Center Suite 480]]></street>
+          <city><![CDATA[Southfield]]></city>
+          <state code="MI" />
+          <postalCode>48075</postalCode>
+        </address>
+        <phone country="US" type="voice">(248) 728-0800</phone>
+        <phone country="US" type="fax">(248) 728-0801</phone>
+        <ID>
+          <code codeOwner="NCC">7</code>
+        </ID>
+      </office>
+      <contact role="AE">
+        <firstName><![CDATA[Linda]]></firstName>
+        <lastName><![CDATA[Kahan]]></lastName>
+        <email><![CDATA[Linda_Kahan@spotcable.com]]></email>
+        <phone country="US" type="voice">(248) 728-0800</phone>
+        <phone country="US" type="fax">(248) 728-0801</phone>
+        <ID>
+          <code codeOwner="NCC">64</code>
+        </ID>
+      </contact>
+      <ID>
+        <code codeDescription="" codeOwner="NCC">NCC</code>
+      </ID>
+    </company>
+    <company type="Agency" role="">
+      <name><![CDATA[GroupM Motion]]></name>
+      <office>
+        <name><![CDATA[GroupM Motion]]></name>
+        <address country="US" type="mailing">
+          <street><![CDATA[498 Seventh Avenue]]></street>
+          <city><![CDATA[New York]]></city>
+          <state code="NY" />
+          <postalCode>10018</postalCode>
+        </address>
+        <phone country="US" type="voice" />
+      </office>
+      <ID>
+        <code codeOwner="NCC">707166</code>
+      </ID>
+    </company>
+    <advertiser>
+      <name><![CDATA[Ford - Cinn. District Ford Dlr.]]></name>
+      <ID>
+        <comment />
+        <code codeDescription="" codeOwner="NCC">56942</code>
+      </ID>
+      <ID>
+        <comment />
+        <code codeDescription="" codeOwner="Agency">ZCD</code>
+      </ID>
+    </advertiser>
+    <product>
+      <name><![CDATA[ ]]></name>
+      <ID>
+        <comment />
+        <code codeDescription="" codeOwner="Agency"><![CDATA[CAR]]></code>
+      </ID>
+    </product>
+    <estimate>
+      <desc><![CDATA[Lexington-Fayette - 10360449]]></desc>
+      <ID>
+        <code codeDescription="" codeOwner="Agency">011</code>
+      </ID>
+    </estimate>
+    <makeGoodPolicy>
+      <code codeDescription="Approval Required" codeOwner="NCC">A</code>
+    </makeGoodPolicy>
+    <demo demoRank="1">
+      <group>Adults</group>
+      <ageFrom>25</ageFrom>
+      <ageTo>54</ageTo>
+    </demo>
+    <buyType>weekly</buyType>
+    <populations demoRank="1">15984</populations>
+    <order>
+      <key codeOwner="NCC">
+        <id>61338850</id>
+        <status>confirmed</status>
+        <subStatus>new</subStatus>
+        <updateDate>2009-02-12</updateDate>
+      </key>
+      <totals>
+        <cost currency="USD">4125</cost>
+        <spots>752</spots>
+      </totals>
+      <market nsi_id="141">
+        <name><![CDATA[Lexington-Fayette]]></name>
+      </market>
+      <survey>
+        <ratingService />
+        <geography>Zone</geography>
+        <shareBook />
+        <PUTBook />
+        <profile />
+        <comment codeOwner="NCC"><![CDATA[May08 ST Nielsen CBL #]]></comment>
+      </survey>
+      <populations demoRank="1">15984</populations>
+      <comment><![CDATA[ ]]></comment>
+      <breakoutMonth yearMonth="2009-01">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-02">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-03">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-04">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-05">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-06">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-07">
+        <totals>
+          <cost currency="USD">1309</cost>
+          <spots>238</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-08">
+        <totals>
+          <cost currency="USD">1611</cost>
+          <spots>294</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-09">
+        <totals>
+          <cost currency="USD">1205</cost>
+          <spots>220</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-10">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-11">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <breakoutMonth yearMonth="2009-12">
+        <totals>
+          <cost currency="USD">0</cost>
+          <spots>0</spots>
+        </totals>
+      </breakoutMonth>
+      <systemOrder>
+        <key codeOwner="NCC">
+          <id>1076753</id>
+          <version>1</version>
+          <status>accepted</status>
+          <subStatus>new</subStatus>
+          <updateDate>2009-02-12</updateDate>
+        </key>
+        <comment><![CDATA[New Order. Please confirm within 48 hrs.]]></comment>
+        <system>
+          <name><![CDATA[Ad Systems/Hindman, KY]]></name>
+          <syscode>9307 </syscode>
+        </system>
+        <affiliateSplit>0</affiliateSplit>
+        <populations demoRank="1">15283</populations>
+        <totals>
+          <cost currency="USD">2190</cost>
+          <spots>365</spots>
+        </totals>
+        <weeks count="13">
+          <week number="1" startDate="2009-06-29" />
+          <week number="2" startDate="2009-07-06" />
+          <week number="3" startDate="2009-07-13" />
+          <week number="4" startDate="2009-07-20" />
+          <week number="5" startDate="2009-07-27" />
+          <week number="6" startDate="2009-08-03" />
+          <week number="7" startDate="2009-08-10" />
+          <week number="8" startDate="2009-08-17" />
+          <week number="9" startDate="2009-08-24" />
+          <week number="10" startDate="2009-08-31" />
+          <week number="11" startDate="2009-09-07" />
+          <week number="12" startDate="2009-09-14" />
+          <week number="13" startDate="2009-09-21" />
+        </weeks>
+        <breakoutMonth yearMonth="2009-01">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-02">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-03">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-04">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-05">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-06">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-07">
+          <totals>
+            <cost currency="USD">714</cost>
+            <spots>119</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-08">
+          <totals>
+            <cost currency="USD">846</cost>
+            <spots>141</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-09">
+          <totals>
+            <cost currency="USD">630</cost>
+            <spots>105</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-10">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-11">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <breakoutMonth yearMonth="2009-12">
+          <totals>
+            <cost currency="USD">0</cost>
+            <spots>0</spots>
+          </totals>
+        </breakoutMonth>
+        <detailLine detailLineID="25244648">
+          <startTime>18:00:00</startTime>
+          <endTime>00:00:00</endTime>
+          <startDay>M</startDay>
+          <dayOfWeek>
+            <Monday>Y</Monday>
+            <Tuesday>Y</Tuesday>
+            <Wednesday>Y</Wednesday>
+            <Thursday>Y</Thursday>
+            <Friday>Y</Friday>
+            <Saturday>0</Saturday>
+            <Sunday>0</Sunday>
+          </dayOfWeek>
+          <length>PT30S</length>
+          <daypartCode>3</daypartCode>
+          <program><![CDATA[CNN]]></program>
+          <comment><![CDATA[ ]]></comment>
+          <network>
+            <name><![CDATA[CNN]]></name>
+            <ID>
+              <code codeDescription="6202" codeOwner="NCC"><![CDATA[CNN]]></code>
+            </ID>
+          </network>
+          <spotCost currency="USD">6</spotCost>
+          <demoValue demoRank="1">
+            <value type="Impressions">47</value>
+          </demoValue>
+          <totals>
+            <cost currency="USD">444</cost>
+            <spots>74</spots>
+          </totals>
+          <spot id="1">
+            <weekNumber>1</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="2">
+            <weekNumber>3</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="3">
+            <weekNumber>4</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="4">
+            <weekNumber>5</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="5">
+            <weekNumber>7</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="6">
+            <weekNumber>8</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="7">
+            <weekNumber>9</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="8">
+            <weekNumber>10</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="9">
+            <weekNumber>12</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="10">
+            <weekNumber>13</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+        </detailLine>
+        <detailLine detailLineID="25244649">
+          <startTime>18:00:00</startTime>
+          <endTime>00:00:00</endTime>
+          <startDay>M</startDay>
+          <dayOfWeek>
+            <Monday>Y</Monday>
+            <Tuesday>Y</Tuesday>
+            <Wednesday>Y</Wednesday>
+            <Thursday>Y</Thursday>
+            <Friday>Y</Friday>
+            <Saturday>0</Saturday>
+            <Sunday>0</Sunday>
+          </dayOfWeek>
+          <length>PT30S</length>
+          <daypartCode>3</daypartCode>
+          <program><![CDATA[ESPN]]></program>
+          <comment><![CDATA[ ]]></comment>
+          <network>
+            <name><![CDATA[ESPN]]></name>
+            <ID>
+              <code codeDescription="6204" codeOwner="NCC"><![CDATA[ESPN]]></code>
+            </ID>
+          </network>
+          <spotCost currency="USD">6</spotCost>
+          <demoValue demoRank="1">
+            <value type="Impressions">146</value>
+          </demoValue>
+          <totals>
+            <cost currency="USD">426</cost>
+            <spots>71</spots>
+          </totals>
+          <spot id="11">
+            <weekNumber>1</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="12">
+            <weekNumber>3</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="13">
+            <weekNumber>4</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="14">
+            <weekNumber>5</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="15">
+            <weekNumber>7</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="16">
+            <weekNumber>8</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="17">
+            <weekNumber>9</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="18">
+            <weekNumber>10</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="19">
+            <weekNumber>12</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="20">
+            <weekNumber>13</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+        </detailLine>
+        <detailLine detailLineID="25244650">
+          <startTime>18:00:00</startTime>
+          <endTime>00:00:00</endTime>
+          <startDay>M</startDay>
+          <dayOfWeek>
+            <Monday>Y</Monday>
+            <Tuesday>Y</Tuesday>
+            <Wednesday>Y</Wednesday>
+            <Thursday>Y</Thursday>
+            <Friday>Y</Friday>
+            <Saturday>0</Saturday>
+            <Sunday>0</Sunday>
+          </dayOfWeek>
+          <length>PT30S</length>
+          <daypartCode>3</daypartCode>
+          <program><![CDATA[LIFETIME]]></program>
+          <comment><![CDATA[ ]]></comment>
+          <network>
+            <name><![CDATA[Lifetime Television]]></name>
+            <ID>
+              <code codeDescription="6196" codeOwner="NCC"><![CDATA[LIFE]]></code>
+            </ID>
+          </network>
+          <spotCost currency="USD">6</spotCost>
+          <demoValue demoRank="1">
+            <value type="Impressions">84</value>
+          </demoValue>
+          <totals>
+            <cost currency="USD">444</cost>
+            <spots>74</spots>
+          </totals>
+          <spot id="21">
+            <weekNumber>1</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="22">
+            <weekNumber>3</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="23">
+            <weekNumber>4</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="24">
+            <weekNumber>5</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="25">
+            <weekNumber>7</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="26">
+            <weekNumber>8</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="27">
+            <weekNumber>9</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="28">
+            <weekNumber>10</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="29">
+            <weekNumber>12</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="30">
+            <weekNumber>13</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+        </detailLine>
+        <detailLine detailLineID="25244651">
+          <startTime>18:00:00</startTime>
+          <endTime>00:00:00</endTime>
+          <startDay>M</startDay>
+          <dayOfWeek>
+            <Monday>Y</Monday>
+            <Tuesday>Y</Tuesday>
+            <Wednesday>Y</Wednesday>
+            <Thursday>Y</Thursday>
+            <Friday>Y</Friday>
+            <Saturday>0</Saturday>
+            <Sunday>0</Sunday>
+          </dayOfWeek>
+          <length>PT30S</length>
+          <daypartCode>3</daypartCode>
+          <program><![CDATA[TNT]]></program>
+          <comment><![CDATA[ ]]></comment>
+          <network>
+            <name><![CDATA[Turner Network Television]]></name>
+            <ID>
+              <code codeDescription="6390" codeOwner="NCC"><![CDATA[TNT]]></code>
+            </ID>
+          </network>
+          <spotCost currency="USD">6</spotCost>
+          <demoValue demoRank="1">
+            <value type="Impressions">216</value>
+          </demoValue>
+          <totals>
+            <cost currency="USD">438</cost>
+            <spots>73</spots>
+          </totals>
+          <spot id="31">
+            <weekNumber>1</weekNumber>
+            <quantity>9</quantity>
+          </spot>
+          <spot id="32">
+            <weekNumber>3</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="33">
+            <weekNumber>4</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="34">
+            <weekNumber>5</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="35">
+            <weekNumber>7</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="36">
+            <weekNumber>8</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="37">
+            <weekNumber>9</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="38">
+            <weekNumber>10</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="39">
+            <weekNumber>12</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="40">
+            <weekNumber>13</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+        </detailLine>
+        <detailLine detailLineID="25244652">
+          <startTime>18:00:00</startTime>
+          <endTime>00:00:00</endTime>
+          <startDay>M</startDay>
+          <dayOfWeek>
+            <Monday>Y</Monday>
+            <Tuesday>Y</Tuesday>
+            <Wednesday>Y</Wednesday>
+            <Thursday>Y</Thursday>
+            <Friday>Y</Friday>
+            <Saturday>0</Saturday>
+            <Sunday>0</Sunday>
+          </dayOfWeek>
+          <length>PT30S</length>
+          <daypartCode>3</daypartCode>
+          <program><![CDATA[USA]]></program>
+          <comment><![CDATA[ ]]></comment>
+          <network>
+            <name><![CDATA[USA]]></name>
+            <ID>
+              <code codeDescription="6217" codeOwner="NCC"><![CDATA[USA]]></code>
+            </ID>
+          </network>
+          <spotCost currency="USD">6</spotCost>
+          <demoValue demoRank="1">
+            <value type="Impressions">151</value>
+          </demoValue>
+          <totals>
+            <cost currency="USD">438</cost>
+            <spots>73</spots>
+          </totals>
+          <spot id="41">
+            <weekNumber>1</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="42">
+            <weekNumber>3</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="43">
+            <weekNumber>4</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="44">
+            <weekNumber>5</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="45">
+            <weekNumber>7</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="46">
+            <weekNumber>8</weekNumber>
+            <quantity>6</quantity>
+          </spot>
+          <spot id="47">
+            <weekNumber>9</weekNumber>
+            <quantity>8</quantity>
+          </spot>
+          <spot id="48">
+            <weekNumber>10</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="49">
+            <weekNumber>12</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+          <spot id="50">
+            <weekNumber>13</weekNumber>
+            <quantity>7</quantity>
+          </spot>
+        </detailLine>
+      </systemOrder>
+    </order>
+  </campaign>
+</adx>

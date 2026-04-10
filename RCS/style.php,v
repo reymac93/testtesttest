@@ -1,0 +1,215 @@
+head	1.10;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.10
+date	2015.10.19.00.12.39;	author root;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2015.10.18.23.46.10;	author root;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2012.09.28.19.46.12;	author root;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2012.09.28.05.43.37;	author root;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2012.09.27.20.03.37;	author root;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2012.09.26.20.50.59;	author root;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.09.16.38.44;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.09.16.25.13;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.09.16.23.55;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.09.16.10.25;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@new file
+@
+
+
+1.10
+log
+@increase body width to 900px.
+@
+text
+@<?
+
+function output_style_header()
+{
+
+	echo <<< __EOF__
+<style type="text/css">
+body {margin-top:10px; margin-right:0px; margin-bottom:0px; margin-left:10px; width:900px; }
+p {font-family: century, serif; font-size: 14px;}
+.warning {background-color: yellow;}
+.error {background-color: red;}
+.left {text-align: left;}
+.right {text-align: right;}
+.error_button {
+    border: 1px solid #000;
+    background-color: red;
+    padding: 0px;
+}
+.warn_button {
+    border: 1px solid #000;
+    background-color: yellow;
+    padding: 0px;
+}
+.good_button {
+    border: 1px solid #000;
+    background-color: palegreen;
+    padding: 0px;
+}
+.blank_button {
+    border: 1px solid #000;
+    background-color: white;
+    color: white;
+}
+
+table, th, td
+{
+border: 1px solid black;
+}
+pre {font-family: courier; font-size: 14px;}
+</style>
+__EOF__;
+
+} // output_style_header
+
+?>
+@
+
+
+1.9
+log
+@add padding: 0px to good/warn/error buttons
+@
+text
+@d8 1
+a8 1
+body {margin-top:10px; margin-right:0px; margin-bottom:0px; margin-left:10px; width:750px; }
+@
+
+
+1.8
+log
+@add class blank_button.
+@
+text
+@d17 1
+d22 1
+d27 1
+@
+
+
+1.7
+log
+@add good_button class.
+@
+text
+@d26 5
+@
+
+
+1.6
+log
+@add .error_button  and .warn_button classes
+@
+text
+@d15 1
+a15 1
+    border: 1px solid #006;
+d19 1
+a19 1
+    border: 1px solid #006;
+d22 4
+@
+
+
+1.5
+log
+@add left, right classes for alignment; experimental use of table/th/td border.
+@
+text
+@d14 9
+@
+
+
+1.4
+log
+@changed colors to be background colors, not foreground
+@
+text
+@d12 6
+@
+
+
+1.3
+log
+@change top margin to 10px
+@
+text
+@d10 2
+a11 2
+.warning {color: yellow;}
+.error {color: red;}
+@
+
+
+1.2
+log
+@change function name to output_style_header
+@
+text
+@d8 1
+a8 1
+body {margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:10px; width:750px; }
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+function output_css_header()
+d16 1
+a16 1
+}
+@

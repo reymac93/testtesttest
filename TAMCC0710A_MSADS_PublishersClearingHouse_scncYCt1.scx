@@ -1,0 +1,4747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.spotcable.com/schema/spotcableOrder_101.xsd">
+	<document>
+		<schemaVersion>1.0.1</schemaVersion>
+		<name>TAMCC0710A_MSADS_PublishersClearingHouse</name>
+		<date>2010-06-21</date>
+		<mediaType>Spotcable</mediaType>
+		<documentType>Order</documentType>
+		<documentCode>1</documentCode>
+	</document>
+	<campaign>
+		<key codeOwner="NCC" codeDescription="">
+			<id>27832</id>
+			<version>1</version>
+			<status/>
+			<subStatus/>
+			<updateDate/>
+		</key>
+		<dateRange>
+			<startDate>2010-07-05</startDate>
+			<endDate>2010-07-18</endDate>
+		</dateRange>
+		<company type="Agency" role="">
+			<name>TelAmerica CableConnect</name>
+			<office>
+				<name>TelAmerica Media - Philadelphia</name>
+				<address country="US" type="mailing">
+					<street>1701 John F. Kennedy Blvd, 25th Floor</street>
+					<city>Philadelphia</city>
+					<state code="PA"/>
+					<postalCode>19103</postalCode>
+				</address>
+				<phone country="US" type="voice">215.568.7066</phone>
+				<phone country="US" type="fax">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="NCC" codeDescription="Universal Agency Office ID">8675</code>
+				</ID>
+			</office>
+			<ID>
+				<code codeOwner="TelAmerica" codeDescription="Universal Agency Office ID">0000</code>
+			</ID>
+		</company>
+		<company type="Rep" role="">
+			<name>TelAmerica CableConnect</name>
+			<office>
+				<name>TelAmerica Media - Philadelphia</name>
+				<address country="US" type="mailing">
+					<street>1701 John F. Kennedy Blvd, 25th Floor</street>
+					<city>Philadelphia</city>
+					<state code="PA"/>
+					<postalCode>19103</postalCode>
+				</address>
+				<phone country="US" type="voice">215.568.7066</phone>
+				<phone country="US" type="fax">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="TelAmerica" codeDescription="Universal Agency Office ID">0000</code>
+				</ID>
+			</office>
+			<contact role="AE">
+				<firstName>Tracy</firstName>
+				<lastName>McGilberry</lastName>
+				<email>TMcGilberry@TelAmericaMedia.com</email>
+				<phone type="voice" country="US">215.568.7066</phone>
+				<phone type="fax" country="US">215.564.5388</phone>
+				<ID>
+					<comment/>
+					<code codeOwner="TelAmerica" codeDescription="">8375</code>
+				</ID>
+			</contact>
+			<ID>
+				<code codeOwner="Spotcable" codeDescription="">NCC</code>
+			</ID>
+		</company>
+		<advertiser>
+			<name>TelAmerica</name>
+			<ID>
+				<comment>Publishers Clearing House</comment>
+				<code codeOwner="Agency" codeDescription="adv.id">40235</code>
+			</ID>
+		</advertiser>
+		<product>
+			<name>Publishers Clearing House</name>
+			<ID>
+				<comment>Sweepstakes</comment>
+				<code codeOwner="Agency" codeDescription="Order ID">27832</code>
+			</ID>
+		</product>
+		<estimate>
+			<desc>Publishers Clearing House</desc>
+			<ID>
+				<code codeOwner="Agency" codeDescription="">4549</code>
+			</ID>
+		</estimate>
+		<makeGoodPolicy>
+			<code codeOwner="NCC" codeDescription="Makegood within flight">S</code>
+		</makeGoodPolicy>
+		<demo demoRank="1">
+			<group>Households</group>
+			<ageFrom>0</ageFrom>
+			<ageTo>99</ageTo>
+		</demo>
+		<buyType>weekly</buyType>
+		<populations demoRank="1">10921563</populations>
+		<order>
+			<key codeOwner="Agency" codeDescription="Order ID">
+				<id>45490632</id>
+				<version>1</version>
+				<status>ordered</status>
+				<subStatus>new</subStatus>
+				<updateDate>2010-06-21</updateDate>
+			</key>
+			<totals>
+				<cost currency="USD">108.08</cost>
+				<spots>1762</spots>
+			</totals>
+			<market nsi_id="168">
+				<name>Atlanta</name>
+			</market>
+			<survey>
+				<ratingService/>
+				<geography/>
+				<shareBook/>
+				<PUTBook/>
+				<profile/>
+				<comment codeOwner="Spotcable">TelAmerica</comment>
+			</survey>
+			<populations demoRank="1">10921563</populations>
+			<comment/>
+			<breakoutMonth yearMonth="2010-07">
+				<totals>
+					<cost currency="USD">108.08</cost>
+					<spots>1762</spots>
+				</totals>
+			</breakoutMonth>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800037</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>COLORADO SPRINGS</name>
+					<syscode>9518</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">0.68</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">0.68</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063138">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.01</spotCost>
+					<totals>
+						<cost currency="USD">0.22</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0001">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063138">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.01</spotCost>
+					<totals>
+						<cost currency="USD">0.22</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0002">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093138">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.01</spotCost>
+					<totals>
+						<cost currency="USD">0.12</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0003">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093138">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.01</spotCost>
+					<totals>
+						<cost currency="USD">0.12</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0004">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800038</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF GEORGIA</name>
+					<syscode>9306</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">6.44</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">6.44</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063688">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">1.54</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0005">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063688">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">1.54</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0006">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093688">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">1.68</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0007">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093688">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">1.68</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0008">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800039</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HEFLIN</name>
+					<syscode>9130</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">2.76</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063691">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0009">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063691">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0010">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093691">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0011">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093691">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0012">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798618</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>SANTEE</name>
+					<syscode>9301</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">4.88</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.88</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0013">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0014">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0015">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0016">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0017">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093692">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0018">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800041</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>CUSSETA</name>
+					<syscode>9127</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.84</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.84</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063694">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0019">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063694">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0020">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093694">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0021">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093694">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0022">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798619</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>FT. MYERS</name>
+					<syscode>9144</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">4.72</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.72</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.40</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0023">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.40</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0024">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0025">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0026">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0027">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093695">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0028">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800043</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HINDMAN, KY</name>
+					<syscode>9307</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">10.12</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">10.12</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063698">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">2.42</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0029">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063698">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">2.42</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0030">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093698">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.22</spotCost>
+					<totals>
+						<cost currency="USD">2.64</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0031">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093698">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.22</spotCost>
+					<totals>
+						<cost currency="USD">2.64</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0032">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800044</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>MCCOOK, NE</name>
+					<syscode>9145</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">2.76</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063700">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0033">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063700">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0034">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093700">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0035">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093700">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0036">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800045</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>GEORGIA COLLEGE</name>
+					<syscode>9305</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">3.44</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">3.44</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063701">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0037">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063701">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0038">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093701">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.84</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0039">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093701">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.84</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0040">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800046</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>RING GOLD</name>
+					<syscode>9304</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.84</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.84</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063702">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0041">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063702">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0042">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093702">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0043">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093702">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0044">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800047</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF MISSISSIPPI</name>
+					<syscode>9129</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">7.36</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.36</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063703">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">1.76</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0045">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063703">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">1.76</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0046">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093703">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.16</spotCost>
+					<totals>
+						<cost currency="USD">1.92</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0047">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093703">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.16</spotCost>
+					<totals>
+						<cost currency="USD">1.92</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0048">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800048</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>STAHLSTOWN</name>
+					<syscode>9359</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">3.44</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">3.44</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063704">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0049">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063704">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0050">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093704">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.84</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0051">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093704">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.84</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0052">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798620</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>MONMOUTH</name>
+					<syscode>9176</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">4.48</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.48</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.40</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0053">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.40</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0054">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0055">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0056">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">0.96</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0057">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093705">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">0.96</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0058">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800050</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>UNIVERSITY OF UTAH</name>
+					<syscode>9311</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">2.52</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.52</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063706">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0059">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063706">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0060">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093706">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.60</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0061">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093706">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">0.60</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0062">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800051</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PANGUITCH-ESCALANTE</name>
+					<syscode>9471</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">2.76</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063707">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0063">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063707">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0064">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093707">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0065">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093707">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0066">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800052</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>SPANISH FORK</name>
+					<syscode>9487</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">4.84</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.84</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063708">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">1.10</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0067">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063708">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.05</spotCost>
+					<totals>
+						<cost currency="USD">1.10</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0068">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093708">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">1.32</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0069">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093708">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">1.32</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0070">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798621</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>CHULA VISTA</name>
+					<syscode>9298</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">7.88</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.88</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0071">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0072">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">1.54</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0073">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">1.54</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0074">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">1.68</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0075">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093709">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.14</spotCost>
+					<totals>
+						<cost currency="USD">1.68</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0076">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800054</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>BRYAN</name>
+					<syscode>9361</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.84</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.84</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063710">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0077">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063710">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.02</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0078">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093710">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0079">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093710">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0080">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800055</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>KANSAS STATE UNIVERSITY</name>
+					<syscode>9182</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">7.60</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">7.60</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063711">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">1.76</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0081">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063711">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.08</spotCost>
+					<totals>
+						<cost currency="USD">1.76</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0082">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093711">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.17</spotCost>
+					<totals>
+						<cost currency="USD">2.04</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0083">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093711">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.17</spotCost>
+					<totals>
+						<cost currency="USD">2.04</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0084">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798622</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PINE RIVER</name>
+					<syscode>9253</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">4.88</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">4.88</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0085">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.48</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0086">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0087">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.88</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0088">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0089">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093712">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.09</spotCost>
+					<totals>
+						<cost currency="USD">1.08</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0090">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800057</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>LEBANON-CASTLEWOOD</name>
+					<syscode>9310</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">2.76</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063713">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0091">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063713">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0092">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093713">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0093">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093713">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0094">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24798623</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>TORONTO, OH</name>
+					<syscode>9364</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">3.40</cost>
+					<spots>84</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">3.40</cost>
+						<spots>84</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563043714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.32</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0095">
+						<weekNumber>2</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563043714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>A&amp;E Network</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6218">AnE</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.32</cost>
+						<spots>8</spots>
+					</totals>
+					<spot id="SPOT0096">
+						<weekNumber>1</weekNumber>
+						<quantity>8</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0097">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.66</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0098">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0099">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093714">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.72</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0100">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800059</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>PROVO, UT</name>
+					<syscode>9567</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">10.36</cost>
+					<spots>68</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">10.36</cost>
+						<spots>68</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063764">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">2.42</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0101">
+						<weekNumber>1</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063764">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.11</spotCost>
+					<totals>
+						<cost currency="USD">2.42</cost>
+						<spots>22</spots>
+					</totals>
+					<spot id="SPOT0102">
+						<weekNumber>2</weekNumber>
+						<quantity>22</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093764">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.23</spotCost>
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0103">
+						<weekNumber>1</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093764">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.23</spotCost>
+					<totals>
+						<cost currency="USD">2.76</cost>
+						<spots>12</spots>
+					</totals>
+					<spot id="SPOT0104">
+						<weekNumber>2</weekNumber>
+						<quantity>12</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800060</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>Price/Clevland, UT</name>
+					<syscode>9690</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.38</cost>
+					<spots>34</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.38</cost>
+						<spots>34</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063884">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.33</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0105">
+						<weekNumber>1</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063884">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.33</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0106">
+						<weekNumber>2</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093884">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.36</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0107">
+						<weekNumber>1</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093884">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.36</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0108">
+						<weekNumber>2</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800061</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>Moab, UT</name>
+					<syscode>9691</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.38</cost>
+					<spots>34</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.38</cost>
+						<spots>34</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063885">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.33</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0109">
+						<weekNumber>1</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063885">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.03</spotCost>
+					<totals>
+						<cost currency="USD">0.33</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0110">
+						<weekNumber>2</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093885">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.36</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0111">
+						<weekNumber>1</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093885">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.06</spotCost>
+					<totals>
+						<cost currency="USD">0.36</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0112">
+						<weekNumber>2</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+			<systemOrder>
+				<key codeOwner="Agency" codeDescription="System Order Key Description">
+					<id>24800062</id>
+					<version>1</version>
+					<status>ordered</status>
+					<subStatus>new</subStatus>
+					<updateDate>2010-06-21</updateDate>
+				</key>
+				<comment/>
+				<system>
+					<name>HARLAN, TN</name>
+					<syscode>9704</syscode>
+				</system>
+				<affiliateSplit>0</affiliateSplit>
+				<populations demoRank="1">10921563</populations>
+				<totals>
+					<cost currency="USD">1.72</cost>
+					<spots>34</spots>
+				</totals>
+				<weeks count="2">
+					<week number="1" startDate="2010-07-05"/>
+					<week number="2" startDate="2010-07-12"/>
+				</weeks>
+				<breakoutMonth yearMonth="2010-07">
+					<totals>
+						<cost currency="USD">1.72</cost>
+						<spots>34</spots>
+					</totals>
+				</breakoutMonth>
+				<detailLine detailLineID="563063922">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0113">
+						<weekNumber>1</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563063922">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>CNN</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6202">CNN</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.04</spotCost>
+					<totals>
+						<cost currency="USD">0.44</cost>
+						<spots>11</spots>
+					</totals>
+					<spot id="SPOT0114">
+						<weekNumber>2</weekNumber>
+						<quantity>11</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093922">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>N</Monday>
+						<Tuesday>N</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>Y</Saturday>
+						<Sunday>Y</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.42</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0115">
+						<weekNumber>1</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+				<detailLine detailLineID="563093922">
+					<startTime>09:00:00</startTime>
+					<endTime>00:00:00</endTime>
+					<startDay>M</startDay>
+					<dayOfWeek>
+						<Monday>Y</Monday>
+						<Tuesday>Y</Tuesday>
+						<Wednesday>Y</Wednesday>
+						<Thursday>Y</Thursday>
+						<Friday>Y</Friday>
+						<Saturday>N</Saturday>
+						<Sunday>N</Sunday>
+					</dayOfWeek>
+					<length>PT30S</length>
+					<daypartCode>CUS</daypartCode>
+					<program>Various</program>
+					<comment/>
+					<network>
+						<name>Turner Network Television</name>
+						<ID>
+							<code codeOwner="NCC" codeDescription="6390">TNT</code>
+						</ID>
+					</network>
+					<spotCost currency="USD">0.07</spotCost>
+					<totals>
+						<cost currency="USD">0.42</cost>
+						<spots>6</spots>
+					</totals>
+					<spot id="SPOT0116">
+						<weekNumber>2</weekNumber>
+						<quantity>6</quantity>
+					</spot>
+				</detailLine>
+			</systemOrder>
+		</order>
+	</campaign>
+</adx>

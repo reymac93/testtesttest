@@ -1,0 +1,4266 @@
+head	1.74;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.74
+date	2015.07.28.05.04.06;	author root;	state Exp;
+branches;
+next	1.73;
+
+1.73
+date	2013.02.27.00.59.04;	author root;	state Exp;
+branches;
+next	1.72;
+
+1.72
+date	2013.02.11.22.07.56;	author root;	state Exp;
+branches;
+next	1.71;
+
+1.71
+date	2012.11.01.21.35.22;	author root;	state Exp;
+branches;
+next	1.70;
+
+1.70
+date	2012.11.01.21.18.39;	author root;	state Exp;
+branches;
+next	1.69;
+
+1.69
+date	2012.11.01.19.15.29;	author root;	state Exp;
+branches;
+next	1.68;
+
+1.68
+date	2012.10.03.19.34.14;	author root;	state Exp;
+branches;
+next	1.67;
+
+1.67
+date	2012.09.28.05.27.15;	author root;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2012.08.31.00.50.37;	author root;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2012.04.19.23.49.33;	author root;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2011.01.11.00.49.35;	author root;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2010.12.21.23.53.38;	author root;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2010.07.22.22.34.42;	author james;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2010.07.22.17.34.44;	author james;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2010.07.20.22.49.18;	author james;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2010.07.02.20.24.56;	author james;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2010.07.02.19.57.53;	author james;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2010.07.01.21.02.16;	author james;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2010.06.30.22.11.00;	author james;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2010.06.28.16.53.32;	author james;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2010.06.25.23.38.32;	author james;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2010.06.25.22.13.43;	author james;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2010.06.25.21.31.45;	author james;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2010.06.25.00.38.41;	author james;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2010.06.24.22.09.46;	author james;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2010.06.24.20.19.17;	author james;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2010.06.24.20.17.22;	author james;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2010.06.24.00.47.02;	author james;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2010.06.24.00.30.14;	author james;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2010.06.23.23.12.14;	author james;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2010.06.23.23.01.44;	author james;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2010.06.23.22.59.48;	author james;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2010.06.23.22.15.43;	author james;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2010.06.23.22.05.09;	author james;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2010.06.22.04.30.30;	author james;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2010.06.22.03.43.07;	author james;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2010.06.22.03.35.26;	author james;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2010.06.22.02.59.46;	author james;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2010.06.22.01.30.07;	author james;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2010.06.22.00.15.17;	author james;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2010.06.20.23.08.06;	author james;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2010.06.20.21.55.13;	author james;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2010.06.20.06.48.19;	author james;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2010.06.20.06.37.14;	author james;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2010.06.20.06.10.15;	author james;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2010.06.20.04.09.06;	author james;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2010.06.20.03.41.26;	author james;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2010.06.19.23.13.40;	author james;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2010.06.19.22.27.17;	author james;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2010.06.19.21.46.23;	author james;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2010.06.19.17.45.03;	author james;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2010.06.19.17.28.01;	author james;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2010.06.18.05.52.42;	author james;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2010.06.18.05.46.52;	author james;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2010.06.18.05.44.40;	author james;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2010.06.18.05.38.57;	author james;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2010.06.18.05.36.23;	author james;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2010.06.18.05.12.31;	author james;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2010.06.18.04.53.39;	author james;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2010.06.18.04.42.05;	author james;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2010.06.18.04.19.09;	author james;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2010.06.18.04.02.24;	author james;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2010.06.18.03.56.30;	author james;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2010.06.18.01.20.38;	author james;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2010.06.18.00.53.42;	author james;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.06.16.23.07.05;	author james;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.06.16.01.13.01;	author james;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.14.21.32.05;	author james;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.14.21.17.08;	author james;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.10.19.53.28;	author james;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.09.19.33.16;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.09.04.24.40;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.08.16.11.52;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.08.03.02.59;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@initial check-in of ncc_parse_xml.php
+@
+
+
+1.74
+log
+@add a lot of commented-out debugging lines;
+ONE FIX at line 870 to set a 20-second timeout limit each
+time through the loop.
+@
+text
+@<?php
+
+require_once 'testing-header.php';
+require_once 'mysql_funcs.php';
+
+define( 'DEFAULT_CUST_DISCOUNT',  "30" );	// default 30% commission to the customer
+define( 'DEFAULT_SALES_COMM',     "100" );	// default 100% commission to the salesman
+
+define( 'FLD_NAME', 0 );
+define( 'EXPR',     1 );
+
+
+function site_records( $sys_code, $oper_name )
+// return an array of all records from table site_operators 
+// that match the $sys_code and $oper_name.  return NULL if
+// error.
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+        $qry = "SELECT * FROM site_operators WHERE Operator =  '$oper_name' " .
+			"AND SysCode = '$sys_code'";
+        if ($sql_result = mysql_query( $qry, $db_conn )) {
+		$j = 0;
+		$result = array();
+                while ($record = mysql_fetch_array( $sql_result )) {
+                	$result[ $j++ ] = $record;
+		} // while
+		if ($j == 0) {
+			unset( $result );
+			$result = NULL;
+			message_log_append( $msg_log, "Error reading site_operators records " .
+					"for Syscode $sys_code", MSG_LOG_ERROR );
+		} // if
+        } else {
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+                $result = NULL;
+        } // if
+	return( $result );
+
+} // site_records
+
+
+function operator_record( $oper_name )
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+        $qry = "SELECT * FROM operators WHERE ShortName =  '$oper_name'";
+        if (($sql_result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $sql_result ))) {
+                $result = $record;
+//// Kludge to add SalesComm value:
+//		if (is_null( $result[ 'SalesComm' ]))
+//			$result[ 'SalesComm' ] = DEFAULT_SALES_COMM;
+        } else {
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+                $result = NULL;
+        }
+	return( $result );
+
+} // operator_record
+
+
+function salesman_record( $p_name, $oper_name )
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+        $qry = "SELECT * FROM salesman WHERE Name = '$p_name' AND Operator = '$oper_name'";
+        if (($sql_result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $sql_result ))) {
+                $result = $record;
+        } else {
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+                $result = NULL;
+        }
+	return( $result );
+
+} // salesman_record
+
+
+function xml_company_name( $p_campaign, $p_type )
+// locate the company element with type $p_type and return the name value
+{
+GLOBAL $msg_log;
+
+	$result = NULL;
+	/* Search for <campaign>...<company type="$p_type"><name> */
+//var_dump( $p_campaign );
+//die();
+	if ($match = $p_campaign->xpath( '/adx/campaign/company' )) {
+		while (list( $foo, $node ) = each( $match )) {
+			if ($p_type == $node[ "type" ]) {
+				$result = '' . $node->name;
+				break;
+			} // if
+		} // while
+	} else {
+if (DEBUG) echo "no $p_type name\n";
+if (DEBUG) var_dump( $p_campaign );
+		message_log_append( $msg_log, "Can't find campaign/company['$p_type']", MSG_LOG_ERROR );
+	} // if
+	return( $result );
+} // xml_company_name
+
+
+function xml_syscode( $p_sys_ord )
+// locate the system element and return the syscode value
+{
+GLOBAL $msg_log;
+
+	$result = trim( (string)$p_sys_ord->system->syscode );
+	if ($result == NULL || strlen( $result ) != 4) {
+if (DEBUG) echo "no syscode\n";
+if (DEBUG) var_dump( $p_sys_ord );
+		message_log_append( $msg_log, "Missing or invalid syscode $result", MSG_LOG_ERROR );
+	} // if
+	return( $result );
+}
+
+
+function count_xml_elements( $p_xml, $path )
+// return the number of elements in $xml matching $path.
+{
+	return( count( $p_xml->xpath( $path ) ) );
+}
+
+
+function parse_campaign( $campaign,
+			 &$camp_array )
+
+// we will parse one campaign passed in XML form in $campaign.
+// parsed values will be returned in associative array $camp_array.
+// the function will return TRUE if successful, else FALSE.
+
+{
+
+//echo "pc: on entry\n";
+//var_dump( $campaign );
+
+	$success    = TRUE;
+	$xml_fields = array();
+	$j	    = 0;
+
+/*
+Here are the definitions of the XML values we will parse that relate
+to the campaign.
+
+The FLD_NAME is the name of the field.  There is no campaign
+database table per se, so all FLD_NAMEs do not correspond directly
+to  table fields.
+
+These definitions get processed in numerical array order, so lay
+them out such that prerequisite values appear and thus get defined
+before later values which require that they be set.
+*/
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CampKeyID";
+	$xml_fields[ $j ][ EXPR     ] = "(string)('' . \$campaign->key->id)";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CampKeyVer";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->key->version";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CampOrderKeyID";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->key->id";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CampOrderKeyVer";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->key->version";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Customer Name";
+	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Rep' )";
+	$j++;
+
+// Is this campaign from TelAmerica?  Boolean TRUE/FALSE
+	$xml_fields[ $j ][ FLD_NAME ] = "TELAMERICA";
+//	$xml_fields[ $j ][ EXPR     ] = "(\$camp_array['Customer Name'] == '" . TELAMERICA . "')";
+	$xml_fields[ $j ][ EXPR     ] = "((\$camp_array['Customer Name'] == '" . TELAMERICA . "')" .
+		" OR (\$camp_array['Customer Name'] == '" . APEX_MEDIA . "')" .
+		" OR (\$camp_array['Customer Name'] == '" . APEX_MEDIA_DR . "'))";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Customer Record";
+	$xml_fields[ $j ][ EXPR     ] = "cust_record( xml_company_name( \$campaign, 'Rep' ), '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Agency Name";
+	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Agency' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Agency Record";
+	$xml_fields[ $j ][ EXPR     ] = "agency_record( xml_company_name( \$campaign, 'Agency' ), '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CustOrder";
+	$xml_fields[ $j ][ EXPR     ] = "(string)('' . \$campaign->order->key->id)";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "UpdateDate";
+	$xml_fields[ $j ][ EXPR     ] = "(string)('' . \$campaign->order->key->updateDate)";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "contract_name";
+	$xml_fields[ $j ][ EXPR     ] = "(\$camp_array['TELAMERICA']) ? ((string)('' . \$campaign->product->name)) : ((string)('' . \$campaign->advertiser->name))";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "ContractName";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['TELAMERICA'] " .
+					"? (substr( \$camp_array['contract_name'], 0, 26 ) " .
+					" . ' ' . substr( \$camp_array['CustOrder'], 0, 5 )) " .
+					": (substr( \$camp_array['contract_name'], 0, 27 ) " .
+					" . ' ' . substr( \$camp_array['CustOrder'], -4 ))";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "StartDate";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->dateRange->startDate";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "EndDate";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->dateRange->endDate";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "MakeGoodPolicy";
+	$xml_fields[ $j ][ EXPR     ] = "\$campaign->makeGoodPolicy->code . ':' . " . 
+				"('' . \$campaign->makeGoodPolicy->code['codeDescription'])";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "EstimateCode";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->estimate->ID->code";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "buyType";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->buyType";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "total_spots";
+	$xml_fields[ $j ][ EXPR     ] = "(int)\$campaign->order->totals->spots";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "total_cost";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->totals->cost";
+	$j++;
+
+// Now evaluate the fields defined in the array:
+
+//echo "pc: xml_fields\n";
+//var_dump( $xml_fields );
+
+	$N_FLDS = $j;
+
+//echo "pc: on eval\n";
+//var_dump( $campaign );
+//echo "pc: after var_dump\n";
+
+//echo "<pre>\n";
+	$j = 0;
+	while ($j < $N_FLDS) {
+//echo "inside while\n";
+		if (!is_null( $xml_fields[ $j ][ EXPR ] )) {
+//echo "inside if\n";
+			$fld_name = $xml_fields[ $j ][ FLD_NAME ];
+//echo $fld_name . "\n";
+			$expr = $xml_fields[ $j ][ EXPR ];
+//echo $expr . "\n";
+			$expr = "RETURN( " . $expr . " );";
+			$fld_value = eval( $expr );
+			$camp_array[ $fld_name ] = $fld_value;
+//echo $camp_array[ $fld_name ] . "\n";
+//var_dump( $camp_array[ $fld_name ] );
+//echo "---\n";
+		}
+		$j++;
+	} // while
+
+//echo "parse_campaign returns:<br>\n";
+//var_dump( $camp_array );
+//echo "</pre>\n";
+	return( $success );
+
+} // parse_campaign
+
+
+function parse_contract_header( $campaign,
+				$system_order,
+				$camp_array,
+				&$hdr_array )
+
+// we will parse one system order passed in $system_order.
+// some variables from $campaign will be used.
+// parsed values will be returned in associative array $hdr_array.
+// the function will return TRUE if successful, else FALSE.
+
+{
+//GLOBAL $DEBUG;
+
+	$success    = TRUE;
+	$xml_fields = array();
+	$j	    = 0;
+
+/*
+Here are the definitions of the XML values we will parse that relate
+to the contract header.
+
+The FLD_NAME is the name of the field.  Not all FLD_NAMEs correspond
+directly to contract_header table fields, but all table fields must
+exist here, and the table field name must match the FLD_NAME value
+in the array.  This means we can store additional values which will
+not get imported into the table, but which facilitate lookup or
+computation of values that do get imported into the contract_header
+table fields, such as customer and agency records, etc.  In order
+to avoid getting imported, these 'extra' values must have FLD_NAMEs
+which do not appear in the database table.
+
+These definitions get processed in numerical array order, so lay
+them out such that prerequisite values appear and thus get defined
+before later values which require that they be set.
+*/
+
+// parse as many version nodes as we can find.  Later we'll
+// validate them to all be equal to 1.
+
+// 2012-11-01 we find that $campaign->key->version and $campaign->order->key->version
+// can sometimes be <> 1, cf TelAmerica order 208000791.  However, 
+// on that order, the individual systemOrder->key->version values 
+// are still 1.  Let's change our assumption and only validate 
+// $campaign->order->systemOrder->key->version (for each instance
+// of systemOrder).
+
+// version fields need to be first (to use $j+1)
+	$xml_fields[ $j ][ FLD_NAME ] = "version" . ($j+1);
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$system_order->key->version";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Seq";
+	$xml_fields[ $j ][ EXPR     ] = "'NULL'";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "SysCode";
+	$xml_fields[ $j ][ EXPR     ] = "xml_syscode( \$system_order )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Site Records";
+	$xml_fields[ $j ][ EXPR     ] = "site_records( xml_syscode( \$system_order ), '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Operator Record";
+	$xml_fields[ $j ][ EXPR     ] = "operator_record( '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Salesman Record";
+	$xml_fields[ $j ][ EXPR     ] = "salesman_record( '" . 
+					SALESMAN_NAME . "', '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CIndex";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Customer Record']['Seq']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Discount";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Customer Record']['Discount'] * 10";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "AIndex";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Agency Record']['Seq']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "AgencyComm";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Agency Record']['Rate'] * 10";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "CustOrder";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['CustOrder']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "SystemOrder";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$system_order->key->id";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "ContractName";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['ContractName']";
+	$j++;
+
+// SiteName is a placeholder that will be filled in later.
+	$xml_fields[ $j ][ FLD_NAME ] = "SiteName";
+	$xml_fields[ $j ][ EXPR     ] = "NULL";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "StartDate";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['StartDate']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "EndDate";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['EndDate']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "TotalValue";	// stored in pennies
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( (string)\$system_order->totals->cost, 100 )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Attributes";
+	$xml_fields[ $j ][ EXPR     ] = ATTRIBUTES;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "SIndex";
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Salesman Record']['Seq']";
+	$j++;
+	
+	$xml_fields[ $j ][ FLD_NAME ] = "SalesComm";
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Salesman Record']['Rate'] * 10";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "MakeGoodPolicy";
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['MakeGoodPolicy']";
+	$j++;
+
+        $xml_fields[ $j ][ FLD_NAME ] = "MinSeparation";
+        $xml_fields[ $j ][ EXPR     ] = "0";
+        $j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "week_count";
+	$xml_fields[ $j ][ EXPR     ] = "(int)\$system_order->weeks['count']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "total_spots";
+	$xml_fields[ $j ][ EXPR     ] = "(int)\$system_order->totals->spots";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "total_cost";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$system_order->totals->cost";
+	$j++;
+
+// Now evaluate the fields defined in the array:
+
+	$N_FLDS = $j;
+
+	$j = 0;
+	while ($j < $N_FLDS) {
+		if (!is_null( $xml_fields[ $j ][ EXPR ] )) {
+			$fld_name = $xml_fields[ $j ][ FLD_NAME ];
+//if ($DEBUG) {echo "PCH fld_name '" . $fld_name . "'\n";}
+			$expr = $xml_fields[ $j ][ EXPR ];
+//if ($DEBUG) {echo "PCH expr " . $expr . "\n";}
+			$expr = "RETURN( " . $expr . " );";
+			$fld_value = eval( $expr );
+			$hdr_array[ $fld_name ] = $fld_value;
+//if ($DEBUG) {
+//echo "PCH hdr_array[fld_name] " . $hdr_array[ $fld_name ] . "\n";
+//var_dump( $hdr_array[ $fld_name ] );
+//echo "---\n";
+//}
+		}
+		$j++;
+	} // while
+
+	return( $success );
+
+} // parse_contract_header
+
+
+function parse_contract_detail( $campaign,
+				$system_order,
+				&$det_array )
+
+// we will parse one system order's details passed in $system_order[0].
+// some variables from $campaign will be used.
+// parsed values will be returned in associative array $det_array[0..N-1]
+// to represent N detail lines.
+// the function will return TRUE if successful, else FALSE.
+
+{
+GLOBAL $msg_log;
+//GLOBAL $DEBUG;
+
+//if ($DEBUG) echo "<pre>";
+//if ($DEBUG) var_dump( $system_order );
+
+	$success = TRUE;
+	$N_lines = 0;	// count the number of detail lines parsed
+
+/*
+Here are the definitions of the XML values we will parse that relate
+to the contract detail.
+
+The FLD_NAME is the name of the field.  Not all FLD_NAMEs correspond
+directly to contract_detail table fields, but all table fields must
+exist here, and the table field name must match the FLD_NAME value
+in the array.  This means we can store additional values which will
+not get imported into the table, but which facilitate lookup or
+computation of values that do get imported into the contract_detail
+table fields, such as customer and agency records, etc.  In order
+to avoid getting imported, these 'extra' values must have FLD_NAMEs
+which do not appear in the database table.
+
+These definitions get processed in numerical array order, so lay
+them out such that prerequisite values appear and thus get defined
+before later values which require that they be set.
+*/
+
+// The only values we can compute here are values which are 
+// constant over the entire contract.  Anything that changes
+// based on detailLine or spot must be calculated below in 
+// the appropriate WHILE loop.
+
+	$week_table = array();	// needs to be $week_count elements, but
+				// indices are not necessarily consecutive
+	$week_count = (int)$system_order->weeks['count'];
+
+	$week = 0;
+	foreach ($system_order->weeks->week as $x) {
+		$week = (int)$x['number'];
+		$week_table[ $week ] = (string)$x['startDate'];
+	}
+//if ($DEBUG) echo "week_count: ";
+//if ($DEBUG) var_dump( $week_count );
+//if ($DEBUG) echo "week_table: ";
+//if ($DEBUG) var_dump( $week_table );
+
+	$xml_fields = array();
+	$j	    = 0;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Line";
+	$xml_fields[ $j ][ EXPR     ] = "'NULL'";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Contract";
+	$xml_fields[ $j ][ EXPR     ] = "'NULL'";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "XMLNetwork";
+	$xml_fields[ $j ][ EXPR     ] = "(string)('' . \$detail_line->network->ID->code)";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "StartDate";
+	$xml_fields[ $j ][ EXPR     ] = "\$week_table[(int)\$spot->weekNumber]";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "EndDate";
+	$xml_fields[ $j ][ EXPR     ] = <<< __EOF__
+date_format( date_modify( date_create( \$one_line['StartDate'], new DateTimeZone( "GMT" ) ), '+6 days' ), 'Y-m-d' )
+__EOF__;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "XMLstartTime";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$detail_line->startTime";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "XMLendTime";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$detail_line->endTime";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Distribution";
+	$xml_fields[ $j ][ EXPR     ] = "\$distrib";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Bonus";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Priority";
+	$xml_fields[ $j ][ EXPR     ] = NULL;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "UnitPrice";	// in pennies
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( (string)\$detail_line->spotCost, 100, 0 )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "nOrdered";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$spot->quantity";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "LineID";
+	$xml_fields[ $j ][ EXPR     ] = "(string)(\$detail_line['detailLineID'])";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Value";
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( bcmul( \$one_line['UnitPrice'], \$one_line['nOrdered'], 2 ), '0.01', 2 )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "nWeeks";
+	$xml_fields[ $j ][ EXPR     ] = 1;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "nSched";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "nPlaced";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "nPlayed";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "ActualValue";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "ProgramName";
+	$xml_fields[ $j ][ EXPR     ] = "substr( (string)('' . \$detail_line->program), 0, 32 )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "StartDay";
+	$xml_fields[ $j ][ EXPR     ] = "\$start_day";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "EndDay";
+	$xml_fields[ $j ][ EXPR     ] = "\$end_day";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "MakeGoods";
+	$xml_fields[ $j ][ EXPR     ] = 0;
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "MakeGoodDays";
+	$xml_fields[ $j ][ EXPR     ] = "\$make_good_days";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "RunDays";
+	$xml_fields[ $j ][ EXPR     ] = "\$run_days";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "DayMask";
+	$xml_fields[ $j ][ EXPR     ] = "\$day_mask";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "SpotID";	// 1..N
+//	$xml_fields[ $j ][ EXPR     ] = "substr( (string)\$spot['id'], -4 )";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$spot['id']";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "week_count";
+	$xml_fields[ $j ][ EXPR     ] = "\$week_count";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "week_table";
+	$xml_fields[ $j ][ EXPR     ] = "\$week_table";
+	$j++;
+
+	$N_FLDS = $j;
+
+	$detail_lines = $system_order->detailLine;
+	foreach ($detail_lines as $detail_line) {
+
+//if ($DEBUG) echo "XML system_order->detail_line: ";
+//if ($DEBUG) var_dump( $detail_line );
+
+		$one_line = array();	// temp. array to hold one detail line
+
+// calculate detail constants here
+
+// Calculate the make good day bitmask, and count the number
+// of days this spot will run in the week.
+
+// It would be nice to throw an error if we find anything 
+// other than Yes/No run indications.  The spec. permits 
+// the XML file to stipulate day-by-day run distributions,
+// but we don't support that.
+
+		$dow            = MONDAY;		// day of week 0-6 = Mon-Sun
+		$days           = array( 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 
+					'Friday', 'Saturday', 'Sunday' );
+		$make_good_days = 0;	// binary bit mask of days
+		$day_mask	= "";	// string mask of days Y/N
+		$run_days       = "";	// string
+		$n_run_days     = 0;	// count
+		foreach ($days as $day) {
+			$run_day = (string)$detail_line->dayOfWeek->$day;
+			$run_days .= ' ' . $run_day;
+			switch ($run_day) {
+			case 'Y':
+				$day_mask .= 'Y';
+				$n_run_days++;
+				$make_good_days += pow( 2, $dow );
+				break;
+// other run_day cases would go here
+			case 'N':
+			case '0':
+				$day_mask .= 'N';
+				break;
+			default:
+				$success = FALSE;
+				message_log_append( $msg_log, "Invalid run day format: '$run_day'",
+							MSG_LOG_ERROR );
+			} // switch
+			$dow++;
+		}
+
+// take the "startDay" field from the XML spec
+		$start_day_code = (string)$detail_line->startDay;
+
+// day codes stipulated by the XML spec:
+		$days = array( 'M', 'Tu', 'W', 'Th', 'F', 'Sa', 'Su' );
+
+		$start_day = array_search( $start_day_code, $days );
+		if ($start_day === FALSE) {
+			$success = FALSE;
+			message_log_append( $msg_log, "Invalid start day in detailLineID "
+				. $detail_line['detailLineID'] . ": '$start_day_code'", MSG_LOG_ERROR );
+//		} else {
+//			message_log_append( $msg_log, "start day '$start_day_code' is $start_day" );
+		}
+
+// there is no "endDay" field in the XML spec
+		$end_day = SUNDAY;
+
+		if ($n_run_days < 1) {
+			$success = FALSE;
+			message_log_append( $msg_log, "No run days found", MSG_LOG_ERROR );
+			break;
+		}
+
+		$run_days = substr( $run_days, 1 );	// remove leading space
+
+//echo $detail_line['detailLineID'] . "\n";
+		$spots = $detail_line->spot;
+		foreach ($spots as $spot) {
+//echo "  " . $spot['id'] . "\n";
+
+// using the number of spots for this week, and the run days for the
+// detail line, figure the distribution for this spot and this week.
+
+			$n_spots = $spot->quantity;
+
+//	Given the number $n_spots and the $n_run_days, we can figure
+//	the distribution.  If the number of spots does not divide
+//	evenly by $spot_day_count, then the remainder R will cause
+//	the first R days to be increased by one.  11 spots in 3 days
+//	means the remainder is 2, so the first 2 days get an extra spot:
+//	4 4 and 3 to total 11.  19 spots in seven days means the remainder
+//	is 5, so 3 3 3 3 3 2 2.
+
+//	Format the seven daily spot counts with a hyphen delimiter, like
+//	0-4-0-4-0-0-3 for 11 spots and a day mask of NYNYNNY (TuThSun)
+
+			$remain = $n_spots % $n_run_days;	// remainder
+			$each   = ($n_spots - $remain) / $n_run_days;
+
+                	$j = MONDAY;
+                	$distrib = "";
+                	while ($j <= SUNDAY) {
+                        	$distrib .= '-';
+                        	if (substr( $day_mask, $j++, 1 ) == 'Y') {
+                                	$distrib .=
+                                	( $remain-- > 0 ? 1 : 0 ) + $each;
+                        	} else {
+                                	$distrib .= "0";
+                        	}
+                	} // while
+			$distrib = substr( $distrib, 1 ); // remove leading hyphen
+
+			$j = 0;
+			while ($j < $N_FLDS) {
+				if (!@@is_null( $xml_fields[ $j ][ EXPR ] )) {
+					$fld_name = $xml_fields[ $j ][ FLD_NAME ];
+//if ($DEBUG) echo "setting " . $fld_name . " to ";
+					$expr = $xml_fields[ $j ][ EXPR ];
+//if ($DEBUG) echo $expr . "\n";
+					$expr = "RETURN( " . $expr . " );";
+					$fld_value = eval( $expr );
+					$one_line[ $fld_name ] = $fld_value;
+//if ($DEBUG) var_dump( $one_line[ $fld_name ] );
+//if ($DEBUG) echo "---\n";
+				}
+				$j++;
+			} // while
+
+//	increment the number of lines parsed, and add a new row
+//	to the result array
+			$det_array[ $N_lines ] = $one_line;
+//if ($DEBUG) echo "det_array[ $N_lines ] array parsed as: ";
+//if ($DEBUG) var_dump( $det_array[ $N_lines ] );
+			$N_lines++;
+
+		} // foreach spot
+
+	} // foreach detail_line
+
+//if ($DEBUG) echo "no more detail_lines, N_lines = $N_lines\n";
+
+//if ($DEBUG) echo "</pre>";
+	return( $success );
+
+} // parse_contract_detail
+
+
+function parse_xml(
+	$xmlfile,		// input file to parse
+	&$camp_header,		// campaign output array returned to caller
+	&$cont_header,		// header   output array returned to caller
+	&$cont_detail		// detail   output array returned to caller
+)
+
+// return TRUE if no errors, else FALSE
+
+{
+GLOBAL $msg_log;
+//GLOBAL $DEBUG;
+
+//if ($DEBUG)
+//echo "<pre>";
+//echo "0: begin parse_xml\N";
+
+	$n_contract = 0;		// index of contracts parsed
+
+	$camp_header = array();		// array, but limited to one element, [0]
+	$cont_header = array();		// $cont_header[N] is header for index N
+	$cont_detail = array();		// $cont_detail[N] is detail array for index N
+
+	$success = TRUE;
+//echo "0: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+//if ($DEBUG) echo "loading XML\n";
+		$success = ($xml = simplexml_load_file( $xmlfile ));
+		if (!$success)
+			echo "Can't load XML file.\n";
+	}
+//echo "1: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+		$success = ($xml->document->documentType == 'Order');
+		if (!$success)
+			echo "XML file is the wrong documentType.\n";
+	}
+//echo "2: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+		$success = (count_xml_elements( $xml, '/adx/campaign' ) == 1);
+		if (!$success)
+			echo "Invalid number of campaigns in XML file.\n";
+	} // if
+//echo "3: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+		$success = ($campaign = $xml->xpath( '/adx/campaign' ));
+		if ($success) {
+//if ($DEBUG) echo "parsing campaign\n";
+			$success = parse_campaign( $campaign[0], $camp_header[0] );
+//if ($DEBUG) {
+//echo "done parsing campaign, ID='" . $camp_header[0]['CampKeyID'] . "'<br>\n";
+////echo "<pre>";
+////var_dump( $camp_header[0] );
+////echo "</pre>";
+//}
+			if (!$success) {
+				message_log_append( $msg_log, "Can't parse campaign from XML file",
+					MSG_LOG_ERROR );
+			} // if
+		} else message_log_append( $msg_log, "Can't locate 'campaign' node in XML file",
+				MSG_LOG_ERROR );
+	} // if
+//echo "4: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+
+		$sys_ords = $campaign[0]->xpath('/adx/campaign/order/systemOrder');
+
+		$n_sys_ord = 0;
+		while ($success && 
+			isset( $sys_ords[ $n_sys_ord ] ) &&
+			!is_null( $sys_ords[ $n_sys_ord ] )) {
+set_time_limit( 20 );   // don't let the 30-second PHP timeout kill us
+//echo "4a: n_sys_ord = $n_sys_ord\n";
+
+			if ($n_contract < MAX_CONTRACTS) {
+//echo "4b: n_contract = $n_contract\n";
+
+				$one_header = array();
+				$one_detail = array();
+				$one_copy   = array();
+
+//if ($DEBUG)
+//echo "4c: parse_contract_header\n";
+				$success = parse_contract_header( 
+						$campaign[ 0 ], // XML object
+						$sys_ords[ $n_sys_ord ], // XML object
+						$camp_header[ 0 ], // array
+					 	$one_header // array
+						);
+				if ($success)
+//echo "4d: parse_contract_detail\n";
+//if ($DEBUG) echo "parsing detail $contract_seq\n";
+					$success = parse_contract_detail( 
+						$campaign[0], // XML object
+						$sys_ords[ $n_sys_ord ], // XML object
+						$one_detail // array
+						);
+
+//				if ($success)
+//					$success = parse_contract_copy(
+//						$campaign[0], // XML object
+//						$sys_ords[ $n_sys_ord ], // XML object
+//						$one_copy // array
+//						);
+
+				if ($success) {
+//echo "4e: success\n";
+//if ($DEBUG) { echo "one_detail: "; var_dump( $one_detail ); }
+foreach ($one_header['Site Records'] as $site_record) {
+$one_header['Site Records'] = array( $site_record );
+$one_header['SiteName'] = $site_record['SiteName'];
+					$contract_seq = $n_contract + 1;
+					$cont_header[ $contract_seq ] = $one_header;
+					$cont_detail[ $contract_seq ] = $one_detail;
+					$cont_copy[   $contract_seq ] = $one_copy;
+					$n_contract++;
+} // foreach site_record
+				}
+
+				$n_sys_ord++;
+
+			} else {
+//echo "4z: too many contracts\n";
+				$success = FALSE;
+				message_log_append( $msg_log, "XML file contains too many contracts",
+					MSG_LOG_ERROR );
+			} // if
+
+		} // while
+//echo "5: n_sys_ord = $n_sys_ord\n";
+//echo "5: success = " . ($success ? "TRUE\n" : "FALSE\n" );
+
+		if (!$success)
+			message_log_append( $msg_log, "Error while parsing XML file", MSG_LOG_ERROR );
+
+	} // if
+//echo "6: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+	if ($success) {
+//if ($DEBUG) echo "$n_contract contract" . ($n_contract == 1 ? '' : 's') . " parsed successfully.\n";
+//if ($DEBUG) echo "cont_header: ";
+//if ($DEBUG) var_dump( $cont_header );
+//if ($DEBUG) echo "detail: ";
+//if ($DEBUG) var_dump( $cont_detail );
+	} // if
+//echo "6: " . ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+
+//echo ($success ? "parse_xml TRUE\n" : "parse_xml FALSE\n" );
+//if ($DEBUG)
+//echo "</pre>\n";
+	return( $success );
+
+} // parse_xml
+
+
+?>
+@
+
+
+1.73
+log
+@comment out 15 IF DEBUG sections
+@
+text
+@d807 3
+a809 1
+//if ($DEBUG) echo "<pre>";
+d818 1
+d826 1
+d833 1
+d840 1
+d860 1
+d870 2
+d874 1
+d880 2
+a881 1
+//if ($DEBUG) echo "parsing header $contract_seq\n";
+d889 1
+d905 1
+d921 1
+d928 2
+d935 1
+d944 1
+d946 3
+a948 1
+//if ($DEBUG) echo "</pre>\n";
+@
+
+
+1.72
+log
+@add APEX_MEDIA_DR in addition to APEX_MEDIA as TelAmerica wannabes.
+@
+text
+@d447 1
+a447 1
+if ($DEBUG) {echo "PCH fld_name '" . $fld_name . "'\n";}
+d449 1
+a449 1
+if ($DEBUG) {echo "PCH expr " . $expr . "\n";}
+d453 5
+a457 5
+if ($DEBUG) {
+echo "PCH hdr_array[fld_name] " . $hdr_array[ $fld_name ] . "\n";
+var_dump( $hdr_array[ $fld_name ] );
+echo "---\n";
+}
+d481 1
+a481 1
+if ($DEBUG) echo "<pre>";
+d520 4
+a523 4
+if ($DEBUG) echo "week_count: ";
+if ($DEBUG) var_dump( $week_count );
+if ($DEBUG) echo "week_table: ";
+if ($DEBUG) var_dump( $week_table );
+d788 1
+a788 1
+if ($DEBUG) echo "</pre>";
+d807 1
+a807 1
+if ($DEBUG) echo "<pre>";
+d818 1
+a818 1
+if ($DEBUG) echo "loading XML\n";
+d839 1
+a839 1
+if ($DEBUG) echo "parsing campaign\n";
+d841 6
+a846 6
+if ($DEBUG) {
+echo "done parsing campaign, ID='" . $camp_header[0]['CampKeyID'] . "'<br>\n";
+//echo "<pre>";
+//var_dump( $camp_header[0] );
+//echo "</pre>";
+}
+d870 1
+a870 1
+if ($DEBUG) echo "parsing header $contract_seq\n";
+d878 1
+a878 1
+if ($DEBUG) echo "parsing detail $contract_seq\n";
+d893 1
+a893 1
+if ($DEBUG) { echo "one_detail: "; var_dump( $one_detail ); }
+d921 5
+a925 5
+if ($DEBUG) echo "$n_contract contract" . ($n_contract == 1 ? '' : 's') . " parsed successfully.\n";
+if ($DEBUG) echo "cont_header: ";
+if ($DEBUG) var_dump( $cont_header );
+if ($DEBUG) echo "detail: ";
+if ($DEBUG) var_dump( $cont_detail );
+d928 1
+a928 1
+if ($DEBUG) echo "</pre>\n";
+@
+
+
+1.71
+log
+@correct bug in how the systemOrder->key->version is parsed.
+@
+text
+@d184 4
+a187 1
+	$xml_fields[ $j ][ EXPR     ] = "(\$camp_array['Customer Name'] == '" . TELAMERICA . "')";
+d301 1
+a301 1
+GLOBAL $DEBUG;
+d479 1
+a479 1
+GLOBAL $DEBUG;
+d805 1
+a805 1
+GLOBAL $DEBUG;
+@
+
+
+1.70
+log
+@Add parsing of Campaign Key ID, Version; Campaign Key Order ID, Version;
+eliminate checking of Campaign Key Version, Campaign Key Order Version;
+parse Campaign Order Key UpdateDate; remove old testing infrastructue.
+@
+text
+@d335 1
+a335 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->systemOrder->key->version";
+@
+
+
+1.69
+log
+@treat unset $sys_ords[ $n_sys_ord ] same as null at line 827-829
+@
+text
+@d162 16
+d203 4
+d298 1
+a324 3
+	$xml_fields[ $j ][ FLD_NAME ] = "version1";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->key->version";
+	$j++;
+d326 6
+a331 3
+	$xml_fields[ $j ][ FLD_NAME ] = "version2";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->key->version";
+	$j++;
+d333 2
+a334 1
+	$xml_fields[ $j ][ FLD_NAME ] = "version3";
+d444 1
+a444 1
+//echo $fld_name . "\n";
+d446 1
+a446 1
+//echo $expr . "\n";
+d450 5
+a454 3
+//echo $hdr_array[ $fld_name ] . "\n";
+//var_dump( $hdr_array[ $fld_name ] );
+//echo "---\n";
+d838 6
+a930 36
+/*
+function message_log_append( $s )
+{
+echo $s . "\n";
+}
+function message_log_reset()
+{
+}
+function message_log()
+{
+}
+
+function main()
+{
+parse_xml( "example.xml", $campaign, $headers, $details );
+var_dump( $campaign[0] );
+
+//echo var_dump( $headers[1] );
+//echo count( $headers ) . " header rows returned\n";
+//foreach (array_keys( $headers ) as $x) {
+//	echo count( $headers[ $x ]['Site Records'] ) . 
+//		" site records returned in header $x\n";
+//	echo "  " . $headers[ $x ]['Site Records'][0]['SiteName'] . "\n";
+//} // foreach
+//echo (is_null( $headers[1]['version1'] ) ? 'null' : 'not null') . "\n";
+//echo (is_null( $headers[1]['version2'] ) ? 'null' : 'not null') . "\n";
+//echo (is_null( $headers[1]['version3'] ) ? 'null' : 'not null') . "\n";
+//var_dump( $headers[1]['version1'] );
+//var_dump( $headers[1]['version2'] );
+//var_dump( $headers[1]['version3'] );
+//var_dump( $headers );
+}
+
+main();
+*/
+
+@
+
+
+1.68
+log
+@change $xml_fields array to parse detail line start/end times
+into 'XMLstartTime' and 'XMLendTime' instead of 'TimeOn' and
+'TimeOff' so that the data can be validated multiple times.
+This was a similar bug to the network name/alias problem a
+few revs ago.
+@
+text
+@d827 3
+a829 1
+		while ($success && !is_null( $sys_ords[ $n_sys_ord ] )) {
+@
+
+
+1.67
+log
+@parse $detail_line->network->ID->code into array key XMLNetwork
+instead of the old key 'Network'.
+@
+text
+@d523 1
+a523 1
+	$xml_fields[ $j ][ FLD_NAME ] = "TimeOn";
+d527 1
+a527 1
+	$xml_fields[ $j ][ FLD_NAME ] = "TimeOff";
+@
+
+
+1.66
+log
+@move defines for FLD_NAME  and EXPR to top of file; enable
+$DEBUG support in a couple functions.
+@
+text
+@d509 1
+a509 1
+	$xml_fields[ $j ][ FLD_NAME ] = "Network";
+@
+
+
+1.65
+log
+@lots of changes to debugging support; only net change should
+be at line 492 foreach loop, where week NUMBER is taken from
+XML file, instead of counted sequentially from one.
+@
+text
+@d9 3
+a144 3
+	define( 'FLD_NAME', 0 );
+	define( 'EXPR',     1 );
+
+a278 3
+	define( 'FLD_NAME', 0 );
+	define( 'EXPR',     1 );
+
+d452 1
+a452 1
+//GLOBAL $DEBUG;
+a497 3
+	define( 'FLD_NAME', 0 );
+	define( 'EXPR',     1 );
+
+d778 1
+a778 1
+//GLOBAL $DEBUG;
+@
+
+
+1.64
+log
+@Modify parsing of ProgramName to parse leftmost 32 characters.
+@
+text
+@d455 4
+d487 2
+a488 1
+	$week_table = array();
+d492 8
+a499 4
+	foreach ($system_order->weeks->week as $x)
+		$week_table[ ++$week ] = (string)$x['startDate'];
+//var_dump( $week_table );
+
+d631 3
+d742 1
+a742 1
+//echo $fld_name . "<br>\n";
+d744 1
+a744 1
+//echo $expr . "\n";
+d748 2
+a749 3
+//echo $one_line[ $fld_name ] . "\n";
+//var_dump( $one_line[ $fld_name ] );
+//echo "---\n";
+d757 2
+d765 3
+d784 3
+d797 1
+a797 1
+//echo "loading XML\n";
+d818 1
+a818 1
+//echo "parsing campaign\n";
+d841 1
+a841 1
+//echo "parsing header $contract_seq\n";
+d849 1
+a849 1
+//echo "parsing detail $contract_seq\n";
+d864 1
+a864 1
+//var_dump( $one_detail );
+d892 5
+a896 5
+//echo "$n_contract contract" . ($n_contract == 1 ? '' : 's') . " parsed successfully.\n";
+//echo "headers:\n";
+//var_dump( $cont_header );
+//echo "detail:\n";
+//var_dump( $cont_detail );
+d899 1
+@
+
+
+1.63
+log
+@add parsing of $campaign->estimate->ID->code into field "EstimateCode"
+@
+text
+@d577 1
+a577 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)('' . \$detail_line->program)";
+@
+
+
+1.62
+log
+@change nOrder to nOrdered; add LineID.
+@
+text
+@d212 4
+d239 1
+d261 1
+@
+
+
+1.61
+log
+@Add MinSeparation field to $xml_fields
+@
+text
+@d538 1
+a538 1
+	$xml_fields[ $j ][ FLD_NAME ] = "nOrder";
+d542 4
+d547 1
+a547 1
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( bcmul( \$one_line['UnitPrice'], \$one_line['nOrder'], 2 ), '0.01', 2 )";
+d894 1
+a894 1
+echo var_dump( $campaign[0] );
+@
+
+
+1.60
+log
+@Take start_day from XML startDay field, not from the run days.
+end_day hard-coded to SUNDAY, since there is no "endDay" field in the XML.
+@
+text
+@d395 4
+@
+
+
+1.59
+log
+@ContractName : for TelAmerica, use five-digit suffix from first five
+digits of contract number; for others, use four-digit suffic from
+last four numbers.
+@
+text
+@a626 2
+		$start_day      = MONDAY - 1;	// invalid day less than MONDAY
+		$end_day        = MONDAY - 1;	// invalid day less than MONDAY
+a633 2
+				$start_day = ($start_day < MONDAY ? $dow : $start_day);
+				$end_day   = $dow;
+d649 18
+@
+
+
+1.58
+log
+@Use BC math to calculate TotalValue.
+@
+text
+@d192 5
+a196 2
+	$xml_fields[ $j ][ EXPR     ] = "substr( \$camp_array['contract_name'], 0, 27 ) " .
+			". ' ' . substr( \$camp_array['CustOrder'], -4 )";
+@
+
+
+1.57
+log
+@change is_null to @@is_null to quiet down warnings in the http error log.
+@
+text
+@d373 1
+a373 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)(\$system_order->totals->cost * 100)";
+d524 1
+d588 1
+a588 1
+	$xml_fields[ $j ][ EXPR     ] = "substr( (string)\$spot['id'], -4 )";
+@
+
+
+1.56
+log
+@convert TotalValue to store value in pennies
+@
+text
+@d696 1
+a696 1
+				if (!is_null( $xml_fields[ $j ][ EXPR ] )) {
+@
+
+
+1.55
+log
+@fix problems where percentages are stored differently in different tables,
+and store contract detail unitprice in pennies (dollar cost * 100).
+@
+text
+@d372 2
+a373 2
+	$xml_fields[ $j ][ FLD_NAME ] = "TotalValue";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$system_order->totals->cost";
+@
+
+
+1.54
+log
+@Add a trick learned from the 'net to get SimpleXML to reveal
+CDATA values: if $xml->node is CDATA and appears empty to
+var_dump(), it is often possible to reveal the string value
+with the expression '' . $xml->node.
+@
+text
+@d6 2
+a7 2
+define( 'DEFAULT_CUST_DISCOUNT',  "300" );	// default 30% commission to the customer
+define( 'DEFAULT_SALES_COMM',     "1000" );	// default 100% commission to the salesman
+d229 1
+a229 1
+var_dump( $campaign );
+d238 1
+a238 1
+echo $fld_name . "\n";
+d240 1
+a240 1
+echo $expr . "\n";
+d245 2
+a246 2
+var_dump( $camp_array[ $fld_name ] );
+echo "---\n";
+d526 2
+a527 2
+	$xml_fields[ $j ][ FLD_NAME ] = "UnitPrice";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$detail_line->spotCost";
+d535 1
+a535 1
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( \$one_line['UnitPrice'], \$one_line['nOrder'], 2 )";
+@
+
+
+1.53
+log
+@Store Customer discount, Agency rate, and Salesman rate as percentage
+times 10.  The lookup files store the actual rate, so multiple the
+value looked up by 10 before storing into the campaign or header array.
+@
+text
+@d4 1
+d95 1
+a95 1
+				$result = $node->name;
+d184 1
+a184 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->key->id";
+d188 1
+a188 1
+	$xml_fields[ $j ][ EXPR     ] = "(TELAMERICA) ? (string)(\$campaign->product->name) : (string)(\$campaign->advertiser->name)";
+d206 1
+a206 1
+				"\$campaign->makeGoodPolicy->code['codeDescription']";
+d229 1
+a229 1
+//var_dump( $campaign );
+d238 1
+a238 1
+//echo $fld_name . "\n";
+d240 1
+a240 1
+//echo $expr . "\n";
+d245 2
+a246 2
+//var_dump( $camp_array[ $fld_name ] );
+//echo "---\n";
+d494 1
+a494 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$detail_line->network->ID->code";
+d559 1
+a559 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$detail_line->program";
+d868 9
+a876 7
+echo var_dump( $headers[1] );
+echo count( $headers ) . " header rows returned\n";
+foreach (array_keys( $headers ) as $x) {
+	echo count( $headers[ $x ]['Site Records'] ) . 
+		" site records returned in header $x\n";
+	echo "  " . $headers[ $x ]['Site Records'][0]['SiteName'] . "\n";
+} // foreach
+@
+
+
+1.52
+log
+@Fix Sindex/SalesComm lookups to use salesman table, not operator.
+Add salesman_record() function to retrieve salesman table row
+by salesman name and operator name.
+@
+text
+@d335 1
+a335 1
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Customer Record']['Discount']";
+d343 1
+a343 1
+	$xml_fields[ $j ][ EXPR     ] = "\$camp_array['Agency Record']['Rate']";
+d384 1
+a384 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Salesman Record']['Rate']";
+@
+
+
+1.51
+log
+@move cust_record and agency_record functions out, remove commented
+parsing fields from header parsing
+@
+text
+@d50 3
+a52 3
+// Kludge to add SalesComm value:
+		if (is_null( $result[ 'SalesComm' ]))
+			$result[ 'SalesComm' ] = DEFAULT_SALES_COMM;
+d63 19
+d325 5
+d380 1
+a380 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Operator Record']['ID']";
+d384 1
+a384 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Operator Record']['SalesComm']";
+@
+
+
+1.50
+log
+@change LOG_ to MSG_LOG_
+@
+text
+@a8 45
+function cust_record( $cust_name, $oper_name )
+// fetch a record from the customer table and return
+// it as an array.  return NULL on error.
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+        $qry = "SELECT * FROM customers WHERE Operator =  '$oper_name' " .
+			"AND Name = '$cust_name'";
+        if (($sql_result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $sql_result ))) {
+                $result = $record;
+// Kludge to add discount value:
+		if (is_null( $result[ 'Discount' ]))
+			$result[ 'Discount' ] = DEFAULT_CUST_DISCOUNT;
+        } else {
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+                $result = NULL;
+        }
+	return( $result );
+
+} // cust_record
+
+
+function agency_record( $agency_name, $oper_name )
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+        $qry = "SELECT * FROM agencies WHERE Operator =  '$oper_name' " .
+			"AND Name = '$agency_name'";
+        if (($sql_result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $sql_result ))) {
+                $result = $record;
+        } else {
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+                $result = NULL;
+        }
+	return( $result );
+
+} // agency_record
+
+
+a293 16
+//	$xml_fields[ $j ][ FLD_NAME ] = "Customer Name";
+//	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Rep' )";
+//	$j++;
+
+//	$xml_fields[ $j ][ FLD_NAME ] = "Customer Record";
+//	$xml_fields[ $j ][ EXPR     ] = "cust_record( xml_company_name( \$campaign, 'Rep' ), '" . OPERATOR_NAME . "' )";
+//	$j++;
+
+//	$xml_fields[ $j ][ FLD_NAME ] = "Agency Name";
+//	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Agency' )";
+//	$j++;
+
+//	$xml_fields[ $j ][ FLD_NAME ] = "Agency Record";
+//	$xml_fields[ $j ][ EXPR     ] = "agency_record( xml_company_name( \$campaign, 'Agency' ), '" . OPERATOR_NAME . "' )";
+//	$j++;
+
+@
+
+
+1.49
+log
+@oops, more to convert.
+@
+text
+@d25 2
+a26 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), LOG_ERROR );
+d45 2
+a46 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), LOG_ERROR );
+d74 1
+a74 1
+					"for Syscode $sys_code", LOG_ERROR );
+d77 2
+a78 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), LOG_ERROR );
+d99 2
+a100 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), LOG_ERROR );
+d127 1
+a127 1
+		message_log_append( $msg_log, "Can't find campaign/company['$p_type']", LOG_ERROR );
+d142 1
+a142 1
+		message_log_append( $msg_log, "Missing or invalid syscode $result", LOG_ERROR );
+d680 1
+a680 1
+							LOG_ERROR );
+d687 1
+a687 1
+			message_log_append( $msg_log, "No run days found", LOG_ERROR );
+d807 1
+a807 1
+					LOG_ERROR );
+d810 1
+a810 1
+				LOG_ERROR );
+d866 1
+a866 1
+					LOG_ERROR );
+d872 1
+a872 1
+			message_log_append( $msg_log, "Error while parsing XML file", LOG_ERROR );
+@
+
+
+1.48
+log
+@convert message_log calls
+@
+text
+@d25 2
+a26 2
+		message_log_append( "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( mysql_error( $db_conn ), LOG_ERROR );
+d45 2
+a46 2
+		message_log_append( "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( mysql_error( $db_conn ), LOG_ERROR );
+d73 1
+a73 1
+			message_log_append( "Error reading site_operators records " .
+d77 2
+a78 2
+		message_log_append( "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( mysql_error( $db_conn ), LOG_ERROR );
+d99 2
+a100 2
+		message_log_append( "MySQL query failed: " . $qry, LOG_ERROR );
+		message_log_append( mysql_error( $db_conn ), LOG_ERROR );
+d127 1
+a127 1
+		message_log_append( "Can't find campaign/company['$p_type']", LOG_ERROR );
+d142 1
+a142 1
+		message_log_append( "Missing or invalid syscode $result", LOG_ERROR );
+d679 1
+a679 1
+				message_log_append( "Invalid run day format: '$run_day'",
+d687 1
+a687 1
+			message_log_append( "No run days found", LOG_ERROR );
+d806 1
+a806 1
+				message_log_append( "Can't parse campaign from XML file",
+d809 1
+a809 1
+		} else message_log_append( "Can't locate 'campaign' node in XML file",
+d865 1
+a865 1
+				message_log_append( "XML file contains too many contracts",
+d872 1
+a872 1
+			message_log_append( "Error while parsing XML file", LOG_ERROR );
+@
+
+
+1.47
+log
+@move message_log functions into testing footer.
+when setting individual contract's SiteName, also set Site Record
+@
+text
+@d14 1
+d37 1
+d60 1
+d89 1
+d111 2
+d136 2
+d477 1
+d771 2
+@
+
+
+1.46
+log
+@fix bug so that foreach loop puts SiteName in header, not detail.
+@
+text
+@d840 1
+d879 11
+d894 6
+a899 2
+echo count( $headers[1]['Site Records'] ) . " site records returned\n";
+
+@
+
+
+1.45
+log
+@Add SiteName back into parsed fields array, with a NULL value.
+Later code (probably verify_xml) will fill it in.
+@
+text
+@d838 3
+d846 1
+@
+
+
+1.44
+log
+@comment out testing code
+@
+text
+@d387 4
+a390 5
+// SiteName is no longer meaningful since a SysCode can equate to 
+// multiple sites.  We can only parse the SysCode (above).
+//	$xml_fields[ $j ][ FLD_NAME ] = "SiteName";
+//	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Site Records']['SiteName']";
+//	$j++;
+@
+
+
+1.43
+log
+@remove old_ functions, revise some constants to DEFAULT_ names,
+clean up main parsing loop, separate systemOrder indexing from
+parsed contract indexing.
+@
+text
+@d874 1
+a874 1
+///*
+d891 1
+a891 1
+//*/
+@
+
+
+1.42
+log
+@change header array field 'Site Record' to 'Site Records' to
+reflect that it is an array of potentially multiple records.
+remove 'SiteName' from header array, since the header array
+is no longer guaranteed to pertain to a single SiteName.
+@
+text
+@d5 2
+a6 66
+define( 'CUST_DISCOUNT',  "300" );	// default 30% commission to the customer
+define( 'SALESCOMM',     "1000" );	// default 100% commission to the salesman
+
+
+function old_string_field( $s )
+
+////////////////////////////////////////////
+//
+// return $s with a quote mark at both ends.  
+// Eventually this should have smarts to do 
+// all necessary escaping of special characters 
+// in string $s
+//
+////////////////////////////////////////////
+
+{
+	$result = '"' . $s . '"';
+	return( $result );
+}
+
+
+
+function old_format_detail_record( $fdr_line, $fdr_contract, $fdr_network, $fdr_startdate,
+				$fdr_enddate, $fdr_timeon, $fdr_timeoff, $fdr_distribution, 
+				$fdr_bonus, $fdr_priority, $fdr_unitprice, $fdr_nweeks, 
+				$fdr_value, $fdr_nsched, $fdr_nplaced, $fdr_nplayed, 
+				$fdr_actualvalue, $fdr_programname, $fdr_startday, 
+				$fdr_endday, $fdr_makegoods, $fdr_makegooddays )
+{
+
+// Given the variables passed, format a CSV line of
+// data and return.
+
+	$newline = CHR( 10 ); // or could use CHR( 13 ) . CHR( 10 )
+	$comma = ',';
+
+	$s = "";
+
+	$s .=          $fdr_line;
+	$s .= $comma . $fdr_contract;
+	$s .= $comma . string_field( $fdr_network );
+	$s .= $comma . string_field( $fdr_startdate );
+	$s .= $comma . string_field( $fdr_enddate );
+	$s .= $comma . string_field( $fdr_timeon );
+	$s .= $comma . string_field( $fdr_timeoff );
+	$s .= $comma . string_field( $fdr_distribution );
+	$s .= $comma . $fdr_bonus;
+	$s .= $comma . $fdr_priority;
+	$s .= $comma . $fdr_unitprice;
+	$s .= $comma . $fdr_nweeks;
+	$s .= $comma . $fdr_value;
+	$s .= $comma . $fdr_nsched;
+	$s .= $comma . $fdr_nplaced;
+	$s .= $comma . $fdr_nplayed;
+	$s .= $comma . $fdr_actualvalue;
+	$s .= $comma . string_field( $fdr_programname );
+	$s .= $comma . $fdr_startday;
+	$s .= $comma . $fdr_endday;
+	$s .= $comma . $fdr_makegoods;
+	$s .= $comma . $fdr_makegooddays;
+
+//	$s .= $newline;
+
+	return( $s );
+
+} // old_format_detail_record
+d21 2
+a22 1
+		if (is_null( $result[ 'Discount' ])) $result[ 'Discount' ] = CUST_DISCOUNT;
+d92 2
+a93 1
+		if (is_null( $result[ 'SalesComm' ])) $result[ 'SalesComm' ] = SALESCOMM;
+d804 1
+d806 4
+a809 2
+		while (($success) && 
+				(!is_null( $sys_ords[ $n_contract ] ))) {
+d811 5
+a815 2
+// the array index will be numeric, 1 .. N
+				$contract_seq = $n_contract + 1;
+d819 1
+a819 1
+						$sys_ords[ $n_contract ], // XML object
+d821 1
+a821 1
+					 	$cont_header[ $contract_seq ] // array
+d825 5
+a829 14
+					$success = parse_contract_detail( $campaign[0], 
+						$sys_ords[ $n_contract ],
+						 $cont_detail[ $contract_seq ] );
+//				if ($success) {	// verify contract spots and costs
+//					$spots = 0;
+//					$cost  = 0;
+//					foreach ($cont_detail[ $contract_seq ] as $det) {
+//						$spots += $det[ 'nOrder' ];
+//// calculate values with binary precision arithmetic routines
+//						$value = bcmul( $det[ 'nOrder' ],
+//								$det[ 'UnitPrice' ], 2 );
+//						$cost = bcadd( $cost, $value, 2 );
+//					} // foreach
+//				} // if
+d832 15
+a846 3
+//					$success = parse_contract_copy(   $campaign[0], 
+//						$sys_ords[ $n_contract ],
+//						 $foo );
+a847 1
+				$n_contract++;
+d852 2
+a853 1
+			}
+d855 1
+d858 1
+d874 1
+a874 1
+/*
+d891 1
+a891 1
+*/
+@
+
+
+1.41
+log
+@modify function site_record to site_records, to facilitate
+returning multiple records from table site_operators when
+a syscode matches multiple records in the table.
+parse the syscode into the header array.
+the 'Site Record' field in the header array is now an array
+of site_operators records, indexed from 0.
+@
+text
+@d413 1
+a413 1
+	$xml_fields[ $j ][ FLD_NAME ] = "Site Record";
+d449 5
+a453 3
+	$xml_fields[ $j ][ FLD_NAME ] = "SiteName";
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Site Record']['SiteName']";
+	$j++;
+d930 1
+a930 1
+echo count( $headers[1]['Site Record'] ) . " site records returned\n";
+@
+
+
+1.40
+log
+@add (string) casts to TELAMERICA boolean test.
+comment out debugging strings.
+@
+text
+@d115 4
+a118 1
+function site_record( $sys_code, $oper_name )
+d124 12
+a135 3
+        if (($sql_result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $sql_result ))) {
+                $result = $record;
+d140 1
+a140 1
+        }
+d143 1
+a143 1
+} // site_record
+d409 4
+d414 1
+a414 1
+	$xml_fields[ $j ][ EXPR     ] = "site_record( xml_syscode( \$system_order ), '" . OPERATOR_NAME . "' )";
+d927 3
+@
+
+
+1.39
+log
+@change total_value to total_cost
+@
+text
+@d255 1
+a255 1
+	$xml_fields[ $j ][ EXPR     ] = "(TELAMERICA) ? (\$campaign->product->name) : (\$campaign->advertiser->name)";
+d318 2
+d816 1
+a816 1
+echo "loading XML\n";
+d837 1
+a837 1
+echo "parsing campaign\n";
+d854 1
+a854 1
+echo "parsing header $contract_seq\n";
+d862 1
+a862 1
+echo "parsing detail $contract_seq\n";
+@
+
+
+1.38
+log
+@implement campaign parsing
+@
+text
+@d284 1
+a284 1
+	$xml_fields[ $j ][ FLD_NAME ] = "total_value";
+d471 1
+a471 1
+	$xml_fields[ $j ][ FLD_NAME ] = "total_value";
+@
+
+
+1.37
+log
+@implement campaign-level parsing into a new array returned
+from parse_xml().
+@
+text
+@d263 1
+a263 1
+	$xml_fields[ $j ][ FLD_NAME ] = "startDate";
+d267 1
+a267 1
+	$xml_fields[ $j ][ FLD_NAME ] = "endDate";
+a308 1
+//die();
+d325 1
+d379 15
+a393 15
+	$xml_fields[ $j ][ FLD_NAME ] = "Customer Name";
+	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Rep' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Customer Record";
+	$xml_fields[ $j ][ EXPR     ] = "cust_record( xml_company_name( \$campaign, 'Rep' ), '" . OPERATOR_NAME . "' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Agency Name";
+	$xml_fields[ $j ][ EXPR     ] = "(string)xml_company_name( \$campaign, 'Agency' )";
+	$j++;
+
+	$xml_fields[ $j ][ FLD_NAME ] = "Agency Record";
+	$xml_fields[ $j ][ EXPR     ] = "agency_record( xml_company_name( \$campaign, 'Agency' ), '" . OPERATOR_NAME . "' )";
+	$j++;
+d404 1
+a404 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Customer Record']['Seq']";
+d408 1
+a408 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Customer Record']['Discount']";
+d412 1
+a412 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Agency Record']['Seq']";
+d416 1
+a416 1
+	$xml_fields[ $j ][ EXPR     ] = "\$hdr_array['Agency Record']['Rate']";
+d420 1
+a420 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->order->key->id";
+d428 1
+a428 2
+	$xml_fields[ $j ][ EXPR     ] = "substr( \$contract_name, 0, 27 ) . " .
+			"' ' . substr( \$hdr_array['CustOrder'], -4 )";
+d436 1
+a436 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->dateRange->startDate";
+d440 1
+a440 1
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->dateRange->endDate";
+d460 1
+a460 2
+	$xml_fields[ $j ][ EXPR     ] = "\$campaign->makeGoodPolicy->code . ':' . " . 
+				"\$campaign->makeGoodPolicy->code['codeDescription']";
+a466 4
+	$xml_fields[ $j ][ FLD_NAME ] = "campaign/buyType";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->buyType";
+	$j++;
+
+a474 13
+// calculate any variables here that need to get set before we
+// evaluate the fields defined in the array above.
+
+	switch (TRUE) {
+	case ($hdr_array['Customer Name'] == TELAMERICA):
+		$contract_name = $campaign->product->name;
+		break;
+	default:
+		$contract_name = $campaign->advertiser->name;
+		break;
+	} // switch
+
+
+d658 1
+d814 1
+d830 1
+a830 1
+	}
+d835 1
+d837 1
+a837 3
+			if (!$success)
+var_dump( $camp_header );
+die();
+d840 1
+d843 1
+a843 1
+	}
+d852 7
+a858 3
+				$success = parse_contract_header( $campaign[0], 
+						$sys_ords[ $n_contract ],
+						 $cont_header[ $contract_seq ] );
+d860 1
+d864 12
+a875 11
+				if ($success) {	// verify contract spots and costs
+					$spots = 0;
+					$cost  = 0;
+					foreach ($cont_detail[ $contract_seq ] as $det) {
+						$spots += $det[ 'nOrder' ];
+// calculate values with binary precision arithmetic routines
+						$value = bcmul( $det[ 'nOrder' ],
+								$det[ 'UnitPrice' ], 2 );
+						$cost = bcadd( $cost, $value, 2 );
+					} // foreach
+				} // if
+d880 1
+d905 1
+a905 1
+///*
+d919 1
+a919 1
+//*/
+@
+
+
+1.36
+log
+@change code to use numeric keys 1 .. N instead of alpha keys A .. Z.
+@
+text
+@d159 2
+d174 1
+a174 1
+}
+d197 127
+d815 3
+a817 2
+	&$cont_header,		// header output array returned to caller
+	&$cont_detail		// detail output array returned to caller
+d825 1
+d852 8
+a859 3
+			$campaign_spots = $campaign->totals->spots;
+			$campaign_cost  = $campaign->totals->cost;
+		} else echo "Can't locate 'campaign' node in XML file.\n";
+a862 2
+		$total_spots = 0;	// verify against $campaign_spots
+		$total_cost  = 0;	// verify against $campaign_cost
+a886 17
+// at this point, $spots and $cost should equal 
+// $cont_header[ $contract_seq ][ 'total_spots' ] and 
+// $cont_header[ $contract_seq ][ 'total_value' ].
+				if (bccomp( $cont_header[ $contract_seq ][ 'total_spots' ], $spots, 2 ) != 0) {
+					$s  = "Number of spots doesn't agree between header (";
+					$s .= $cont_header[ $contract_seq ][ 'total_spots' ];
+					$s .= ") and detail (" . $spots . ") in contract ";
+					$s .= $contract_seq . ", system order " .  $cont_header[ $contract_seq ][ 'SystemOrder' ];
+					message_log_append( $s, LOG_ERROR );
+				}
+				if (bccomp( $cont_header[ $contract_seq ][ 'total_value' ], $cost, 2 ) != 0) {
+					$s  = "Total cost doesn't agree between header (";
+					$s .= $cont_header[ $contract_seq ][ 'total_value' ];
+					$s .= ") and detail (" . $cost . ") in contract ";
+					$s .= $contract_seq . ", system order " .  $cont_header[ $contract_seq ][ 'SystemOrder' ];
+					message_log_append( $s, LOG_ERROR );
+				}
+d915 1
+a915 1
+/*
+d918 1
+a918 1
+parse_xml( "example.xml", $headers, $details );
+d925 1
+a925 1
+var_dump( $headers );
+d929 1
+a929 1
+*/
+@
+
+
+1.35
+log
+@after parsing, check header total spots/cost against detail.
+@
+text
+@d694 1
+d733 2
+a734 1
+				$contract_seq = CHR( ORD( 'A' ) + $n_contract );
+d798 15
+a812 13
+//function main()
+//{
+//parse_xml( "example.xml", $headers, $details );
+////echo (is_null( $headers['A']['version1'] ) ? 'null' : 'not null') . "\n";
+////echo (is_null( $headers['A']['version2'] ) ? 'null' : 'not null') . "\n";
+////echo (is_null( $headers['A']['version3'] ) ? 'null' : 'not null') . "\n";
+////var_dump( $headers['A']['version1'] );
+////var_dump( $headers['A']['version2'] );
+////var_dump( $headers['A']['version3'] );
+//var_dump( $headers );
+//}
+//
+//main();
+@
+
+
+1.34
+log
+@Parse total_value from contract header.
+@
+text
+@d87 2
+a88 2
+if (DEBUG) echo "MySQL query failed: " . $qry . "<br>\n";
+if (DEBUG) echo mysql_error( $db_conn ) . "<br>\n";
+d106 2
+a107 2
+if (DEBUG) echo "MySQL query failed: " . $qry . "<br>\n";
+if (DEBUG) echo mysql_error( $db_conn ) . "<br>\n";
+d125 2
+a126 2
+if (DEBUG) echo "MySQL query failed: " . $qry . "<br>\n";
+if (DEBUG) echo mysql_error( $db_conn ) . "<br>\n";
+d145 2
+a146 2
+if (DEBUG) echo "MySQL query failed: " . $qry . "<br>\n";
+if (DEBUG) echo mysql_error( $db_conn ) . "<br>\n";
+d167 3
+a169 2
+		echo "no $p_type name\n";
+		var_dump( $p_campaign );
+d178 5
+a182 4
+	$result = (string)$p_sys_ord->system->syscode;
+	if ($result == NULL) {
+		echo "no syscode\n";
+		var_dump( $p_sys_ord );
+d198 1
+d202 2
+d209 1
+d385 3
+a387 1
+	
+d394 1
+d399 2
+d403 1
+d596 4
+d601 3
+a603 1
+				$day_mask .= 'N';
+d607 5
+a611 2
+		if ($end_day < $MONDAY) {
+echo "error: no run days were found\n";
+d613 1
+d678 3
+a680 1
+	
+d702 1
+a702 1
+			echo "Can't load XML file $xmlfile.\n";
+d708 1
+a708 1
+			echo "XML file $xmlfile is the wrong documentType.\n";
+d714 1
+a714 1
+			echo "Invalid number of campaigns in XML file $xmlfile.\n";
+d719 4
+a722 2
+		if (!$success)
+			echo "Can't locate 'campaign' node in XML file $xmlfile.\n";
+d726 2
+a729 1
+				($n_contract < MAX_CONTRACTS) && 
+d731 3
+a733 2
+			$contract_seq = CHR( ORD( 'A' ) + $n_contract );
+			parse_contract_header( $campaign[0], 
+d736 2
+a737 1
+			parse_contract_detail( $campaign[0], 
+d740 30
+a769 2
+//var_dump( $foo );
+//			parse_contract_copy(   $campaign[0], 
+d772 6
+a777 1
+			$n_contract++;
+d780 1
+a780 1
+			echo "Error while parsing $xmlfilename.\n";
+d802 4
+a805 3
+//var_dump( $headers['A']['version1'] );
+//var_dump( $headers['A']['version2'] );
+//var_dump( $headers['A']['version3'] );
+@
+
+
+1.33
+log
+@fix bug in contract name assignment
+@
+text
+@d342 4
+@
+
+
+1.32
+log
+@parse systemOrder->key->id from XML file, store in SystemOrder
+@
+text
+@d346 1
+a346 1
+	case ($hdr_array['Customer Name'] = TELAMERICA):
+@
+
+
+1.31
+log
+@Implement customer-specific contract name field based on customer name.
+@
+text
+@d288 4
+@
+
+
+1.30
+log
+@fix bug in xml_syscode function
+@
+text
+@d289 2
+a290 3
+	$xml_fields[ $j ][ EXPR     ] = <<< __EOF__
+substr( \$campaign->advertiser->name, 0, 27 ) . ' ' . substr( \$hdr_array['CustOrder'], -4 )
+__EOF__;
+d338 15
+@
+
+
+1.29
+log
+@remove "N contracts parsed" message
+@
+text
+@a72 100
+function old_ncc_parse_xml(
+	$xmlfile,		// input file to parse
+	&$header_outputname,	// SQL header output filename returned to caller
+	&$detail_outputname,	// SQL detail output filename returned to caller
+	&$order_number		// Order number found in input file
+)
+
+// If the XML looks reasonable, the outputnames will be
+// ncc-order#-header.sql and ncc-order#-detail.sql
+
+// header_outputname and detail_outputname must be passed
+// with the path where the caller wants the files created.
+// We will only append a filename.
+
+// return TRUE if no errors, else FALSE
+
+{
+GLOBAL $db_conn, $db_host, $db_user, $db_pwd, $db_name;
+
+	$result = TRUE;	// assume success until we encounter a failure
+
+	if (($db_conn = mysql_connect( $db_host, $db_user, $db_pwd )) &&
+		mysql_select_db( $db_name, $db_conn )) {
+
+		if ($xmlstr = file_get_contents( $xmlfile )) {
+			$xml = new SimpleXMLElement( $xmlstr );
+			$err_num = verifyXmlAsNccOrder( $xml );
+		} else {
+			echo "Can't read " . $xmlfile . "<br>\n";
+			$result = FALSE;
+		} // if get_file_contents
+
+		if (($result) && ($err_num == 0)) { // then no errors
+
+if (DEBUG) echo "XML looks reasonable<br>\n";
+
+			$version = trim( $xml->campaign->order->systemOrder->key->version );
+if (DEBUG) {
+echo "campaign->order->systemOrder->key->version = " . 
+	$xml->campaign->order->systemOrder->key->version . "\n";
+}
+			$result = ($version == "1");
+
+			if ($result) {
+
+				$order_number = trim( $xml->campaign->order->key->id );
+if (DEBUG) echo "Order number is " . $order_number . "<br>\n";
+
+				$header_outputname .= "ncc-" . $order_number . "-header.sql";
+				$detail_outputname .= "ncc-" . $order_number . "-detail.sql";
+
+				if ($s = sql_header( $xml )) {
+					$f = fopen( $header_outputname, "w" );
+					fwrite( $f, $s . "\n" );
+					fclose( $f );
+				} else {
+if (DEBUG) echo "Error writing SQL order heading<br>\n";
+					$result = FALSE;
+				} // sql_header
+
+				if ($s = sql_detail( $xml )) {
+					$f = fopen( $detail_outputname, "w" );
+					fwrite( $f, $s . "\n" );
+					fclose( $f );
+				} else {
+if (DEBUG) echo "Error writing SQL order detail<br>\n";
+					$result = FALSE;
+				} // sql_detail
+
+				// echo "SQL detail record(s):\n";
+				// echo $s . "\n\n";
+
+			} else {	
+
+if (DEBUG) echo "This is not Version 1 of this order.<br>\n";
+				message_log_append( "This is a revised order", LOG_ERROR );
+			}
+
+		} else {	
+
+if (DEBUG) echo "XML fails test number $err_num<br>\n";
+                	$result = FALSE;
+
+		} // if result and err_num == 0
+
+	} else {
+
+if (DEBUG) echo "Can't connect to MySQL server<br>\n";
+		$result = FALSE;
+
+	}
+
+	return( $result );
+
+} // old_ncc_parse_xml
+
+
+// new code:
+
+
+d174 1
+a174 1
+function xml_syscode( /* SimpleXMLElement */ $p_sys_ord )
+d177 2
+a178 7
+	$result = NULL;
+	/* Search for <campaign>...<company type="$p_type"><name> */
+	if ($match = $p_sys_ord->xpath('/adx/campaign/order/systemOrder/system/syscode')) {
+		if (list( $foo, $node ) = each( $match )) {
+			$result = $node;
+		} // if
+	} else {
+d180 1
+a180 1
+		var_dump( $p_campaign );
+@
+
+
+1.28
+log
+@add spot number parsing into field SpotID
+@
+text
+@d805 1
+a805 3
+		echo "$n_contract contract" . 
+			($n_contract == 1 ? '' : 's') . 
+			" parsed successfully.\n";
+@
+
+
+1.27
+log
+@remove old_time_diff
+@
+text
+@a8 67
+function old_verifyXmlAsNccOrder( SimpleXMLElement $xml )
+
+// $xml is an XML object.  We'll inspect certain fields to
+// determine whether the XML document is likely to be a 
+// well-structured NCC order document.  This does not do 
+// thorough range-checking of all data, just a first-order 
+// inspection.
+
+// A return value of 0 means success, other than 0 is an error number
+
+{
+
+	$result = TRUE;
+	$test_number = 1;
+
+	while (($result) && ($test_number > 0)) {
+		switch ($test_number) {
+		case 1:
+			$result = ($xml->document[0]->documentType == 'Order');
+			$test_number++;
+			break;
+		case 2:
+			$result = ($xml->campaign->company[0]->name == 'NCC');
+			$test_number++;
+			break;
+		case 3:
+			$result = ($xml->campaign->order->systemOrder->key->version == 1);
+			if (!$result) {
+if (DEBUG) echo "This is not Version 1 of this order.<br>\n";
+				message_log_append( "This is a revised order", LOG_ERROR );
+			}
+			$test_number++;
+			break;
+		case 4:
+			$total_wks = $xml->campaign->order->systemOrder->weeks["count"] + 0;
+			$result = (($total_wks > 0) && ($total_wks <= MAX_WEEKS));
+			$test_number++;
+			break;
+		case 5:
+			$total_ads = $xml->campaign->order->systemOrder->totals->spots + 0;
+//echo "total_ads = " . $total_ads . "\n";
+			$result = (($total_ads > 0) && ($total_ads < AD_LIMIT));
+			$test_number++;
+			break;
+		case 6:
+			$test_number++;
+			break;
+		case 7:
+			$test_number++;
+			break;
+		default:
+			$test_number = 0;
+		} // switch 
+	} // while $test_number > 0
+
+// On success, return 0.  Otherwise, return the test number that failed.
+// $test_number has already been incremented, so pre-decrement the value
+// before returning.
+
+	$result = ($result ? 0 : --$test_number );
+
+	return( $result );
+
+} // old_verifyXmlAsNccOrder
+
+
+
+d617 4
+d718 1
+a718 1
+//echo $fld_name . "\n";
+d743 1
+a743 1
+function ncc_parse_xml(
+d816 1
+a816 1
+} // ncc_parse_xml
+d821 1
+a821 1
+//ncc_parse_xml( "example.xml", $headers, $details );
+@
+
+
+1.26
+log
+@move MakeGoodPolicy field out of detail and into header
+@
+text
+@a8 16
+function old_time_diff( $time1, $time2 )
+// given two times in hh:mm format, return the difference
+// $time2 - $time1 in minutes
+{
+	if (preg_match( "/^[0-2][0-9]:[0-5][0-9]$/", $time1 ) &&
+	    preg_match( "/^[0-2][0-9]:[0-5][0-9]$/", $time2 )) {
+		$tm1 = substr( $time1, 0, 2 ) * 60 + substr( $time1, 3, 2 );
+		$tm2 = substr( $time2, 0, 2 ) * 60 + substr( $time2, 3, 2 );
+		return( $tm2 - $tm1 );
+	} else {
+		die( "invalid parameter in time_diff, must be hh:mm\n" );
+		return( 0 );	// should never reach here
+	} // if
+} // old_time_diff
+
+
+@
+
+
+1.25
+log
+@add parsing of makeGoodPolicy code and code desription
+@
+text
+@d510 5
+d533 1
+a533 1
+//			echo $fld_name . "\n";
+d535 1
+a535 1
+//			echo $expr . "\n";
+d539 3
+a541 3
+//			echo $hdr_array[ $fld_name ] . "\n";
+//			var_dump( $hdr_array[ $fld_name ] );
+//			echo "---\n";
+a691 5
+	$xml_fields[ $j ][ FLD_NAME ] = "MakeGoodPolicy";
+	$xml_fields[ $j ][ EXPR     ] = "\$campaign->makeGoodPolicy->code . ':' . " . 
+				"\$campaign->makeGoodPolicy->code['codeDescription']";
+	$j++;
+
+d797 1
+a797 1
+					echo $fld_name . "\n";
+d799 1
+a799 1
+//					echo $expr . "\n";
+d803 3
+a805 3
+//					echo $one_line[ $fld_name ] . "\n";
+					var_dump( $one_line[ $fld_name ] );
+//					echo "---\n";
+@
+
+
+1.24
+log
+@cast Customer Name and Agency Name to string type.
+@
+text
+@d687 5
+d797 1
+a797 1
+//					echo $fld_name . "\n";
+d804 1
+a804 1
+//					var_dump( $one_line[ $fld_name ] );
+@
+
+
+1.23
+log
+@Parse Customer Name and Agency Name from XML file into header array.
+@
+text
+@d433 1
+a433 1
+	$xml_fields[ $j ][ EXPR     ] = "xml_company_name( \$campaign, 'Rep' )";
+d441 1
+a441 1
+	$xml_fields[ $j ][ EXPR     ] = "xml_company_name( \$campaign, 'Agency' )";
+@
+
+
+1.22
+log
+@parse total spots into header array
+@
+text
+@d432 4
+d440 4
+@
+
+
+1.21
+log
+@fix missing backslash in week_count
+@
+text
+@d510 4
+@
+
+
+1.20
+log
+@add week_count to header parsing; change buyType to campaign/buyType
+@
+text
+@d503 1
+a503 1
+	$xml_fields[ $j ][ EXPR     ] = "(int)$system_order->weeks['count']";
+@
+
+
+1.19
+log
+@comment var_dumps done upon parse success
+@
+text
+@a413 4
+	$xml_fields[ $j ][ FLD_NAME ] = "buyType";
+	$xml_fields[ $j ][ EXPR     ] = "(string)\$campaign->buyType";
+	$j++;
+
+d502 8
+@
+
+
+1.18
+log
+@fix documentType check logic
+@
+text
+@d866 4
+a869 4
+echo "headers:\n";
+var_dump( $cont_header );
+echo "detail:\n";
+var_dump( $cont_detail );
+@
+
+
+1.17
+log
+@fail parsing if documentType is not 'Order'
+@
+text
+@a577 8
+//	$xml_fields[ $j ][ FLD_NAME ] = "week_count";
+//	$xml_fields[ $j ][ EXPR     ] = "\$week_count";
+//	$j++;
+
+//	$xml_fields[ $j ][ FLD_NAME ] = "week_table";
+//	$xml_fields[ $j ][ EXPR     ] = "\$week_table";
+//	$j++;
+
+d679 8
+d814 12
+a825 5
+	$success = ($xml = simplexml_load_file( $xmlfile ));
+	if ($success)
+		$success = ($xml->adx->document->documentType == 'Order');
+	else {
+		echo "Can't load XML file $xmlfile.\n";
+d828 1
+a828 1
+	if ($success)
+d830 2
+a831 2
+	else {
+		echo "XML file $xmlfile is the wrong documentType.\n";
+d834 1
+a834 1
+	if ($success)
+d836 2
+a837 2
+	else {
+		echo "Invalid number of campaigns in XML file $xmlfile.\n";
+d858 8
+a865 4
+		if ($success) {
+			echo "$n_contract contract" . 
+				($n_contract == 1 ? '' : 's') . 
+				" parsed successfully.\n";
+a869 5
+		} else {
+			echo "Error while parsing $xmlfilename.\n";
+		}
+	} else {
+		echo "Can't locate 'campaign' node in XML file $xmlfile.\n";
+@
+
+
+1.16
+log
+@refine parsing directives for version1, version2, version3
+@
+text
+@d816 6
+d824 1
+a824 1
+		echo "Can't load XML file $xmlfile.\n";
+@
+
+
+1.15
+log
+@add version node parsing to contract header section
+@
+text
+@d3 1
+a3 1
+require 'testing-header.php';
+d849 4
+a852 4
+//echo "headers:\n";
+//var_dump( $cont_header );
+//echo "detail:\n";
+//var_dump( $cont_detail );
+d864 14
+@
+
+
+1.14
+log
+@fix parameter passing bug so that ncc_parse_xml modifies
+the caller's array parameters.
+@
+text
+@d418 14
+@
+
+
+1.13
+log
+@remove testing header
+@
+text
+@d789 2
+a790 2
+	&$headers,		// header output array returned to caller
+	&$details		// detail output array returned to caller
+d835 4
+a838 4
+echo "headers:\n";
+var_dump( $cont_header );
+echo "detail:\n";
+var_dump( $cont_detail );
+@
+
+
+1.12
+log
+@alpha draft complete.  further work will be in ncc_verify_xml unless
+bugs are found in ncc_parse_xml.php.
+@
+text
+@d3 1
+a3 37
+// begin header of defines/declares only needed for testing
+
+$db_host="127.0.0.1";
+$db_user="james";
+$db_pwd="mysql";
+$db_name="james";
+
+$db_conn = mysql_connect( $db_host, $db_user, $db_pwd );
+mysql_select_db( $db_name, $db_conn );
+
+define( "MAX_CONTRACTS", 20 );	// max. number of contracts in one XML file
+
+define( "MAX_WEEKS", 19 );	// max. number of weeks on one order
+define( "AD_LIMIT", 1000 );	// max. number of spots on one order
+
+define( "MONDAY", 0 );	// used for day-of-week range checking
+define( "SUNDAY", 6 );	// used for day-of-week range checking
+
+define( 'OPERATOR_NAME', 'AdSystems' );
+
+// ugly, but this is Telamerica's customer name as it appears in the
+// XML order file.
+$TELAMERICA = "TelAmerica CableConnect";
+
+//  Attribute bit values:
+
+define( 'ATTRIB_AGENCY',        256 );
+define( 'ATTRIB_AUTO_MAKEGOOD',  32 );
+define( 'ATTRIB_COOP',           16 );
+define( 'ATTRIB_EOF_BILLING',     8 );
+define( 'ATTRIB_PENDING',         4 );
+define( 'ATTRIB_FILLER',          2 );
+define( 'ATTRIB_PI',              1 );
+
+define( 'ATTRIBUTES', ATTRIB_AGENCY + ATTRIB_PENDING );
+
+// end testing header
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d13 2
+a288 1
+
+d450 4
+d534 1
+a534 1
+			echo $fld_name . "\n";
+d536 1
+a536 1
+			echo $expr . "\n";
+d541 2
+a542 2
+			var_dump( $hdr_array[ $fld_name ] );
+			echo "---\n";
+d823 8
+a830 1
+function main()
+d832 10
+a841 32
+	if ($xml = simplexml_load_file( "example.xml" )) {
+		$foo = "";
+//		var_dump( $xml );
+
+//echo "adx count = " . count_xml_elements( $xml, '/adx' ) . "\n";
+//echo "adx/campaign count = " . count_xml_elements( $xml, '/adx/campaign' ) . "\n";
+//echo "adx/campaign/order count = " . count_xml_elements( $xml, '/adx/campaign/order' ) . "\n";
+//echo "adx/campaign/order/systemOrder count = " . count_xml_elements( $xml, '/adx/campaign/order/systemOrder' ) . "\n";
+
+        	if (count_xml_elements( $xml, '/adx/campaign' ) == 1) {
+
+			if ($campaign = $xml->xpath( '/adx/campaign' )) {
+
+//echo "campaign $foo\n";
+//echo ( $campaign->xpath('/adx/campaign/key') ? "found key" : "no key" ) . "\n";
+//xml_company_name( $campaign, 'Agency' );
+//xml_company_name( $campaign, 'Rep' );
+//var_dump( $campaign );
+
+				$sys_ords = $campaign[0]->xpath('/adx/campaign/order/systemOrder');
+				foreach ($sys_ords as $system_order ) {
+//					parse_contract_header( $campaign[0], 
+//								$system_order,
+//								 $foo );
+					parse_contract_detail( $campaign[0], 
+								$system_order,
+								 $foo );
+var_dump( $foo );
+//					parse_contract_copy(   $campaign[0], 
+//								$system_order,
+//								 $foo );
+				}
+d843 5
+a847 3
+			} else {
+				echo "Can't locate 'campaign' node in XML\n";
+			} // if
+d849 26
+d876 4
+a879 2
+			echo "XML must contain one and only one campaign\n";
+		} // if
+a880 1
+} // main
+d882 1
+d884 1
+a884 1
+main();
+@
+
+
+1.10
+log
+@wow! big progress in making this more maintainable.
+@
+text
+@a143 211
+function old_sql_header( SimpleXMLElement $xml )
+
+////////////////////////////////////////////
+//
+// return a string with an INSERT statement that will
+// accomplish the insertion of the header record, except
+// that there will be no "INSERT INTO table_name" so that
+// the insertion is not table-specific.
+//
+// on error, return NULL
+//
+////////////////////////////////////////////
+
+{
+GLOBAL $db_conn;
+
+//  `Seq` int(11) NOT NULL auto_increment,
+//  `CIndex` int(11) default NULL,
+//  `ContractName` varchar(32) default NULL,
+//  `SiteName` varchar(16) default NULL,
+//  `StartDate` char(12) default NULL,
+//  `EndDate` char(12) default NULL,
+//  `AgencyComm` int(11) default '0',
+//  `Discount` int(11) default '0',
+//  `AIndex` int(11) default NULL,
+//  `TotalValue` int(11) default '0',
+//  `Attributes` int(1) default '0',
+//  `CustOrder` varchar(16) default '(none)',
+//  `SIndex` int(11) default '1',
+//  `SalesComm` int(11) default '100',
+//  PRIMARY KEY  (`Seq`),
+//  KEY `SiteName` (`SiteName`)
+
+
+	$AGENCY_COMM = "150";	// default 15% commission to the agency
+	$DISCOUNT = "300";	// default 30% commission to the customer
+
+	$SINDEX = "1";		// Salesperson index number -- set to 1
+	$SALESCOMM = "1000";	// commission -- 100.0%
+
+	$comma = ',';
+	$quote = '"';
+
+	$sql = "";
+
+// Commented out: don't specify a table name in this insert.
+// The routine that takes this string and runs with it will have
+// to add the INSERT INTO ... to drop the data into the appropriate
+// table.
+
+//	$sql .= 'INSERT INTO contract_header ';
+
+	$sql .= '( Seq, CIndex, ContractName, SiteName, StartDate, ' .
+		'EndDate, AgencyComm, Discount, AIndex, TotalValue, ' .
+		'Attributes, CustOrder, SIndex, SalesComm ) ';
+	$sql .= "VALUES \n(";
+
+	$sql .= "NULL";	// Seq (null to force auto-increment)
+
+	$cindex = "NULL";
+
+// the CIndex value is the Seq field value of the record in the
+// customers table which has a CustName value matching the XML
+// file's Customer name.  In the case of more than one matching
+// record, the lowest Seq value should be used.
+
+// We assume that a stored MySQL function 'getCustNumberForCustName'
+// is defined which will accept a CustName as the sole parameter,
+// and return either the lowest customer number found, or NULL if
+// no customer number is found.
+
+// This will require a SQL query:
+
+	$cust_name = trim( $xml->campaign->company[0]->name );
+	$qry = "SELECT getCustNumberForCustName( '$cust_name' )";
+	if (($result = mysql_query( $qry, $db_conn )) &&
+		($record = mysql_fetch_array( $result ))) {
+		$cindex = $record[ 0 ];
+//		echo "cindex is " . $cindex . "\n";
+	} else {
+if (DEBUG) echo "MySQL query failed: " . $qry . "<br>\n";
+		return( NULL );
+	}
+
+// CIndex must not be null
+	if (is_null( $cindex )) {
+if (DEBUG) echo "Customer Name '$cust_name' not found in CUSTOMERS table.<br>\n";
+		message_log_append( "Customer not found: $cust_name", LOG_ERROR );
+		return( NULL );
+	}
+
+	message_log_append( "Customer: $cust_name" );
+	$sql .= $comma . $cindex; // CIndex
+
+	$contract_name = trim( $xml->campaign->advertiser->name ); // ContractName
+
+// We'll append five characters, and need to ensure the length doesn't
+// exceed 32 chars.
+	$contract_name = substr( $contract_name, 0, 32 - 5 );	// 
+
+// append space and last four digits of order number
+	$cust_order = trim( $xml->campaign->order->key->id ); // CustOrder
+	$contract_name .= " " . substr( $cust_order, -4 );
+	message_log_append( "Order number: $cust_order" );
+	message_log_append( "Contract name: $contract_name" );
+
+	$sql .= $comma . string_field( $contract_name ); // ContractName
+
+	$site_name = "NULL";
+
+// the SiteName value is the SiteName field value of the record
+// in the site_operators table which has a SysCode value matching
+// the XML order's SysCode value.  In the case of more than one
+// matching record, one record is chosen arbitrarily.
+
+// We assume that a stored MySQL function 'getSiteNameForSysCode'
+// is defined which will accept a SysCode as the sole parameter,
+// and return either the SiteName found, or NULL if no SiteName
+// is found.
+
+// This will require a SQL query:
+
+        $sys_code = trim( $xml->campaign->order->systemOrder->system->syscode );
+        $qry = "select getSiteNameForSysCode( '$sys_code' )";
+        if (($result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $result ))) {
+                $site_name = $record[ 0 ];
+//              echo "result is " . $site_name . "\n";
+        } else {
+if (DEBUG) echo "MySQL failed: " . $qry . "<br>\n";
+		return( NULL );
+        }
+
+// SiteName must not be null
+        if (is_null( $site_name )) {
+if (DEBUG) echo "System Code '$sys_code' not found in site_operators table.<br>\n";
+		message_log_append( "Syscode not found: $sys_code", LOG_ERROR );
+		return( NULL );
+        }
+
+	message_log_append( "Sitename / Syscode: $site_name / $sys_code" );
+	$sql .= $comma . string_field( $site_name ); // SiteName
+
+	$start_date = trim( $xml->campaign->dateRange->startDate );
+	$end_date   = trim( $xml->campaign->dateRange->endDate );
+	message_log_append( "Contract start / end: $start_date / $end_date" );
+
+	$sql .= $comma . string_field( $start_date ); // StartDate
+	$sql .= $comma . string_field( $end_date ); // EndDate
+
+	$sql .= $comma . $AGENCY_COMM; // AgencyComm
+	$sql .= $comma . $DISCOUNT; // Discount
+
+	$agent_name = trim( $xml->campaign->company[1]->name );
+	$aindex = "NULL";
+
+// the AIndex value is the Seq field value of the record in the
+// agencies table which has a Name value matching the XML order's
+// Agency Name value.  In the case of more than one matching
+// record, the lowest Seq value found is returned.
+
+// We assume that a stored MySQL function 'getAgtNumberForAgtName' 
+// is defined which will accept an Agent Name as the sole
+// parameter, and return either the Seq found, or NULL if no
+// match is found.
+
+// This will require a SQL query:
+
+        $qry = "select getAgtNumberForAgtName( '$agent_name' )";
+        if (($result = mysql_query( $qry, $db_conn )) &&
+                ($record = mysql_fetch_array( $result ))) {
+                $aindex = $record[ 0 ];
+//              echo "aindex is " . $aindex . "\n";
+        } else {
+if (DEBUG) echo "MySQL failed: " . $qry . "<br>\n";
+                return( NULL );
+        }
+
+	message_log_append( "Agency: $agent_name" );
+
+// AIndex must not be null
+        if (is_null( $aindex )) {
+if (DEBUG) echo "Agency name '$agent_name' not found in agencies table.<br>\n";
+//		message_log_append( "Agency not found: $agent_name", LOG_ERROR );
+		message_log_append( "Agency not found, will be created: '$agent_name'", LOG_WARNING );
+		$_SESSION[ "agency_not_found" ] = TRUE;
+		$_SESSION[ "agency_name" ] = $agent_name;
+//		return( NULL );
+		$aindex = "NULL";
+	}
+
+	$sql .= $comma . $aindex; // AIndex
+
+//	$sql .= $comma . trim( $xml->campaign->order->systemOrder->totals->cost ); // TotalValue
+	$sql .= $comma . "0"; // TotalValue
+
+	$sql .= $comma . $ATTRIBUTES; // Attributes
+
+	$sql .= $comma . string_field( $cust_order ); // CustOrder
+
+	$sql .= $comma . $SINDEX; // SIndex
+
+	$sql .= $comma . $SALESCOMM; // SalesComm
+
+	$sql .= ' );';
+
+	return( $sql );
+
+} // old_sql_header
+
+
+a189 327
+function old_sql_detail( SimpleXMLElement $xml )
+
+////////////////////////////////////////////
+//
+// return a string with an INSERT statement that will
+// accomplish the insertion of the detail records, except
+// that there will be no "INSERT INTO table_name" so that
+// the insertion is not table-specific.
+//
+// on error, return NULL
+//
+////////////////////////////////////////////
+
+{
+global $week_table;
+global $TELAMERICA;
+
+// Create a mult-record INSERT statement that will move data into a database
+//  `Line` int(11) NOT NULL auto_increment,
+//  `Contract` int(11) default NULL,
+//  `Network` varchar(16) default NULL,
+//  `StartDate` char(12) default NULL,
+//  `EndDate` char(12) default NULL,
+//  `TimeOn` char(12) default NULL,
+//  `TimeOff` char(12) default NULL,
+//  `Distribution` varchar(32) default NULL,
+//  `Bonus` int(11) default '0',
+//  `Priority` int(1) default '7',
+//  `UnitPrice` int(12) default '0',
+//  `nWeeks` int(12) default '0',
+//  `Value` char(12) default '0.00',
+//  `nSched` int(11) default '0',
+//  `nPlaced` int(11) default '0',
+//  `nPlayed` int(11) default '0',
+//  `ActualValue` int(11) default '0',
+//  `ProgramName` varchar(32) default 'Generic Programming',
+//  `StartDay` int(1) default '0',
+//  `EndDay` int(1) default '6',
+//  `MakeGoods` int(11) default '0',
+//  `MakeGoodDays` int(1) default '127',
+//  PRIMARY KEY  (`Line`),
+//  KEY `Contract` (`Contract`),
+//  KEY `Inventory` (`Contract`,`Network`)
+
+	$sql = "";
+
+	$insert_command = "";
+
+// Commented out: don't specify a table name in this insert.
+// The routine that takes this string and runs with it will have
+// to add the INSERT INTO ... to drop the data into the appropriate
+// table.
+//	$insert_command .= "INSERT INTO contract_detail ";
+	$insert_command .= "( Line, Contract, Network, StartDate, " .
+			"EndDate, TimeOn, TimeOff, Distribution, " .
+			"Bonus, Priority, UnitPrice, nWeeks, " .
+			"Value, nSched, nPlaced, nPlayed, " .
+			"ActualValue, ProgramName, StartDay, " .
+			"EndDay, MakeGoods, MakeGoodDays ) VALUES \n";
+
+        $cust_name = trim( $xml->campaign->company[0]->name );
+
+	$weeks = $xml->campaign->order->systemOrder->weeks->week;
+	$a = array();
+
+	foreach ($weeks as $week) {
+		$j = $week[ "number" ] + 0; // convert to int
+		$dt = $week[ "startDate" ];
+		$a[ $j ] = $dt;
+if (DEBUG) {
+var_dump( DEBUG );
+echo "Week " . $j . " begins " . $a[ $j ] . "\n";
+}
+	}
+
+	$week_table = $a; // $week_table[1] thru [n] are each week's begin-date strings
+
+	// The order has multiple line items, and each line item references
+	// a network and a program.  That line item can specify multiple
+	// spots to run, and the spot numbers correspond to the line #
+	// column on the printed order.
+
+	$line_items = $xml->campaign->order->systemOrder->detailLine;
+
+	$spot_n = 0;  // spot line item counter
+
+	$item = $line_items[0];
+	foreach ( $line_items as $item ) {
+
+if (DEBUG) {
+		echo "---\n";
+//		echo "Line item ID: " . $item["detailLineID"] . "\n";
+//		echo "  Network name: " . $item->network->name . "\n";
+//		echo "  Network code: " . $item->network->ID->code . "\n";
+//		echo "  Program: " . $item->program . "\n";
+}
+
+// All weeks on this line item have the same dayOfWeek mask.
+// Build it.  Oh, and while building the text mask, like 
+// 0000YY0 for Fri-Sat, also build a binary mask, where Monday
+// is bit 0, and Sunday is bit 6, and the binary mask is the
+// sum of the bits.
+
+		$weekDayMask = "";
+
+		$dow = $item->dayOfWeek;
+
+// build a run day mask as a seven-character string, for
+// days Monday through Sunday, and each character is 0 
+// when the spot does not run that day, and Y when it does
+// run that day.
+
+		$spot_day_mask = $dow->Monday . $dow->Tuesday . 
+				 $dow->Wednesday . $dow->Thursday . 
+				 $dow->Friday . $dow->Saturday . $dow->Sunday;
+
+//	Determine the count of the days marked 'Y' in this mask.
+//	Also, build a binary mask where Monday = 2^0 and Sunday = 2^6.
+
+		$spot_day_count = 0;
+		$spot_binary_day_mask = 0;
+		$i = MONDAY;
+		while (($i <= SUNDAY) && ($i < strlen( $spot_day_mask ))) {
+			if (substr( $spot_day_mask, $i, 1 ) == 'Y') {
+				$spot_day_count++;
+				$spot_binary_day_mask += pow( 2, $i );
+			} // if
+			$i++;
+		} // while
+if (DEBUG) {
+		echo "  Spot run days: " . $spot_day_mask . "\n";
+		echo "  Spot day count: " . $spot_day_count . "\n";
+		echo "  Spot bin mask: " . $spot_binary_day_mask. "\n";
+//		echo "  Spot run days: " . $dow->Monday . " " .  
+//				$dow->Tuesday . " " . $dow->Wednesday . " " . 
+//				$dow->Thursday . " " . $dow->Friday . " " . 
+//				$dow->Saturday . " " .  $dow->Sunday . "\n";
+//		echo "  Start time: " . $item->startTime . "\n";
+//		echo "  End time: " . $item->endTime . "\n";
+}
+
+// spot_day_count may not be zero
+		if (is_bool( $spot_day_count ) || ($spot_day_count < 1))
+			die( "spot_day_count error\n" );
+
+		$spot_cost = $item->spotCost; // unit price
+
+//		echo "  item->spotCost: " . $spot_cost . "\n";
+
+		$line_spots = $item->totals->spots;
+//		echo "  item->totals->spots: " . $line_spots . "\n";
+
+		$line_cost = $item->totals->cost;
+//		echo "  item->totals->cost: " . $line_cost . "\n";
+
+
+// a spot object has a week number, and a quantity of spots to run that week
+		$spots = $item->spot;
+
+		$network = $item->network->ID->code;
+		$programname = $item->program;
+
+		$timeon   = substr( $item->startTime, 0, 5 ); // hh:mm
+		$timeoff  = substr( $item->endTime, 0, 5 ); // hh:mm
+		$timeoff  = ( $timeoff == "00:00" ? "24:00" : $timeoff );
+
+// times must be hh:00.  We don't support start or end times except on 
+// the hour.
+		if (!preg_match( "/^[0-2][0-9]:00$/", $timeon ) ||
+	    	    !preg_match( "/^[0-2][0-9]:00$/", $timeoff ))  {
+			message_log_append( "This order contains unsupported start/end times", LOG_ERROR );
+			return( NULL );
+		}
+
+// how long a window is this?  We need to know 
+// to figure out what priority to assign.  This
+// calculates the window length in seconds.
+		$window_length = time_diff( $timeon, $timeoff );
+if (FALSE && DEBUG) {
+echo "timeon = $timeon\n";
+echo "timeoff = $timeoff\n";
+echo "window_length = $window_length\n";
+}
+// timeoff needs to be decremented one minute, so that 17:00 to 18:00 gets
+// stored as 17:00 to 17:59
+//   what a pain!  Handle 24:00 specially
+//   extra pain!  PHP wants a timezone!  It's arbitrary...
+
+		if ($timeoff == "24:00") {
+			$timeoff = "23:59";
+		} elseif ($dt = date_create( $timeoff, new DateTimeZone( "GMT" ) )) {
+//			echo date_format( $dt, "H:i" ) . "\n";
+			date_modify( $dt, '-1 minute' );
+//			echo date_format( $dt, "H:i" ) . "\n";
+			$timeoff = date_format( $dt, "H:i" );
+		} else die( "Time arithmetic error from date_create while decrementing line item endTime" );
+
+		$unitcost = $spot_cost * 100; // database stores it in pennies
+//		$nweeks   = $xml->campaign->order->systemOrder->weeks["count"];
+
+// these values aren't fleshed out yet:
+		$line = "NULL";		// forces auto-increment sequence number
+
+		$contract = "NULL";
+
+// assume bonus is always 0
+		$bonus = "0";
+
+		$priority = "NULL";
+		switch (TRUE) {
+// 3 hours or less means priority 1
+			case ($window_length <= 180):
+				$priority = 1;
+				break;
+			case ($window_length <= 420):
+				$priority = 2;
+				break;
+			case ($cust_name == $TELAMERICA):
+				$priority = 5;
+				break;
+			default:
+				$priority = 3;
+		}
+
+// startday is 0-6 where 0 is Monday, 6 is Sunday
+// this represents the earliest day found in the day mask.
+		$startday = strpos( $spot_day_mask, 'Y' );
+		if (is_bool( $startday ) || ($startday < MONDAY) || ($startday > SUNDAY))
+			die( "startday/day mask error\n" );
+
+// endday is 0-6 where 0 is Monday, 6 is Sunday
+// this represents the latest day found in the day mask.
+		$endday = strrpos( $spot_day_mask, 'Y' );
+		if (is_bool( $endday ) || $endday < MONDAY || $endday > SUNDAY)
+			die( "endday/day mask error\n" );
+
+		$makegoods = "0";
+		$makegooddays = $spot_binary_day_mask;
+
+// this is the inner loop where the order line number increments.
+// If the spot numbers are in sequence in the XML document, then
+// $spot_n should match the spot number in the XML document.
+		foreach ($spots as $spot) {
+
+// each week can have a different quantity, so recalc the
+// day-by-day distribution numbers for this week's number
+// of spots:
+			$week_spots = $spot->quantity;
+
+//	Given the number of $week_spots and the $spot_day_count, we
+//	can figure the distribution.  If the number of spots does not
+//	divide evenly by $spot_day_count, then the remainder R will cause
+//	the first R days to be increased by one.  11 spots in 3 days means
+//	the remainder is 2, so the first 2 days get an extra spot: 4 4 and
+//	3 to total 11.  19 spots in seven days means the remainder is 5,
+//	so 3 3 3 3 3 2 2.
+
+//	Format the seven daily spot counts with a hyphen delimiter, like
+//	0-4-0-4-0-0-3 for 11 spots and a day mask of 0Y0Y00Y (TuThSun)
+
+			$remain = $week_spots % $spot_day_count;	// remainder
+			$each   = ($week_spots - $remain) / $spot_day_count;
+
+                	$j = 0;
+                	$distrib = "";
+                	while ($j < strlen( $spot_day_mask )) {
+                        	$distrib .= "-";
+                        	if (substr( $spot_day_mask, $j++, 1 ) == 'Y') {
+                                	$distrib .=
+                                	( $remain-- > 0 ? 1 : 0 ) + $each;
+                        	} else {
+                                	$distrib .= "0";
+                        	}
+                	} // while
+			$distrib = substr( $distrib, 1 ); // remove leading hyphen
+			$distribution = $distrib;
+
+			$nweeks  = 1;
+			$nsched  = $week_spots;
+			$nplaced = 0;
+			$nplayed = 0;
+
+			$spot_n++;
+			$spot_xml = $spot["id"] + 0;
+			if ($spot_n == $spot_xml) {
+				$week = $spot->weekNumber + 0;
+if (FALSE && DEBUG) {
+echo "$spot_n  Week of " . $week_table[ $week ] . ": " . $nsched . " spots\n";
+}
+				$startdate = $week_table[ $week ];
+				$enddate = date_create( $startdate, new DateTimeZone( "GMT" ) );
+				date_modify( $enddate, '+6 days'); 
+				$enddate = date_format($enddate, 'Y-m-d');
+			} else {
+				echo "spot number mismatch: " .
+					"XML = " . $spot_xml .  ",
+					counter = " . $spot_n . "<br>\n";
+				return( NULL );
+			}
+
+			$value = sprintf( "%01.2f", $week_spots * $spot_cost );
+if (FALSE && DEBUG) {
+echo "value: " . var_dump( $value ) . "\n";
+}
+			$actualvalue = "0";
+
+			$csv = format_detail_record( $line,
+				$contract, $network, $startdate,
+				$enddate, $timeon, $timeoff,
+				$distribution, $bonus, $priority,
+				$unitcost, $nweeks, $value,
+				$nsched, $nplaced, $nplayed,
+				$actualvalue, $programname,
+				$startday, $endday, $makegoods,
+				$makegooddays );
+			$sql .= ( strlen( $sql ) > 0 ? ",\n" : "" ) .
+				"( " . $csv . " )";
+		} // foreach spot
+
+	} // foreach line item
+
+	$result = 0;
+	return( $insert_command . $sql . ";" );
+
+} // old_sql_detail
+
+
+d372 1
+a372 1
+function xml_company_name( /* SimpleXMLElement */ $p_campaign, $p_type )
+d385 1
+a385 1
+		echo "no match\n";
+d418 4
+a421 1
+				$hdr_array )
+d470 1
+a470 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Customer Record']['Seq']";
+d474 1
+a474 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Customer Record']['Discount']";
+d478 1
+a478 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Agency Record']['Seq']";
+d482 1
+a482 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Agency Record']['Rate']";
+d491 1
+a491 1
+substr( \$campaign->advertiser->name, 0, 27 ) . ' ' . substr( \$xml_fields['CustOrder'], -4 )
+d496 1
+a496 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Site Record']['SiteName']";
+d516 1
+a516 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Operator Record']['ID']";
+d520 1
+a520 1
+	$xml_fields[ $j ][ EXPR     ] = "\$xml_fields['Operator Record']['SalesComm']";
+d534 3
+a536 3
+			$xml_fields[ $fld_name ] = $fld_value;
+//			echo $xml_fields[ $fld_name ] . "\n";
+			var_dump( $xml_fields[ $fld_name ] );
+d547 5
+a551 1
+				$det_array )
+d554 2
+d621 1
+a621 1
+date_format( date_modify( date_create( \$xml_fields['StartDate'], new DateTimeZone( "GMT" ) ), '+6 days' ), 'Y-m-d' )
+d653 1
+a653 1
+	$xml_fields[ $j ][ EXPR     ] = "bcmul( \$xml_fields['UnitPrice'], \$xml_fields['nOrder'], 2 )";
+d709 2
+d793 1
+a793 1
+					echo $fld_name . "\n";
+d795 1
+a795 1
+					echo $expr . "\n";
+d798 4
+a801 4
+					$xml_fields[ $fld_name ] = $fld_value;
+//					echo $xml_fields[ $fld_name ] . "\n";
+					var_dump( $xml_fields[ $fld_name ] );
+					echo "---\n";
+d806 5
+d824 4
+a827 4
+echo "adx count = " . count_xml_elements( $xml, '/adx' ) . "\n";
+echo "adx/campaign count = " . count_xml_elements( $xml, '/adx/campaign' ) . "\n";
+echo "adx/campaign/order count = " . count_xml_elements( $xml, '/adx/campaign/order' ) . "\n";
+echo "adx/campaign/order/systemOrder count = " . count_xml_elements( $xml, '/adx/campaign/order/systemOrder' ) . "\n";
+d847 1
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d3 10
+a15 1
+
+d19 2
+d25 16
+a180 11
+//  Attributes field is a bitfield:
+	$ATTRIB_AGENCY		= 256;
+	$ATTRIB_AUTO_MAKEGOOD	=  32;
+	$ATTRIB_COOP		=  16;
+	$ATTRIB_EOF_BILLING	=   8;
+	$ATTRIB_PENDING		=   4;
+	$ATTRIB_FILLER		=   2;
+	$ATTRIB_PI		=   1;
+
+	$ATTRIBUTES = $ATTRIB_AGENCY + $ATTRIB_PENDING;
+
+d825 28
+a852 1
+function cust_number( $cust_name, $oper_name )
+d856 2
+a857 2
+//        $cust_name = trim( $xml->campaign->company[0]->name );
+        $qry = "SELECT getCustNumberForCustName( '$cust_name', '" . $oper_name . "' )";
+d860 1
+a860 2
+                $result = $record[ 0 ];
+//              echo "cindex is " . $cindex . "\n";
+d863 1
+d868 1
+a868 1
+} // CIndex
+d871 85
+a955 1
+function parse_contract_header( $xml,
+d965 19
+a983 1
+	$xml_fields[ $j ] = array();
+d985 17
+a1001 1
+	$xml_fields[ $j ][ EXPR     ] = "return( 'NULL' );";
+d1005 17
+a1021 1
+	$xml_fields[ $j ][ EXPR     ] = "return( cust_number( \"\$xml->campaign->company[0]->name\", '" . OPERATOR_NAME . "' ));";
+d1025 3
+a1027 1
+	$xml_fields[ $j ][ EXPR     ] = "return( \$xml->campaign->advertiser->name );";
+d1031 1
+d1035 1
+a1035 1
+	$xml_fields[ $j ][ EXPR     ] = "return( \$xml->campaign->dateRange->startDate );";
+d1039 1
+a1039 1
+	$xml_fields[ $j ][ EXPR     ] = "return( \$xml->campaign->dateRange->endDate );";
+a1041 6
+	$xml_fields[ $j ][ FLD_NAME ] = "AgencyComm";
+	$j++;
+	$xml_fields[ $j ][ FLD_NAME ] = "Discount";
+	$j++;
+	$xml_fields[ $j ][ FLD_NAME ] = "AIndex";
+	$j++;
+d1043 1
+d1045 1
+d1047 1
+d1050 2
+a1051 2
+	$xml_fields[ $j ][ FLD_NAME ] = "CustOrder";
+	$xml_fields[ $j ][ EXPR     ] = "return( \$xml->campaign->order->key->id );";
+d1053 1
+a1053 2
+
+	$xml_fields[ $j ][ FLD_NAME ] = "SIndex";
+d1055 1
+d1063 10
+a1072 4
+			echo $xml_fields[ $j ][ FLD_NAME ] . "\n";
+			echo $xml_fields[ $j ][ EXPR ] . "\n";
+			echo eval( $xml_fields[ $j ][ EXPR ] ) . "\n";
+			echo "---";
+d1077 306
+a1382 1
+}
+a1383 2
+$xml = file_get_contents( "example.xml" );
+$foo = "";
+d1385 1
+a1385 1
+parse_contract_header( $xml, $foo );
+@
+
+
+1.8
+log
+@add regexp tests to ensure times are hh:00.  If not, then fail the parsing run.
+@
+text
+@d16 1
+a16 1
+function time_diff( $time1, $time2 )
+d29 1
+a29 1
+} // time_diff
+d32 1
+a32 1
+function verifyXmlAsNccOrder( SimpleXMLElement $xml )
+d95 1
+a95 1
+} // verifyXmlAsNccOrder
+d99 1
+a99 1
+function string_field( $s )
+d117 1
+a117 1
+function sql_header( SimpleXMLElement $xml )
+d336 1
+a336 1
+} // sql_header
+d339 1
+a339 1
+function format_detail_record( $fdr_line, $fdr_contract, $fdr_network, $fdr_startdate,
+d382 1
+a382 1
+} // format_detail_record
+d385 1
+a385 1
+function sql_detail( SimpleXMLElement $xml )
+d709 1
+a709 1
+} // sql_detail
+d712 1
+a712 1
+function ncc_parse_xml(
+d806 94
+a899 1
+} // ncc_parse_xml
+@
+
+
+1.7
+log
+@Limit contract name + space + 4 digits to 32 total characters by
+using only first 27 chars of XML contract name.
+@
+text
+@d550 9
+a787 1
+
+@
+
+
+1.6
+log
+@move systemOrder->key->version into the first-order checking.  create
+a message_log_append() message to explain the error if version != 1.
+@
+text
+@d223 5
+@
+
+
+1.5
+log
+@add code to detect missing agency name and set $_SESSION variables
+to communicate this to other state-handling routines.
+@
+text
+@d58 8
+d70 1
+a70 1
+		case 4:
+d72 1
+a75 3
+		case 5:
+			$test_number++;
+			break;
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d295 2
+d300 6
+a305 2
+		message_log_append( "Agency not found: $agent_name", LOG_ERROR );
+		return( NULL );
+a307 1
+	message_log_append( "Agency: $agent_name" );
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@a199 1
+		message_log_append( "Customer: $cust_name\n" );
+d202 1
+a202 1
+		echo "MySQL query failed: " . $qry . "<br>\n";
+d208 2
+a209 1
+		echo "Customer Name '$cust_name' not found in CUSTOMERS table.<br>\n";
+d213 1
+d220 2
+a221 2
+	message_log_append( "Order number: $cust_order\n" );
+	message_log_append( "Contract name: $contract_name\n" );
+a244 1
+		message_log_append( "Sitename / Syscode: $site_name / $sys_code\n" );
+d246 1
+a246 1
+                echo "MySQL failed: " . $qry . "<br>\n";
+d252 2
+a253 1
+                echo "System Code '$sys_code' not found in site_operators table.<br>\n";
+d257 1
+d262 1
+a262 1
+	message_log_append( "Contract start / end: $start_date / $end_date\n" );
+a289 1
+		message_log_append( "Agency: $agent_name\n" );
+d291 1
+a291 1
+                echo "MySQL failed: " . $qry . "<br>\n";
+d297 2
+a298 1
+                echo "Agency name '$agent_name' not found in agencies table.<br>\n";
+d301 2
+d440 1
+a440 1
+		echo "Week " . $j . " begins " . $a[ $j ] . "\n";
+d647 1
+a647 2
+				echo "$spot_n  Week of " . $week_table[ $week ] . 
+					": " . $nsched . " spots\n";
+d721 1
+a721 3
+			if (DEBUG) {
+				echo "XML looks reasonable<br>\n";
+			}
+d733 1
+a733 3
+				if (DEBUG) {
+					echo "Order number is " . $order_number . "<br>\n";
+				}
+d743 1
+a743 1
+					echo "Error writing SQL order heading<br>\n";
+d752 1
+a752 1
+					echo "Error writing SQL order detail<br>\n";
+d761 2
+a762 1
+				echo "This is not Version 1 of this order.<br>\n";
+d768 1
+a768 1
+			echo "XML fails test number $err_num<br>\n";
+d775 1
+a775 1
+		echo "Can't connect to MySQL server<br>\n";
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@a178 1
+//	$sql .= "11080";	// hack for testing
+d200 1
+d219 2
+d244 1
+d258 3
+a260 1
+	$sql .= $comma . string_field( trim( $xml->campaign->dateRange->startDate )); // StartDate
+d262 2
+a263 1
+	$sql .= $comma . string_field( trim( $xml->campaign->dateRange->endDate )); // EndDate
+d288 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d20 2
+a21 2
+	if (preg_match( "/^[0-9][0-9]:[0-9][0-9]$/", $time1 ) &&
+	    preg_match( "/^[0-9][0-9]:[0-9][0-9]$/", $time2 )) {
+d177 1
+a177 1
+	$sql .= 'VALUES (';
+d723 1
+@

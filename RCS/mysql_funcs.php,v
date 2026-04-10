@@ -1,0 +1,500 @@
+head	1.17;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.17
+date	2014.03.10.19.34.27;	author root;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.02.22.07.42;	author root;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2012.10.03.23.20.04;	author root;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2012.10.03.21.28.45;	author root;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2010.08.03.19.19.43;	author root;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2010.07.19.19.50.58;	author james;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2010.07.19.18.57.51;	author james;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2010.06.30.21.35.17;	author james;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.06.25.08.11.30;	author james;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.06.25.03.05.28;	author james;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.25.00.40.49;	author james;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.24.23.57.12;	author james;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.24.22.10.32;	author james;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.24.20.13.37;	author james;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.09.22.01.47;	author james;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.09.19.37.55;	author james;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.09.19.32.11;	author james;	state Exp;
+branches;
+next	;
+
+
+desc
+@new file
+@
+
+
+1.17
+log
+@change $db_host to reference an IP alias specified in /etc/hosts
+@
+text
+@<?
+
+$test_db_host = "localhost";
+$test_db_user = "msm";
+$test_db_pwd  = "EetGiOj6";
+$test_db_pwd  = "claypigeon";
+$test_db_name = "test_msm";
+
+$db_host = "sql";	// resolvable in /etc/hosts
+$db_user = "addige";
+$db_name = "adsystems";
+$db_pwd  = "rubberchicken";
+
+if (TEST_DB) {
+	$db_host = $test_db_host;
+	$db_user = $test_db_user;
+	$db_name = $test_db_name;
+	$db_pwd  = $test_db_pwd;
+} // if
+
+
+$db_conn = mysql_connect( $db_host, $db_user, $db_pwd );
+mysql_select_db( $db_name, $db_conn );
+
+
+// some basic MySQL transaction handling routines:
+
+
+function open_mysql()
+{
+GLOBAL $db_conn, $db_host, $db_user, $db_pwd, $db_name;
+GLOBAL $msg_log;
+
+	$db_conn = mysql_connect( $db_host, $db_user, $db_pwd );
+	if ($db_conn && mysql_select_db( $db_name, $db_conn )) {
+		$result = TRUE;
+$qry = "set autocommit = 1";
+$result = mysql_query( $qry, $db_conn );
+	} else {
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+		$result = FALSE;
+	}
+	return( $result );
+
+} // open_mysql
+
+
+function begin( $db_conn )
+{
+GLOBAL $msg_log;
+
+message_log_append( $msg_log, "START TRANSACTION" );
+	return( mysql_query( "START TRANSACTION", $db_conn ) );
+}
+
+
+function commit( $db_conn )
+{
+GLOBAL $msg_log;
+
+message_log_append( $msg_log, "COMMIT" );
+	return( mysql_query( "COMMIT", $db_conn ) );
+}
+
+
+function rollback( $db_conn )
+{
+GLOBAL $msg_log;
+
+message_log_append( $msg_log, "ROLLBACK" );
+	return( mysql_query( "ROLLBACK", $db_conn ) );
+}
+
+
+function last_insert_id( $db_conn )
+{
+	$result = mysql_query( "SELECT LAST_INSERT_ID()", $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		$value = ($record ? $record[ 0 ] : NULL);
+	} else $value = NULL;
+	return( $value );
+}
+
+
+function field_list( $table, $db_conn )
+// return a string with the comma-separated list of fields in
+// $table.  return NULL on error.
+{
+	$result = mysql_query( "SHOW COLUMNS FROM $table", $db_conn );
+	if ($result) {
+		$value = "";
+		while ($record = mysql_fetch_array( $result )) {
+			$value .= "," . $record[ "Field" ];
+		}
+		$value = substr( $value, 1 ); // remove leading comma
+	} else $value = NULL;
+	return( $value );
+} // field_list
+
+
+function site_name( $db_conn )
+{
+	$result = mysql_query( "SELECT SiteName FROM temp_header", $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		$value = ($record) ? $record[ 0 ] : NULL;
+	} else $value = NULL;
+	return( $value );
+}
+
+
+function network_alias( $p_network, $db_conn )
+// Look up the NCC alias for the given network tag
+// return NULL if error.
+{
+	$qry = "SELECT NCCAlias from network WHERE Name = '$p_network'";
+	$result = mysql_query( $qry, $db_conn );
+	if ($result) {
+		$record = mysql_fetch_array( $result );
+		if ($record)
+			$value = $record[ 0 ];
+		else
+			$value = NULL;
+	} else $value = NULL;
+	return( $value );
+}
+
+
+function agency_record( $agency_name, $oper_name )
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+	$qry = "SELECT * FROM agencies WHERE Operator =  '$oper_name' " .
+			"AND Name = '$agency_name'";
+	if (($sql_result = mysql_query( $qry, $db_conn )) &&
+			($record = mysql_fetch_array( $sql_result ))) {
+		$result = $record;
+	} else {
+//		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+//		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+		$result = NULL;
+	}
+	return( $result );
+
+} // agency_record
+
+
+function cust_record( $cust_name, $oper_name )
+// fetch a record from the customer table and return
+// it as an array.  return NULL on error.
+{
+GLOBAL $db_conn;
+GLOBAL $msg_log;
+
+	$qry = "SELECT * FROM customers WHERE Operator =  '$oper_name' " .
+			"AND Name = '$cust_name'";
+	if (($sql_result = mysql_query( $qry, $db_conn )) &&
+			($record = mysql_fetch_array( $sql_result ))) {
+		$result = $record;
+	} else {
+//		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+//		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+		$result = NULL;
+	}
+	return( $result );
+
+} // cust_record
+
+
+?>
+@
+
+
+1.16
+log
+@update test db password
+@
+text
+@d9 1
+a9 1
+$db_host = "192.168.1.254";
+@
+
+
+1.15
+log
+@minor change in last_insert_id
+@
+text
+@d6 1
+@
+
+
+1.14
+log
+@add support for TEST_DB constant to select test SQL database
+@
+text
+@d79 1
+a79 1
+		$value = ($record) ? $record[ 0 ] : NULL;
+@
+
+
+1.13
+log
+@remove kludge to add Discount field to customer record.
+@
+text
+@d13 6
+a18 4
+//$db_host = $test_db_host;
+//$db_user = $test_db_user;
+//$db_name = $test_db_name;
+//$db_pwd  = $test_db_pwd;
+@
+
+
+1.12
+log
+@added commented-out hooks to test_db_* variables
+@
+text
+@a158 3
+// Kludge to add discount value:
+		if (is_null( $result[ 'Discount' ]))
+			$result[ 'Discount' ] = DEFAULT_CUST_DISCOUNT;
+@
+
+
+1.11
+log
+@declare test_db_* variable values
+@
+text
+@d13 4
+@
+
+
+1.10
+log
+@add product db creds
+@
+text
+@d3 4
+a6 6
+$db_host = "localhost";
+$db_user = "james";
+$db_user = "msm";
+$db_pwd  = "mysql";
+$db_pwd  = "EetGiOj6";
+$db_name = "test_msm";
+@
+
+
+1.9
+log
+@minor change in whitespace
+@
+text
+@d10 6
+@
+
+
+1.8
+log
+@comment out MSG_LOG_ERROR messages in customer and agency lookup functions.
+@
+text
+@d42 1
+a42 1
+	return( mysql_query( "START TRANSACTION", $db_conn ));
+d51 1
+a51 1
+	return( mysql_query( "COMMIT", $db_conn ));
+d60 1
+a60 1
+	return( mysql_query( "ROLLBACK", $db_conn ));
+@
+
+
+1.7
+log
+@move cust_record and agency_record functions into this file and
+out of parse_xml.php
+@
+text
+@d130 2
+a131 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+d155 2
+a156 2
+		message_log_append( $msg_log, "MySQL query failed: " . $qry, MSG_LOG_ERROR );
+		message_log_append( $msg_log, mysql_error( $db_conn ), MSG_LOG_ERROR );
+@
+
+
+1.6
+log
+@move db_host etc. out of testing-header.php and xml_import.php into here.
+@
+text
+@d79 4
+a82 4
+        $result = mysql_query( "SHOW COLUMNS FROM $table", $db_conn );
+        if ($result) {
+                $value = "";
+                while ($record = mysql_fetch_array( $result )) {
+d84 1
+a84 1
+                }
+d86 2
+a87 2
+        } else $value = NULL;
+        return( $value );
+d119 45
+@
+
+
+1.5
+log
+@change LOG_ to MSG_LOG_
+@
+text
+@d3 11
+@
+
+
+1.4
+log
+@convert calls to message_log_append
+@
+text
+@d18 1
+a18 1
+		message_log_append( $msg_log, mysql_error( $db_conn ), LOG_ERROR );
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d10 1
+d18 1
+a18 1
+		message_log_append( mysql_error( $db_conn ), LOG_ERROR );
+d28 3
+a30 1
+message_log_append( "START TRANSACTION" );
+d37 3
+a39 1
+message_log_append( "COMMIT" );
+d46 3
+a48 1
+message_log_append( "ROLLBACK" );
+@
+
+
+1.2
+log
+@add network_alias
+@
+text
+@d6 19
+d28 1
+a28 1
+	return( @@mysql_query( "START TRANSACTION", $db_conn ));
+d35 1
+a35 1
+	return( @@mysql_query( "COMMIT", $db_conn ));
+d42 1
+a42 1
+	return( @@mysql_query( "ROLLBACK", $db_conn ));
+d48 1
+a48 1
+	$result = @@mysql_query( "SELECT LAST_INSERT_ID()", $db_conn );
+d61 1
+a61 1
+        $result = @@mysql_query( "SHOW COLUMNS FROM $table", $db_conn );
+d75 1
+a75 1
+	$result = @@mysql_query( "SELECT SiteName FROM temp_header", $db_conn );
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d65 17
+@
